@@ -4,13 +4,13 @@
     - name: Full Name
       value: E B
     - name: Languages
-      value: Russian (C2), English (C1), Ukrainian (A2), French (A2).
+      value: Russian (C2), English (C1), Ukrainian (A2), French (A2)
 - title: Education
   type: time_table
   contents:
     - title: PhD
       institution: Maastricht University (NLD)
-      year: 2023-p.t.
+      year: 2023 - now
       description:
         - Description 1.
         - Description 2.
@@ -18,7 +18,7 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: MRes [Expected]
+    - title: MRes (Expected)
       institution: Utrecht University
       year: 2023
       description:
@@ -28,18 +28,18 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Adjunct Professor [pbp]
-      institution: School of Science, Free University of Moscow (Brıva Universitate) [LVA and RUS]
-      year: 2022–p.t.
+    - title: Adjunct Professor (pbp)
+      institution: School of Science, Free University of Moscow (Brıva Universitate) (LVA and RUS)
+      year: 2022 - now
     - title: Junior Lecturer
       institution: Utrecht School of Economics, Faculty of LEG, Utrecht University
-      year: 2021–2022
+      year: 2021 - 2022
     - title: Lecturer
-      institution: International College of Economics and Finance (ICEF), HSE University [Moscow, RUS]
+      institution: International College of Economics and Finance (ICEF), HSE University (Moscow, RUS)
       year: 2020 – 2022
       description:
     - title: Junior Lecturer
-      institution: School of Psychology, Faculty of Social Sciences, HSE University [Moscow, RUS]
+      institution: School of Psychology, Faculty of Social Sciences, HSE University (Moscow, RUS)
       year: 2019 – 2020
 
 - title: Honors and Awards
@@ -47,47 +47,43 @@
   contents:
     - year: 2023
       items: 
-        - Research Institute (Utrecht School of Economics) Small Research Grant [€3,000] for MRes Thesis;
-    - year: 2021-2023
+        - Research Institute (Utrecht School of Economics) Small Research Grant (€3,000) for MRes Thesis
+    - year: 2021 - 2023
       items: 
-        - Utrecht Excellence Scholarship [€56,000] -- 100% coverage of MRes tuition fee & living expenses;        
+        - Utrecht Excellence Scholarship (56000 EUR), 100% coverage of MRes tuition fee and living expenses       
     - year: 2019
       items: 
-        - Yandex.Toloka 1st Degree Small Research Grant [$500] (co-applicant with Varvara Ushakova);
+        - Yandex.Toloka 1st Degree Small Research Grant (500 USD) (co-applicant with Varvara Ushakova)
     - year: 2019
       items: 
-        - Yandex.Toloka 1st Degree Small Research Grant [$500] (co-applicant with Philipp Chapkovski);
+        - Yandex.Toloka 1st Degree Small Research Grant (500 USD) (co-applicant with Philipp Chapkovski)
     - year: 2019
       items: 
-        - Full Scholarship [$1,000] for 12th Experimental Economics Summer School in Macroeconomics;
-    - year: 2015-2019
+        - Full Scholarship (1000 USD) for 12th Experimental Economics Summer School in Macroeconomics
+    - year: 2015 - 2019
       items: 
-        - (Increased) National Academic Scholarship [∼€2,500];
-    - year: 2015-2019
+        - (Increased) National Academic Scholarship (2500 EUR)
+    - year: 2015 - 2019
       items: 
-        - Federal National-funded Grant €22,000 -- 100% coverage of BSc tuition fees;
+        - Federal National-funded Grant (22000 EUR), 100% coverage of BSc tuition fees
     - year: 2017
       items: 
-        - First Prize at project competition at 4th Summer School for Anti-Corruption Policy;
+        - First Prize in project competition at 4th Summer School for Anti-Corruption Policy
     - year: 2015
       items: 
-        - Winner of the Moscow Olympiad in Social Sciences.
+        - Winner of the Moscow Olympiad in Social Sciences
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Behavioural & Experimental Economics: 
+    - title: Behavioural & Experimental Economics 
       items: 
-        - (motivated) beliefs, trust, fairness, loneliness, deception;
-    - title: (Behavioural) Game Theory:
+        - (motivated) beliefs, trust, fairness, loneliness, deception
+    - title: (Behavioural) Game Theory
       items:
-        - quantal response equilibrium; level-k; cursed equilibrium;
-    - title: Political Economy & Political Economics:
+        - quantal response equilibrium; level-k; cursed equilibrium
+    - title: Political Economy and Political Economics
       items:
-        - voting, electoral control, propaganda, corruption, whistle-blowing;
+        - voting, electoral control, propaganda, corruption, whistle-blowing
 
 
-#- title: Other Interests
-#  type: list
-#  contents:
-#    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
