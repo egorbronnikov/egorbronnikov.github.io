@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: FUM
-description: Infro & Materials for courses taught at the FUM will be here soon.
+description: General info about the FUM and materials for courses taught will be here soon.
 nav: true
 nav_order: 5
 ---
