@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: FUM
-description: Materials for courses you taught. Replace this text with your description.
+description: Infro & Materials for courses taught at the FUM will be here soon.
 nav: true
 nav_order: 5
 ---
