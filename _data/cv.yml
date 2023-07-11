@@ -5,7 +5,6 @@
       value: E B
     - name: Languages
       value: Russian (C2), English (C1), Ukrainian (A2), French (A2).
-
 - title: Education
   type: time_table
   contents:
@@ -29,47 +28,19 @@
 - title: Experience
   type: time_table
   contents:
-#    - title: Professor of Theoretical Physics
-#      institution: Institute for Advanced Study, Princeton University
-#      year: 1933 - 1955
-#      description:
-#        - Description 1.
-#        - Description 2.
-#        - title: Description 3.
-#          contents:
-#            - Sub-description 1.
-#            - Sub-description 2.
-#    - title: Visiting Professor
-#      institution: California Institute of Technology, Pasadena, California, US
-#      year: 1933
-#      description:
-#        - Description 1.
-#        - Description 2.
-
     - title: Adjunct Professor [pbp]
       institution: School of Science, Free University of Moscow (Brıva Universitate) [LVA and RUS]
       year: 2022 – p.t.
-
-    
     - title: Junior Lecturer
       institution: Utrecht School of Economics, Faculty of LEG, Utrecht University
       year: 2021 – 2022
-
     - title: Lecturer
       institution: International College of Economics and Finance (ICEF), HSE University [Moscow, RUS]
       year: 2020 – 2022
       description:
-
     - title: Junior Lecturer
       institution: School of Psychology, Faculty of Social Sciences, HSE University [Moscow, RUS]
       year: 2019 – 2020
-
-#- title: Open Source Projects
-#  type: time_table
-#  contents:
-#    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-#      year: 2015-now
-#      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Honors and Awards
   type: time_table
@@ -77,7 +48,7 @@
     - year: 2023
       items: 
         - Research Institute (Utrecht School of Economics) Small Research Grant [€3,000] for MRes Thesis;
-    - year: 2021-2023
+    - year: 2021 - 2023
       items: 
         - Utrecht Excellence Scholarship [€56,000]: 100% coverage of MRes tuition fee & living expenses;        
     - year: 2019
@@ -86,14 +57,13 @@
     - year: 2019
       items: 
         - Yandex.Toloka 1st Degree Small Research Grant [$500]: co-applicant (with Philipp Chapkovski);
-    
     - year: 2019
       items: 
         - Full Scholarship [$1,000] for 12th Experimental Economics Summer School in Macroeconomics;
-    - year: 2015-2019
+    - year: 2015 - 2019
       items: 
         - (Increased) National Academic Scholarship [∼€2,500];
-    - year: 2015-2019
+    - year: 2015 - 2019
       items: 
         - Federal National-funded Grant [∼€22,000]: 100% coverage of BSc tuition fees;
     - year: 2017
