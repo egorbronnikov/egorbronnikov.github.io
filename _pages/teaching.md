@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /FUM/
-title: teaching
+permalink: /teaching/
+title: FUM
 description: Materials for courses you taught. Replace this text with your description.
 nav: true
 nav_order: 5
