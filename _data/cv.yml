@@ -78,12 +78,14 @@
         - Utrecht Excellence Scholarship (56000 EUR)
     - year: 2019
       items: 
-        - Yandex.Toloka 1st Degree Small Research Grant (500 USD) 
-        (co-applicant with Varvara Ushakova)
+        - Yandex.Toloka 1st Degree Small Research Grant (500 USD)
+      description:
+        - (co-applicant with Varvara Ushakova)
     - year: 2019
       items: 
         - Yandex.Toloka 1st Degree Small Research Grant (500 USD) 
-        (co-applicant with Philipp Chapkovski)
+      description:
+        - (co-applicant with Philipp Chapkovski)
     - year: 2019
       items: 
         - Full Scholarship (1000 USD) for 12th Experimental Economics Summer School in Macroeconomics
