@@ -4,7 +4,7 @@
     - name: Full Name
       value: E B
     - name: Languages
-      value: Russian (C2), English (C1), Ukrainian (A2), French (A2)
+      value: Russian (C2), English (C1), French (A2)
 - title: Education
   type: time_table
   contents:
@@ -25,7 +25,30 @@
         - D 1.
         - D 2.
 
-- title: Experience
+- title: RESEARCH APPOINTMENTS
+  type: time_table
+  contents:
+    - title: Doctoral Researcher
+      institution: School of Business and Economics, Maastricht University (Maastricht, NLD)
+      year: 2023 - now
+    - title: Pre-Doctoral Research Assistant
+      institution: Department of Economics, Faculty of Arts and Sciences, Harvard University (Cambridge, USA)
+      year: 2023 - now
+    - title: Research Assistant
+      institution: Utrecht School of Economics, Faculty of LEG, Utrecht University (Utrecht, NLD)
+      year: 2022 – 2023
+      description:
+    - title: Research Assistant
+      institution: Vienna Centre for Experimental Economics, University of Vienna (Vienna, AUS)
+      year: 2022, summer
+    - title: Research Assistant
+      institution: International Lab for Experimental and Behavioural Economics, HSE University (Moscow, RUS)
+      year: 2018 – 2021
+    - title: Research Assistant
+      institution: Laboratory for Anti-Corruption Policy, HSE University & Transparency International Russia (Moscow, RUS)
+      year: 2017 – 2018
+
+- title: TEACHING APPOINTMENTS
   type: time_table
   contents:
     - title: Adjunct Professor (pbp)
