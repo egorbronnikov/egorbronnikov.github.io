@@ -39,15 +39,11 @@
         - D 1.
         - D 2.
     - title: Tilburg School of Economics and Management, Tilburg University
-      institution: Visiting MRes Student
+      institution: Visiting MRes Student in Behavioural Economics (Economics track)
       year: 2023, Spring
-      description:
-        - Minor in Behavioural Economics (Economics track)
     - title: Tilburg School of Social and Behavioral Sciences, Tilburg University
-      institution: Visiting MRes Student
+      institution: Visiting MRes Student in Behavioural Economics (Psychology track)
       year: 2023, fall
-      description:
-        - Minor in Behavioural Economics (Psychology track)
     - title: Faculty of International Economic Relations, Financial University
       institution: BSc in Economics 
       year: 2023
@@ -82,7 +78,7 @@
   type: time_table
   contents:
     - title: School of Science, Free University of Moscow (Brıva Universitate) 
-      institution: Adjunct Professor, pbp 
+      institution: Adjunct Professor, <i>pbp</i> 
       year: 2022 - now
     - title: Utrecht School of Economics, Utrecht University
       institution: Junior Lecturer
