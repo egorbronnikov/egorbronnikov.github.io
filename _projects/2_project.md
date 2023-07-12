@@ -6,21 +6,6 @@ importance: 2
 category: Working Papers
 ---
 
-<table>
-  <tr>
-    <td>Working Title:</td>
-    <td>Paper Type:</td>
-    <td>Current Stage:</td>
-    <td>Previous Stage:</td>
-  </tr>
-  <tr>
-    <td>Book Review of 'Social Preferences' by Michalis Drouvelis</td>
-    <td>Book Review</td>
-    <td><i>Journal of Economic Methodology</i> -- Under Review (2023, July)</td>
-    <td><i>Journal of Economic Methodology</i> -- Initial Review Pre-submission Approved (2023, January)</td>
-  </tr>
-</table>
-
 
 <table>
   <tr>
@@ -33,11 +18,11 @@ category: Working Papers
   </tr>
   <tr>
     <td>Current Stage:</td>
-    <td><i>Journal of Economic Methodology</i> -- Under Review (2023, July)</td>
+    <td><i>Journal of Economic Methodology</i>, Under Review</td>
   </tr>
   <tr>
-    <td>Previous Stage:</td>
-    <td><i>Journal of Economic Methodology</i> -- Initial Review Pre-submission Approved (2023, January)</td>
+    <td>Data:</td>
+    <td>(2023, July)</td>
   </tr>
 </table>
 
