@@ -28,7 +28,7 @@ category: Working Papers
     <td>Book Review of 'Social Preferences' by Michalis Drouvelis</td>
   </tr>
   <tr>
-    <td>Type:</td>
+    <td>Paper Type:</td>
     <td>Book Review</td>
   </tr>
   <tr>
