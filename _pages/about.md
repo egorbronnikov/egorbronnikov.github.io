@@ -7,7 +7,7 @@ subtitle: Maastricht University, Harvard University, and the Free University of 
 profile:
   align: left  # right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   address: >
     <p>Tongersestraat 53,</p>
     <p>6211 LM, Maastricht</p>
