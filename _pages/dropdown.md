@@ -11,6 +11,8 @@ children:
     - title: Projects
       permalink: /projects/
     - title: divider
-    - title: Namesake
+    - title: Not Me
       permalink: /namesake/
 ---
+
+
