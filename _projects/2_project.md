@@ -22,7 +22,7 @@ category: Working Papers
   </tr>
   <tr>
     <td>Data:</td>
-    <td>(2023, July)</td>
+    <td>2023, July</td>
   </tr>
 </table>
 
