@@ -2,7 +2,6 @@
 layout: page
 title: 'Social Preferences' by Michalis Drouvelis.
 description: Future Book Review 
-img: assets/img/3.jpg
 importance: 2
 category: Working Papers
 ---
