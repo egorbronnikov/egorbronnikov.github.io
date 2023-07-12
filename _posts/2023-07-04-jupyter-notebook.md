@@ -1,6 +1,6 @@
 ---
 layout: post
-title: a post with jupyter notebook
+title: My Review of XXX by Dr Dr at the LSE RoB
 date: 2023-07-11 20:57:00-0400
 description: My New Post at the LSE Review of Books
 categories: sample-posts jupyter-notebook
