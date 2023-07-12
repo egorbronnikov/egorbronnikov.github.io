@@ -5,7 +5,7 @@ permalink: /projects/
 description: Some of the current research projects.
 nav: true
 nav_order: 2
-display_categories: [WORKING PAPERS, WORK IN PROGRESS]
+display_categories: [Working Papers, Work In Progress]
 horizontal: false
 ---
 
