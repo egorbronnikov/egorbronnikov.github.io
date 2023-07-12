@@ -9,7 +9,7 @@ category: Working Papers
 <table>
   <tr>
     <td>Working Title:</td>
-    <td>Type:</td>
+    <td>Paper Type:</td>
     <td>Current Stage:</td>
     <td>Previous Stage:</td>
   </tr>
