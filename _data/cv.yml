@@ -22,7 +22,7 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: PhD in (Behavioural) Microeconomics
       institution: Maastricht University
       year: 2023 - now
       description:
@@ -32,8 +32,24 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: MRes (Expected)
-      institution: Utrecht University
+    - title: MRes in Economics (Expected)
+      institution: Utrecht School of Economics, Utrecht University
+      year: 2023
+      description:
+        - D 1.
+        - D 2.
+    - title: Visiting MRes Student
+      institution: Tilburg School of Economics and Management, Tilburg University
+      year: 2023, Spring
+      description:
+        - Minor in Behavioural Economics (Economics track)
+    - title: Visiting MRes Student
+      institution: Tilburg School of Social and Behavioral Sciences, Tilburg University
+      year: 2023, fall
+      description:
+        - Minor in Behavioural Economics (Psychology track)
+    - title: BSc in Economics 
+      institution: Faculty of International Economic Relations, Financial University
       year: 2023
       description:
         - D 1.
