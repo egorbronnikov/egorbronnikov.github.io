@@ -26,7 +26,6 @@ category: Working Papers
   </tr>
 </table>
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
     ---
     layout: page
