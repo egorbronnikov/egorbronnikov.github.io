@@ -1,7 +1,7 @@
 ---
 layout: page
 title: project 4
-description: another without an image
+description: Future Book Review 
 img:
 importance: 3
 category: Work In Progress
