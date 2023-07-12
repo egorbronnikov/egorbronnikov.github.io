@@ -3,7 +3,6 @@ layout: page
 title: project 3
 description: Future Book Review 
 img: 
-redirect: https://unsplash.com
 importance: 3
 category: Working Papers
 ---
