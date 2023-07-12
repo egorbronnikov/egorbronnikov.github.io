@@ -7,18 +7,10 @@ nav: true
 nav_order: 2
 display_categories: [Working Papers, Work In Progress, Other Projects]
 horizontal: true
-working_papers: true # includes a list of papers marked as "working={true}"
+working_papers: true 
+work_in_progress_papers: true 
 ---
 
-
-
-<!-- _pages/publications.md -->
-
-<div class="publications">
-  
-{% bibliography -f {{ site.scholar.bibliography }} %}
-
-</div>
 
 
 <!-- pages/projects.md -->
