@@ -3,8 +3,7 @@ layout: namesake
 permalink: /namesake/
 title: Not Me
 description: Brief info about my namesake will be here soon.
-nav: true
-nav_order: 5
+nav: false
 ---
 
 Not me: (TBA).
