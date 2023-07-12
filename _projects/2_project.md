@@ -6,14 +6,6 @@ importance: 2
 category: Working Papers
 ---
 
-Working Title -- Book Review of 'Social Preferences' by Michalis Drouvelis.
-
-Type -- Book Review 
-
-Current Stage -- (2023, July) Under Review  at the <i>Journal of Economic Methodology</i>
-
-Previous Stage -- (2023, January) Initial Review Pre-submission Approved  at the <i>Journal of Economic Methodology</i>
-
 
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
