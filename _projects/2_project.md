@@ -1,12 +1,15 @@
 ---
 layout: page
-title: 'Social Preferences' by Michalis Drouvelis
+title: Project 2
 description: Future Book Review 
 importance: 2
 category: Working Papers
 ---
 
 
+
+
+'Social Preferences' by Michalis Drouvelis
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
