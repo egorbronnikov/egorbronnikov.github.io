@@ -29,7 +29,8 @@ My research interests are Behavioural and Experimental Economics, (Behavioural) 
 
 Additionally, I serve as a pro bono publico adjunct professor of behavioural economics at the School of Science at the Free University of Moscow (Brīvā Universitāte), a tuition-free online University committed to providing state-of-the-art courses the majority of which are exiled from the contemporary State Russian Universities. You can read more about the Free University of Moscow [here](/teaching/).
 
-Inter alia, I am a member of Dissernet, an academic network for science integrity that examines, documents and fights against plagiarism in Russian Doctoral and Habilitation theses (you can find more information either on [the Wiki page](https://en.wikipedia.org/wiki/Dissernet) or (if you can read it in Russian) on [the official website](https://www.dissernet.org/)).
+
+<i>Inter alia</i>, I am a member of Dissernet, an academic network for science integrity that examines, documents and fights against plagiarism in Russian Doctoral and Habilitation theses (you can find more information either on [the Wiki page](https://en.wikipedia.org/wiki/Dissernet) or (if you can read it in Russian) on [the official website](https://www.dissernet.org/)).
 
 
 
