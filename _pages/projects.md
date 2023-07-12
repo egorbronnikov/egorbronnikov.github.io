@@ -7,6 +7,7 @@ nav: true
 nav_order: 2
 display_categories: [Working Papers, Work In Progress, Other Projects]
 horizontal: true
+working_paper: true # includes a list of papers marked as "working_paper={true}"
 ---
 
 <!-- pages/projects.md -->
