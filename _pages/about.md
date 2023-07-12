@@ -21,8 +21,31 @@ social: true  # includes social icons at the bottom of the page
 
 
 
-CURRENTLY, THIS SITE IS UNDER DEVELOPMENT. I am a d. r. at U1 and p. r. a. at U2. Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+!!!!! CURRENTLY, THIS SITE IS UNDER DEVELOPMENT !!!!! 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am a doctoral researcher and PhD Candidate in Economics at the School of Business and Economics at Maastricht University (the Netherlands) and a research assistant at the Faculty of Economics at Harvard University (the USA).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research interests are Behavioural and Experimental Economics, (Behavioural) Game Theory, and Political Economy.
+
+Additionally, I serve as a pro bono publico adjunct professor of behavioural economics at the School of Science at the Free University of Moscow (Brīvā Universitāte), a tuition-free online University committed to providing state-of-the-art courses the majority of which are exiled from the contemporary State Russian Universities. You can read more about the Free University of Moscow [here](/teaching/).
+
+Inter alia, I am a member of Dissernet, an academic network for science integrity that examines, documents and fights against plagiarism in Russian Doctoral and Habilitation theses (you can find more information either on [the Wiki page](https://en.wikipedia.org/wiki/Dissernet) or (if you can read it in Russian) on [the official website](https://www.dissernet.org/)).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
