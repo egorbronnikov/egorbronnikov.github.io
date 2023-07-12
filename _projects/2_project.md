@@ -6,7 +6,7 @@ importance: 2
 category: Working Papers
 ---
 
-Working Еitle -- Book Review of 'Social Preferences' by Michalis Drouvelis.
+Working Title -- Book Review of 'Social Preferences' by Michalis Drouvelis.
 
 Type -- Book Review 
 
