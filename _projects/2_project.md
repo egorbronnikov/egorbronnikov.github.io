@@ -1,7 +1,7 @@
 ---
 layout: page
 title: project 2
-description: Type\: Book Review 
+description: Type &colon Book Review 
 img: assets/img/3.jpg
 importance: 2
 category: Working Papers
