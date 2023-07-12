@@ -6,7 +6,7 @@ description: Some of the current research projects.
 nav: true
 nav_order: 2
 display_categories: [Working Papers, Work In Progress]
-horizontal: false
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
