@@ -1,14 +1,14 @@
 ---
 layout: post
 title: a post with jupyter notebook
-date: 2023-07-04 08:57:00-0400
-description: an example of a blog post with jupyter notebook
+date: 2023-07-11 20:57:00-0400
+description: My New Post at the LSE Review of Books
 categories: sample-posts jupyter-notebook
 giscus_comments: true
 related_posts: false
 ---
 
-To include a jupyter notebook in a post, you can use the following code:
+Here you can find ... .
 
 {% raw %}
 
