@@ -6,14 +6,20 @@ importance: 2
 category: Working Papers
 ---
 
-Working Title: Book Review of 'Social Preferences' by Michalis Drouvelis.
-
-Type: Book Review 
-
-Current Stage: <i>Journal of Economic Methodology</i> -- Under Review (2023, July)
-
-Previous Stage: <i>Journal of Economic Methodology</i> -- Initial Review Pre-submission Approved (2023, January)
-
+<table>
+  <tr>
+    <td>Working Title:</td>
+    <td>Type:</td>
+    <td>Current Stage:</td>
+    <td>Previous Stage:</td>
+  </tr>
+  <tr>
+    <td>Book Review of 'Social Preferences' by Michalis Drouvelis</td>
+    <td>Book Review</td>
+    <td><i>Journal of Economic Methodology</i> -- Under Review (2023, July)</td>
+    <td><i>Journal of Economic Methodology</i> -- Initial Review Pre-submission Approved (2023, January)</td>
+  </tr>
+</table>
 
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
