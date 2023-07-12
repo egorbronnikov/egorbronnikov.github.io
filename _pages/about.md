@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: MU, HU, FU
+subtitle: MU, HU, FUM
 
 profile:
   align: right
