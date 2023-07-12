@@ -2,16 +2,22 @@
 layout: about
 title: about
 permalink: /
-subtitle: MU, HU, FUM
+subtitle: Maastricht University, Harvard University, and Free University of Moscow
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>MPE D.</p>
-    <p>MU</p>
-    <p>M, the N</p>
+    <p>Department of Microeconomics and Public Economics</p>
+    <p>School of Business and Economics</p>
+    <p>Maastricht University</p>
+    <p>Tongersestraat 53,</p>
+    <p>6211 LM, Maastricht</p>
+    <p>The Netherlands</p>
+
+
+
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
