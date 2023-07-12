@@ -1,15 +1,18 @@
 ---
 layout: page
-title: project 2
+title: 'Social Preferences' by Michalis Drouvelis.
 description: Future Book Review 
 img: assets/img/3.jpg
 importance: 2
 category: Working Papers
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Working Еitle: Book Review of 'Social Preferences' by Michalis Drouvelis.
+Type: Book Review 
+Current Stage: (2023, July) Under Review  at the <i>Journal of Economic Methodology<\i>
+Previous Stage: (2023, January) Initial Review Pre-submission Approved  at the <i>Journal of Economic Methodology<\i>
+
+
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
