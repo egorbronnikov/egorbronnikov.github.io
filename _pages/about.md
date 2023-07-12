@@ -20,8 +20,8 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
+<b>!!!!! CURRENTLY, THIS SITE IS UNDER DEVELOPMENT !!!!! </b>
 
-!!!!! CURRENTLY, THIS SITE IS UNDER DEVELOPMENT !!!!! 
 
 I am a doctoral researcher and PhD Candidate in Economics at the School of Business and Economics at Maastricht University (the Netherlands) and a research assistant at the Faculty of Economics at Harvard University (the USA).
 
