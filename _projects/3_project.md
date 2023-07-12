@@ -10,7 +10,7 @@ category: Working Papers
 <table>
   <tr>
     <td>Working Title:</td>
-    <td>Book Review of 'Social Preferences' by Michalis Drouvelis</td>
+    <td>Book Review of 'Game Theory and Behavior' by J. Carpenter & A. Robbett.</td>
   </tr>
   <tr>
     <td>Paper Type:</td>
@@ -18,11 +18,11 @@ category: Working Papers
   </tr>
   <tr>
     <td>Current Stage:</td>
-    <td><i>Journal of Economic Methodology</i>, Under Review</td>
+    <td><i>Evolution and Human Behavior</i>, Under Review</td>
   </tr>
   <tr>
     <td>Data:</td>
-    <td>2023, July</td>
+    <td>2023, February</td>
   </tr>
 </table>
 
