@@ -60,10 +60,18 @@ layout: default
 
           <!-- Working papers -->
           {% if page.working_papers -%}
-            <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">Working Publications</a></h2>
+            <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">Working Papers</a></h2>
             {%- include working_papers.html %}
           {%- endif %}    
 
+          <!-- Work In Progress papers -->
+          {% if page.work_in_progress_papers -%}
+            <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">Work In Progress</a></h2>
+            {%- include work_in_progress_papers.html %}
+          {%- endif %}   
+
+
+              
           <!-- Social -->
           {%- if page.social %}
             <div class="social">
