@@ -17,7 +17,7 @@ profile:
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
-working_papers: true 
+working_papers: false 
 work_in_progress_papers: false 
 social: false  # includes social icons at the bottom of the page
 ---
