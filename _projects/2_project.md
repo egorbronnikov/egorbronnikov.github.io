@@ -22,6 +22,25 @@ category: Working Papers
 </table>
 
 
+<table>
+  <tr>
+    <td>Working Title:</td>
+    <td>Book Review of 'Social Preferences' by Michalis Drouvelis</td>
+  </tr>
+  <tr>
+    <td>Type:</td>
+    <td>Book Review</td>
+  </tr>
+  <tr>
+    <td>Current Stage:</td>
+    <td><i>Journal of Economic Methodology</i> -- Under Review (2023, July)</td>
+  </tr>
+  <tr>
+    <td>Previous Stage:</td>
+    <td><i>Journal of Economic Methodology</i> -- Initial Review Pre-submission Approved (2023, January)</td>
+  </tr>
+</table>
+
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
     ---
