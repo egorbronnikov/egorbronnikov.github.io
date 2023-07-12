@@ -7,11 +7,25 @@ importance: 3
 category: Working Papers
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+<table>
+  <tr>
+    <td>Working Title:</td>
+    <td>Book Review of 'Social Preferences' by Michalis Drouvelis</td>
+  </tr>
+  <tr>
+    <td>Paper Type:</td>
+    <td>Book Review</td>
+  </tr>
+  <tr>
+    <td>Current Stage:</td>
+    <td><i>Journal of Economic Methodology</i>, Under Review</td>
+  </tr>
+  <tr>
+    <td>Data:</td>
+    <td>2023, July</td>
+  </tr>
+</table>
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
     ---
     layout: page
