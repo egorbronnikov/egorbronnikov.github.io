@@ -7,13 +7,13 @@ importance: 2
 category: Working Papers
 ---
 
-Working Еitle: Book Review of 'Social Preferences' by Michalis Drouvelis.
+Working Еitle -- Book Review of 'Social Preferences' by Michalis Drouvelis.
 
-Type: Book Review 
+Type -- Book Review 
 
-Current Stage: (2023, July) Under Review  at the <i>Journal of Economic Methodology</i>
+Current Stage -- (2023, July) Under Review  at the <i>Journal of Economic Methodology</i>
 
-Previous Stage: (2023, January) Initial Review Pre-submission Approved  at the <i>Journal of Economic Methodology</i>
+Previous Stage -- (2023, January) Initial Review Pre-submission Approved  at the <i>Journal of Economic Methodology</i>
 
 
 
