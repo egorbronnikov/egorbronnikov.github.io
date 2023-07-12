@@ -10,6 +10,17 @@ horizontal: true
 working_papers: true # includes a list of papers marked as "working={true}"
 ---
 
+
+
+<!-- _pages/publications.md -->
+
+<div class="publications">
+  
+{% bibliography -f {{ site.scholar.bibliography }} %}
+
+</div>
+
+
 <!-- pages/projects.md -->
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
