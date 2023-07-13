@@ -267,8 +267,10 @@ jekyll-archives:
     tag: '/blog/tag/:name/'
     category: '/blog/category/:name/'
 
-display_tags: ['formatting', 'images', 'links', 'math', 'code'] # these tags will be displayed on the front page of your blog
-display_categories: ['blockquotes'] # these categories will be displayed on the front page of your blog
+display_tags: ['books', 'bookreviews', 'opinion', 'opinionpiece'] # these tags will be displayed on the front page of your blog
+display_categories: ['LSE-Review-of-Books', 'Opinion', 'FUM'] # these categories will be displayed on the front page of your blog
+
+
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
@@ -277,7 +279,7 @@ display_categories: ['blockquotes'] # these categories will be displayed on the 
 scholar:
 
   last_name: [Br.]
-  first_name: [Egor, V.]
+  first_name: [Egor, E.]
 
   style: apa
   locale: en
