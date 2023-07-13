@@ -1,5 +1,5 @@
 ---
-layout: namesake
+layout: page
 permalink: /namesake/
 title: Not Me
 description: Brief info about my namesake will be here soon.
