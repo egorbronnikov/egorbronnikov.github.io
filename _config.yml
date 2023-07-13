@@ -122,9 +122,9 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: UNDER DEVELOPMENT
+blog_name: My Blog # blog_name will be displayed in your blog page
+blog_nav_title: Blog # your blog must have a title for it to be displayed in the nav bar
+blog_description: Young Economist Blog
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -162,7 +162,7 @@ external_sources:
   - name: medium.com
     rss_url: https://medium.com/@al-folio/feed
   - name: blogs.lse.ac.uk
-    rss_url: https://medium.com/@al-folio/feed
+    rss_url: https://blogs.lse.ac.uk/lsereviewofbooks/
 
 
 
