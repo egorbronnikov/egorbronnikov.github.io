@@ -161,8 +161,8 @@ disqus_shortname: al-folio # put your disqus shortname
 external_sources:
   - name: medium.com
     rss_url: https://medium.com/@al-folio/feed
-  - name: blogs.lse.ac.uk
-    rss_url: https://blogs.lse.ac.uk/lsereviewofbooks/
+ # - name: blogs.lse.ac.uk
+ #   rss_url: https://blogs.lse.ac.uk/lsereviewofbooks/
 
 
 
