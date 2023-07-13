@@ -2,7 +2,10 @@
 layout: about
 title: About
 permalink: /
-subtitle: Maastricht University, Harvard University, and the Free University of Moscow
+subtitle: <a href='https://www.maastrichtuniversity.nl/about-um/faculties/school-business-and-economics'>Maastricht University</a>, <a href='https://economics.harvard.edu/'>Harvard University</a>, \& <a href='https://freemoscow.university/?lang=en'>the Free University of Moscow</a>
+
+
+
 
 profile:
   align: left  # right
