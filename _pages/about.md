@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://www.maastrichtuniversity.nl/about-um/faculties/school-business-and-economics'>Maastricht University</a>, <a href='https://economics.harvard.edu/'>Harvard University</a>, \& <a href='https://freemoscow.university/?lang=en'>the Free University of Moscow</a>
+subtitle: <a href='https://www.maastrichtuniversity.nl/about-um/faculties/school-business-and-economics'>Maastricht University</a>, <a href='https://economics.harvard.edu/'>Harvard University</a>, & <a href='https://freemoscow.university/?lang=en'>the Free University of Moscow</a>
 
 
 
