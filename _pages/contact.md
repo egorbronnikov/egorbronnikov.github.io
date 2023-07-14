@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 description: Brief info about how to contact me will be here soon.
 nav: true
-nav_order: 7
+nav_order: 6
 ---
 
 Brief info about how to contact me will be here soon.
