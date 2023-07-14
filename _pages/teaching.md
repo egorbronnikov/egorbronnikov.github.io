@@ -4,7 +4,7 @@ permalink: /teaching/
 title: FUM
 description: General info about the FUM and materials for courses taught will be here soon.
 nav: true
-nav_order: 5
+nav_order: 4
 ---
 
 General & brief info on the FUM will be here soon.
