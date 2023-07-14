@@ -7,6 +7,5 @@ nav: true
 nav_order: 5
 ---
 
-Brief info about how to contact me will be here soon.
+Please see my contact details below.
 
-(TBA)
