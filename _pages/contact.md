@@ -21,8 +21,8 @@ social: true  # includes social icons at the bottom of the page
 
 Please feel free to contact me. 
 
-You can do so by sending an email \\
-either to [Gmail](mailto:e.v.bronnikov@gmail.com) (preferable option) \\
+You can do so by sending an email \
+either to [Gmail](mailto:e.v.bronnikov@gmail.com) (preferable option) \
 or [university mail](mailto:e.bronnikov@tilburguniversity.edu).
 
 
