@@ -6,7 +6,7 @@ nav_order: 6
 dropdown: true
 children: 
     - title: About
-      permalink: /about/
+      permalink: /
     - title: divider
     - title: Blog
       permalink: /blog/
