@@ -1,5 +1,5 @@
 ---
-layout: projects
+layout: page
 title: Projects
 permalink: /projects/
 description: Some of the current research projects.
