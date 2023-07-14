@@ -3,7 +3,8 @@ layout: page
 title: Contact
 permalink: /contact/
 description: Brief info about how to contact me will be here soon.
-nav: false
+nav: true
+nav_order: 7
 ---
 
 Brief info about how to contact me will be here soon.
