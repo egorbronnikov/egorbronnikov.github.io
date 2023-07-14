@@ -6,7 +6,7 @@
     - name: Languages
       value: Russian (C2), English (C1), French (A2)
     - name: Programming
-      value: R (adv.), Stata (interm.), Python (interm.), HTML (basic), SQL (basic),  LATEX(adv.)
+      value: R (adv.), Stata (interm.), Python (interm.), HTML (basic), SQL (basic),  LATEX (adv.)
     - name: Frameworks
       value: oTree (adv.), Qualtrics (adv.), zTree (basic)
 
