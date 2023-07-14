@@ -8,7 +8,6 @@ profile:
   image: MPE_SBE.jpeg
   image_circular: true # crops the image to make it circular
   address: >
-    <p>**MPE**, **SBE**, **MU**</p>
     <p>Tongersestraat 53,</p>
     <p>6211 LM, Maastricht</p>
     <p>The Netherlands</p>
