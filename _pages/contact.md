@@ -19,10 +19,8 @@ nav_order: 5
 social: true  # includes social icons at the bottom of the page
 ---
 
-\
 
 
-\
 
 
 Please feel free to contact me. 
