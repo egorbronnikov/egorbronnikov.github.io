@@ -5,6 +5,8 @@
       value: E B
     - name: Languages
       value: Russian (C2), English (C1), French (A2)
+    - name: Programming
+      value: Russian (C2), English (C1), French (A2)
 
 - title: Academic Interests
   type: nested_list
@@ -36,11 +38,13 @@
       institution: MRes in Economics (Expected) 
       year: 2023
       description:
-        - D 1.
-        - D 2.
+        - 1st in 'Advanced Business Economics' course
+        - 2nd in 'Advanced Econometrics II' course
     - title: Tilburg School of Economics and Management, Tilburg University
       institution: Visiting MRes Student in Behavioural Economics (Economics track)
       year: 2023, Spr.
+      description:
+        - 3rd in 'Consumer Behavior' PhD course
     - title: Tilburg School of Social and Behavioral Sciences, Tilburg University
       institution: Visiting MRes Student in Behavioural Economics (Psychology track)
       year: 2023, fall
@@ -48,8 +52,9 @@
       institution: BSc in Economics 
       year: 2023
       description:
-        - D 1.
-        - D 2.
+        - 1st in 'Econometrics' course
+        - 1st in 'Probability Theory & Math Statistics' course
+
 
 - title: Research Appointments
   type: time_table
