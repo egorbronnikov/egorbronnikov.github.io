@@ -8,9 +8,7 @@ profile:
   image: MPE_SBE.jpeg
   image_circular: true # crops the image to make it circular
   address: >
-    <p>Micro- & Public Economics Department</p>
-    <p>School of Business and Economic</p>
-    <p> </p>
+    <p>**MPE**, **SBE**, **MU**</p>
     <p>Tongersestraat 53,</p>
     <p>6211 LM, Maastricht</p>
     <p>The Netherlands</p>
