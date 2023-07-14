@@ -20,8 +20,8 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-
-
+<br /> 
+<br /> 
 
 Please feel free to contact me. 
 
