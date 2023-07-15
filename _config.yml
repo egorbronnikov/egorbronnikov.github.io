@@ -268,8 +268,8 @@ jekyll-archives:
     tag: '/blog/tag/:name/'
     category: '/blog/category/:name/'
 
-display_tags: ['books', 'bookreviews', 'opinion', 'opinionpiece', 'education'] # these tags will be displayed on the front page of your blog
-display_categories: ['LSE-Review-of-Books', 'Opinion', 'FUM'] # these categories will be displayed on the front page of your blog
+display_tags: ['books', 'bookreviews'] # these tags will be displayed on the front page of your blog
+display_categories: ['LSE-Review-of-Books'] # these categories will be displayed on the front page of your blog
 
 
 
