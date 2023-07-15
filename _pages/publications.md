@@ -7,7 +7,14 @@ nav: true
 nav_order: 1
 working_papers: false # includes a list of papers marked as "working={true}"
 work_in_progress_papers: false
-published_papers: true
 ---
 
 
+
+<!-- _pages/publications.md -->
+
+<div class="publications">
+  
+{% bibliography -f {{ site.scholar.bibliography }} %}
+
+</div>
