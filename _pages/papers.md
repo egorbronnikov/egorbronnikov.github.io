@@ -1,0 +1,13 @@
+---
+layout: page
+title: Publications
+permalink: /papers/
+description: Some of the current research projects.
+nav: true
+nav_order: 8
+working_papers: false 
+work_in_progress_papers: false
+published_papers: true
+---
+
+
