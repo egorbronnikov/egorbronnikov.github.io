@@ -14,7 +14,4 @@ nav: false
 
 &#x2022; Member of the Society for Experimental Finance ([SEF](https://www.experimentalfinance.org/));
 
-&#x2022; Member of the Replication Network ([TRN](https://replicationnetwork.com/));
-
-
-...
+&#x2022; Member of the Replication Network ([TRN](https://replicationnetwork.com/)).
