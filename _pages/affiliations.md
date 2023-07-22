@@ -1,8 +1,8 @@
 
 ---
 layout: page
-permalink: /teaching/
-title: FUM
+permalink: /affiliations/
+title: Affiliations
 description: General info about my current affiliations
 nav: false
 ---
