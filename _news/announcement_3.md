@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-This Week: QUT Winter School on Evolutionary Foundations of Economic Behaviour!
+I am participating in the QUT Winter School on Evolutionary Foundations of Economic Behaviour!
