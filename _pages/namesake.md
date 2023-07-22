@@ -6,7 +6,7 @@ description: Brief info about my namesake.
 nav: false
 ---
 
-People, who are not me:
+People who you might be looking for and who are not me:
 
 &#x2022; Egor Bronnikov, a Linux enthusiast and 4th-year student of St. Petersburg State University of Economics ([link](https://github.com/endygamedev));
 
