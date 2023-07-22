@@ -13,17 +13,21 @@ related_posts: false
 
 ***
 
+
+
 Several open letters I joined:
 
 <ul>
     <li>
-        Open Letter by Russian-speaking Academic Economists: [Stop The War!](https://sites.google.com/view/netvoine-en)
+        Open Letter by Russian-speaking Academic Economists: <a href="https://sites.google.com/view/netvoine-en">Stop The War!</a>
     </li>
     <li>
-        Open Letter _[On Putin’s War in Ukraine and the Future of International Academic Cooperation](https://academiccooperationletter.wordpress.com/)_
+        Open Letter <a href="https://academiccooperationletter.wordpress.com/">On Putin’s War in Ukraine and the Future of International Academic Cooperation</a>
     </li>
     <li>c</li>
 </ul>
+
+
 
 ***
 
