@@ -1,8 +1,13 @@
 ---
 layout: post
-title: [I joined an Open Letter by Russian-speaking Academic Economists: Stop The War!](https://sites.google.com/view/netvoine-en)
+title: I joined an Open Letter by Russian-speaking Academic Economists: Stop The War!
 date: 2022-02-26 10:00:00-0400
-inline: true
+inline: false
 related_posts: false
 ---
 
+***
+
+I joined an Open Letter by Russian-speaking Academic Economists: [Stop The War!](https://sites.google.com/view/netvoine-en)
+
+***
