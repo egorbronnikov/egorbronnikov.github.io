@@ -26,6 +26,9 @@ children:
     - title: Not Me
       permalink: /namesake/
     - title: divider
+    - title: affiliations
+      permalink: /contact/
+    - title: divider
     - title: Contact
       permalink: /contact/
 ---
