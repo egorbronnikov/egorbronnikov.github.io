@@ -20,6 +20,10 @@ TEXT
 </ul>
 
 
+Open Letter by Russian-speaking Academic Economists: [Stop The War!](https://sites.google.com/view/netvoine-en)
+
+Open Letter _[On Putin’s War in Ukraine and the Future of International Academic Cooperation](https://academiccooperationletter.wordpress.com/)_
+
 ***
 
 TEXT
