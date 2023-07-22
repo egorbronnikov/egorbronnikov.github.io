@@ -2,11 +2,14 @@
 layout: page
 title: Not Me
 permalink: /namesake/
-description: Brief info about my namesake will be here soon.
+description: Brief info about my namesake.
 nav: false
 ---
 
-Brief info about my namesake will be here soon.
+People, who are not me:
 
-(TBA)
+&#x2022; Egor Bronnikov, a Linux enthusiast and 4th-year student of St. Petersburg State University of Economics ([link](https://github.com/endygamedev));
+
+&#x2022; Egor Bronnikov, a chess player ([link](https://ratings.fide.com/profile/44100477));
+
 
