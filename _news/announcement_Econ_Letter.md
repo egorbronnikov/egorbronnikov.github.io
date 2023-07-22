@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I joined an Open Letter by Russian-speaking Academic Economists
+title: Open Letter by Russian-speaking Academic Economists: <a href="https://sites.google.com/view/netvoine-en">Stop The War!</a>
 date: 2022-02-26 10:00:00-0400
 inline: false
 related_posts: false
