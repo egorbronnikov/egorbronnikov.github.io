@@ -2,7 +2,7 @@
 layout: page
 title: Affiliations
 permalink: /affiliations/
-description: General info about my current affiliations beyond primary ones.
+description: Info about my current affiliations beyond primary ones.
 nav: false
 ---
 
