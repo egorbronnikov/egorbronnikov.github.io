@@ -10,9 +10,6 @@ children:
     - title: divider
     - title: Affiliations
       permalink: /affiliations/
-    - title: divider
-    - title: Contact
-      permalink: /contact/
 ---
 
 
