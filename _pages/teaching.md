@@ -20,14 +20,14 @@ In 2019, after a new huge wave of political layoffs from HSE University, a numbe
 
 Since 2020, when it experienced the first semester, the FUM has grown _from several to almost seven dozen_ freely available courses many of which were exiled from the state-owned Russian Universities.
 
-The growing popularity of the Free University of Moscow, which has begun to be felt as a danger by the current Russian regime, has been considered so salient by the Russian Government that in spring 2023 it was labelled as the so-called Undesirable (or Unwelcome) organization on the territory of the Russian Federation. 
+In the spring of 2023, the growing popularity of the Free University of Moscow has begun to be felt as a danger by the current Russian regime so salient that it was labelled as the so-called Undesirable (or Unwelcome) Organization on the territory of the Russian Federation. This euphemism of political repressions — by which, for example, among others, Transparency International Russia, and Greenpeace were labelled — implies a high probability of criminal prosecution of all current professors at the FUM.
 
-This euphemism of political repressions — by which, for example, among others, Transparency International Russia, and Greenpeace were labelled — implies a high probability of criminal prosecution of all current professors at the FUM.
+
 
 ### Courses Taught
 
 (TBA)
 
-The syllabuses of the courses taught will be here soon.
+The syllabuses of the courses I teach at the FUM will be here soon.
 
 
