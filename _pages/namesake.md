@@ -2,7 +2,7 @@
 layout: page
 title: Not Me
 permalink: /namesake/
-description: Brief info about my namesake.
+description: List of info my namesake.
 nav: false
 ---
 
