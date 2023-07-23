@@ -7,11 +7,6 @@ nav: true
 nav_order: 4
 ---
 
-
-(this page is under development)
-
-
-
 ### Brief History
 
 HSE University (also known as the Higher School of Economics), was the best University in Economics in Russia according to many rankings (e.g., the QS subject ranking in Economics [in 2022](https://www.topuniversities.com/university-rankings/university-subject-rankings/2022/economics-econometrics?&countries=ru); the Shanghai Subject Ranking in Economics [in 2022](https://www.shanghairanking.com/rankings/gras/2022/RS0501); the US News subject ranking in Economics [in 2022](https://www.usnews.com/education/best-global-universities/search?region=europe&country=russia&subject=economics-business)). However, it has been under severe political pressure for at least the last twelve years. Since that time, this has been resulting in a continuum of political dismissals of many professors and lecturers. 
