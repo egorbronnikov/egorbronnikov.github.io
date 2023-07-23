@@ -22,6 +22,8 @@ Since 2020, when it experienced the first semester, the FUM has grown _from seve
 
 In the spring of 2023, the growing popularity of the Free University of Moscow has begun to be felt as a danger by the current Russian regime so salient that it was labelled as the so-called Undesirable (or Unwelcome) Organization on the territory of the Russian Federation. This euphemism of political repressions — by which, for example, among others, Transparency International Russia, and Greenpeace were labelled — implies a high probability of criminal prosecution of all current professors at the FUM.
 
+<!-- I call for international action in my post on XYZ. I will be personally grateful for your help. Please feel free to [contact me](/contact/) if you have any questions or ideas in this regard. -->
+
 
 
 ### Courses Taught
