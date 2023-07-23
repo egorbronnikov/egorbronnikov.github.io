@@ -2,7 +2,7 @@
 layout: teaching
 permalink: /teaching/
 title: FUM
-description: General info about the FUM and materials for courses taught will be here soon.
+description: Info about the Free University of Moscow (FUM) and materials for courses taught.
 nav: true
 nav_order: 4
 ---
