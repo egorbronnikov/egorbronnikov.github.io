@@ -23,8 +23,7 @@ In the spring of 2023, the growing popularity of the Free University of Moscow h
 
 ### Courses Taught
 
-(TBA)
+Currently, I teaching _(Ir)Rationality: Brief Introduction to Behavioural Economics_, a BSc level course at the FUM.
+In the meanwhile, I am preparing a new MRes level course called _Behavioural Decision Theory_.
 
-The syllabuses of the courses I teach at the FUM will be here soon.
-
-
+Below you can find the syllabuses of the courses I teach (and plan to teach) at the FUM.
