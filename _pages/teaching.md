@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: teaching
 permalink: /teaching/
 title: FUM
 description: General info about the FUM and materials for courses taught will be here soon.
