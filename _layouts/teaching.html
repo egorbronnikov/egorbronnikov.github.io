@@ -1,0 +1,40 @@
+---
+layout: default
+---
+<!-- teaching.html -->
+        <div class="post">
+
+          <header class="post-header">
+            <h1 class="post-title">{{ page.title }}</h1>
+            <p class="post-description">{{ page.description }}</p>
+          </header>
+
+          <article>
+          <div class="clearfix">
+            {{ content }}
+          </div>
+
+          <!-- Published papers -->
+          {% if page.published_papers -%}
+            <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">Published Papers</a></h2>
+            {%- include published_papers.html %}
+          {%- endif %}    
+                  
+          <!-- Working papers -->
+          {% if page.working_papers -%}
+            <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">Working Papers</a></h2>
+            {%- include working_papers.html %}
+          {%- endif %}    
+
+          <!-- Work In Progress papers -->
+          {% if page.work_in_progress_papers -%}
+            <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">Work In Progress</a></h2>
+            {%- include work_in_progress_papers.html %}
+          {%- endif %}   
+          </article>
+
+
+
+
+                
+        </div>
