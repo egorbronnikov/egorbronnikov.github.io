@@ -5,14 +5,14 @@ permalink: /affiliations/
 description: Info about my current affiliations beyond primary ones.
 nav: false
 ---
-
 Here are some affiliations I deem personally important. So, <i>inter alia</i>, I am  <i>pbp</i> 
+
+&#x2022; <i>Research Fellow</i>,  <b>Dissernet</b>, a voluntary academic network for science integrity that examines, documents and fights against plagiarism in Russian Doctoral and Habilitation theses (you can find more information either on the [Wiki page](https://en.wikipedia.org/wiki/Dissernet) or -- if you read in Russian -- on the [official website](https://www.dissernet.org/));
 
 &#x2022; <i>Research Affiliate</i>, <b>the Behavioral & Experimental Economics Laboratory (BEELab), Maastricht University</b>;
 
 &#x2022; <i>Research Affiliate</i>, the Vienna Centre for Experimental Economics, the University of Vienna;
 
-&#x2022; <i>Research Fellow</i>,  <b>Dissernet</b>, a voluntary academic network for science integrity that examines, documents and fights against plagiarism in Russian Doctoral and Habilitation theses (you can find more information either on the [Wiki page](https://en.wikipedia.org/wiki/Dissernet) or -- if you read in Russian -- on the [official website](https://www.dissernet.org/)).
 
 <!-- &#x2022; Member of the Society for Experimental Finance ([SEF](https://www.experimentalfinance.org/)); -->
 
