@@ -126,7 +126,7 @@
         {%- endif -%}
 <!-- attempts to add volume and pages: 127-130  -->
         {%- if entry.volume -%}
-          {%- capture entryvolume -%}{{ " " }}{{entry.volume}}{%- endcapture -%}
+          {%- capture entryvolume -%}{{ " vol. " }}{{entry.volume}}{%- endcapture -%}
         {%- endif -%}
         {%- if entry.number -%}
           {%- capture entrynumber -%}{{ "" }}{{entry.number}}{%- endcapture -%}
@@ -136,7 +136,7 @@
         {%- endif -%}
         {% assign entrytype_text = entrytype | strip_html | strip %}
         <!-- {%- capture periodical -%}{{ entrytype }}{%- if entrytype_text != "" and entryyear != "" -%}, {%- endif -%}{{ entrymonth }}{{ entryyear }}{%- endcapture -%}-->
-        {%- capture periodical -%}{{ entrytype }}{%- if entrytype_text != "" and entryyear != "" -%}, {%- endif -%}{{ entrymonth }}{{ entryyear }}, vol. {{ entryvolume }} ({{ entrynumber }}), pp. {{ entrypages }} {%- endcapture -%}
+        {%- capture periodical -%}{{ entrytype }}{%- if entrytype_text != "" and entryyear != "" -%}, {%- endif -%}{{ entrymonth }}{{ entryyear }}{%- if entrytype_text != "" and entryvolume != "" -%}, {%- endif -%} {{ entryvolume }} ({{ entrynumber }}), pp. {{ entrypages }} {%- endcapture -%}
         <div class="periodical">
           {{ periodical | strip }}
         </div>
