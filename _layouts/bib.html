@@ -126,10 +126,10 @@
         {%- endif -%}
 <!-- attempts to add volume and pages: 127-130  -->
         {%- if entry.volume -%}
-          {%- capture entryvolume -%}{{ "" }}{{entry.volume}}{%- endcapture -%}
+          {%- capture entryvolume -%}{{ " " }}{{entry.volume}}{%- endcapture -%}
         {%- endif -%}
         {%- if entry.number -%}
-          {%- capture entrynumber -%}{{ " " }}{{entry.number}}{%- endcapture -%}
+          {%- capture entrynumber -%}{{ "" }}{{entry.number}}{%- endcapture -%}
         {%- endif -%}
         {%- if entry.pages -%}
           {%- capture entrypages -%}{{ " " }}{{entry.pages}}{%- endcapture -%}
