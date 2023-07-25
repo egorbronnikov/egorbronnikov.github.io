@@ -129,14 +129,14 @@
           {%- capture entryvolume -%}{{ " vol. " }}{{entry.volume}}{%- endcapture -%}
         {%- endif -%}
         {%- if entry.number -%}
-          {%- capture entrynumber -%}{{ "" }}{{entry.number}}{%- endcapture -%}
+          {%- capture entrynumber -%}{{ "(" }}{{entry.number}}{%- endcapture -%}
         {%- endif -%}
         {%- if entry.pages -%}
-          {%- capture entrypages -%}{{ " " }}{{entry.pages}}{%- endcapture -%}
+          {%- capture entrypages -%}{{ " pp." }}{{entry.pages}}{%- endcapture -%}
         {%- endif -%}
         {% assign entrytype_text = entrytype | strip_html | strip %}
         <!-- {%- capture periodical -%}{{ entrytype }}{%- if entrytype_text != "" and entryyear != "" -%}, {%- endif -%}{{ entrymonth }}{{ entryyear }}{%- endcapture -%}-->
-        {%- capture periodical -%}{{ entrytype }}{%- if entrytype_text != "" and entryyear != "" -%}, {%- endif -%}{{ entrymonth }}{{ entryyear }}{%- if entrytype_text != "" and entryvolume != "" -%}, {%- endif -%} {{ entryvolume }} ({{ entrynumber }}), pp. {{ entrypages }} {%- endcapture -%}
+        {%- capture periodical -%}{{ entrytype }}{%- if entrytype_text != "" and entryyear != "" -%}, {%- endif -%}{{ entrymonth }}{{ entryyear }}{%- if entrytype_text != "" and entryvolume != "" -%}, {%- endif -%}{{ entryvolume }} {{ entrynumber }}{%- if entrytype_text != "" and entrypages != "" -%}), {%- endif -%}{{ entrypages }} {%- endcapture -%}
         <div class="periodical">
           {{ periodical | strip }}
         </div>
