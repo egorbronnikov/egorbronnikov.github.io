@@ -136,8 +136,9 @@
         {%- endif -%}
         {% assign entrytype_text = entrytype | strip_html | strip %}
         <!-- {%- capture periodical -%}{{ entrytype }}{%- if entrytype_text != "" and entryyear != "" -%}, {%- endif -%}{{ entrymonth }}{{ entryyear }}{%- endcapture -%} -->
-        <!-- {%- capture periodical -%}{{ entrytype }}{%- if entrytype_text != "" and entryyear != "" -%}, {%- endif -%}{{ entrymonth }}{{ entryyear }}{%- if entrytype_text != "" and entryvolume != "" -%}, vol. {%- endif -%}{{ entryvolume }}{%- if entrytype_text != "" and entrynumber != "" -%} ({%- endif -%}{{ entrynumber }}{%- if entrytype_text != "" and entrypages != "" -%}), pp. {%- endif -%}{{ entrypages }} {%- endcapture -%}  -->
-        {%- capture periodical -%}{{ entrytype }}{%- if entrytype_text != "" and entryyear != "" -%}, {%- endif -%}{{ entrymonth }}{{ entryyear }}{%- if entryyear != "" and entryvolume != "" -%}, vol. {%- endif -%}{{ entryvolume }}{%- if entryvolume != "" and entrynumber != "" -%} ({%- endif -%}{{ entrynumber }}{%- if entrynumber != "" and entrypages != "" -%}), pp. {%- endif -%}{{ entrypages }} {%- endcapture -%}
+        <!-- {%- capture periodical -%}{{ entrytype }}{%- if entrytype_text != "" and entryyear != "" -%}, {%- endif -%}{{ entrymonth }}{{ entryyear }}{%- if entrytype_text != "" and entryvolume != "" -%}, vol. {%- endif -%}{{ entryvolume }}{%- if entryvolume != "" and entrynumber != "" -%} ({%- endif -%}{{ entrynumber }}{%- if entrynumber != "" and entrypages != "" -%}), pp. {%- endif -%}{{ entrypages }} {%- endcapture -%} -->
+        {%- capture periodical -%}{{ entrytype }}{%- if entrytype_text != "" and entryyear != "" -%}, {%- endif -%}{{ entrymonth }}{{ entryyear }}{%- if entrytype_text != "" and entrypages != "" -%}, vol. {%- endif -%}{{ entryvolume }}{%- if entryvolume != "" and entrynumber != "" -%} ({%- endif -%}{{ entrynumber }}{%- if entrynumber != "" and entrypages != "" -%}), pp. {%- endif -%}{{ entrypages }} {%- endcapture -%}
+
         <div class="periodical">
           {{ periodical | strip }}
         </div>
