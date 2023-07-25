@@ -158,11 +158,11 @@
             <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
           {%- endif %}
           {%- if entry.html %}
-            <a href="{{ entry.html }}" class="btn btn-sm z-depth-0" role="button"> &nbsp;&nbsp;&nbsp; HTML &nbsp;&nbsp;&nbsp; </a>
+            <a href="{{ entry.html }}" class="btn btn-sm z-depth-0" role="button"> &nbsp;&nbsp;&nbsp;&nbsp; HTML &nbsp;&nbsp;&nbsp;&nbsp; </a>
           {%- endif %}
           {%- if entry.pdf %}
             {% if entry.pdf contains '://' -%}
-            <a href="{{ entry.pdf }}" class="btn btn-sm z-depth-0" role="button">  PDF  </a>
+            <a href="{{ entry.pdf }}" class="btn btn-sm z-depth-0" role="button"> &nbsp;&nbsp;&nbsp;&nbsp; PDF &nbsp;&nbsp;&nbsp;&nbsp; </a>
             {%- else -%}
             <a href="{{ entry.pdf | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">PDF</a>
             {%- endif %}
