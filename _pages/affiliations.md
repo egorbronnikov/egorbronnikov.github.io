@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: affiliations
 title: Affiliations
 permalink: /affiliations/
 description: Info about my current affiliations beyond primary ones.
