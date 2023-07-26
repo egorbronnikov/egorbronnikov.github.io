@@ -1,4 +1,4 @@
-- title:  
+- title:  Current Affiliations
   type: time_table
   contents:
     - title: Dissernet
@@ -13,4 +13,13 @@
     - title: Vienna Centre for Experimental Economics, University of Vienna
       institution: Research Affiliate
       year: 2022 – now
-      
+
+- title:  Previous Affiliations
+  type: time_table
+  contents:
+    - title: Tilburg School of Economics and Management, Tilburg University
+      institution: Visiting MRes Student
+      year: 2022 - 2023
+    - title: Tilburg School of Social and Behavioral Sciences, Tilburg University
+      institution: Visiting MRes Student
+      year: 2022 – 2023
