@@ -1,23 +1,16 @@
 - title: Research Appointments
   type: time_table
   contents:
-    - title: School of Business and Economics, Maastricht University
-      institution: Doctoral Researcher 
+    - title: Dissernet
+      institution: Research Fellow 
       year: 2023 - now
-    - title: Department of Economics, Harvard University 
-      institution: Research Assistant
+      description: Dissernet is a voluntary academic network for science integrity that examines, 
+      documents and fights against plagiarism in Russian Doctoral and Habilitation theses 
+      (you can find more information either on the Wiki page or – if you read in Russian – on the official website);
+    - title: Behavioral & Experimental Economics Laboratory (BEELab), Maastricht University 
+      institution: Research Affiliate
       year: 2023 - now
-    - title: Utrecht School of Economics, Utrecht University
-      institution: Research Assistant
-      year: 2022 – 2023
-      description:
     - title: Vienna Centre for Experimental Economics, University of Vienna
-      institution: Research Assistant 
-      year: 2022, sum.
-    - title: Intern. Lab for Experimental and Behavioural Economics, HSE University
-      institution: Research Assistant
-      year: 2018 – 2021
-    - title: Laboratory for Anti-Corruption Policy, Transparency International Russia
-      institution: Research Assistant 
-      year: 2017 – 2018
-
+      institution: Research Affiliate
+      year: 2022 – now
+      
