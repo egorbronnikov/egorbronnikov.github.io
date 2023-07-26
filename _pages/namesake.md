@@ -8,8 +8,8 @@ nav: false
 
 People who you might be looking for and who are not me:
 
-&#x2022; Egor Bronnikov, a Linux enthusiast and a student of St. Petersburg State University of Economics ([link](https://github.com/endygamedev));
+&#x2022; Egor Bronnikov, [a Linux enthusiast and a student of St. Petersburg State University of Economics](https://github.com/endygamedev);
 
-&#x2022; Egor Bronnikov, a chess player ([link](https://ratings.fide.com/profile/44100477));
+&#x2022; Egor Bronnikov, [a FIDE chess player](https://ratings.fide.com/profile/44100477);
 
 
