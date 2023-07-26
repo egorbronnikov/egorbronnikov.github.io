@@ -13,13 +13,13 @@ layout: default
                   <h3 class="card-title font-weight-medium">{{ entry.title }}</h3>
                   <div>
                   {% if entry.type == "list" %}
-                    {% include affiliations/list.html %}
+                    {% include cv/list.html %}
                   {% elsif entry.type == "map" %}
-                    {% include affiliations/map.html %}
+                    {% include cv/map.html %}
                   {% elsif entry.type == "nested_list" %}
-                    {% include affiliations/nested_list.html %}
+                    {% include cv/nested_list.html %}
                   {% elsif entry.type == "time_table" %}
-                   {% include affiliations/time_table.html %}
+                   {% include cv/time_table.html %}
                   {% else %}
                     {{ entry.contents }}
                   {% endif %}
