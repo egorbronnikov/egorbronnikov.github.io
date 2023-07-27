@@ -91,6 +91,50 @@
       institution: Junior Lecturer
       year: 2019 – 2020
 
+
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+      - title: Utrecht School of Economics, Utrecht University
+      institution: Research Institute Small Grant (€3,000)
+      year: 2023
+      - title: Utrecht School of Economics, Utrecht University
+      institution: Utrecht Excellence Scholarship (€56,000)
+      year: 2021 - 2023
+      - title: Research Grant Competition, Yandex.Toloka
+      institution: 1st Degree Small Research Grant ($500)
+      year: 2021
+      description:
+        - co-applicant with Varvara Ushakova
+      - title: Research Grant Competition, Yandex.Toloka
+      institution: 1st Degree Small Research Grant ($500)
+      year: 2021
+      description:
+        - co-applicant with Philipp Chapkovski
+      - title: 12th Experimental Economics Summer School in Macroeconomics
+      institution: Full Scholarship ($1,000)
+      year: 2019
+      - title: Financial University
+      institution: (Increased) National Academic Scholarship (€2,500)
+      year: 2015 - 2019
+      - title: Financial University
+      institution: Federal National-funded Grant (€22,000)
+      year: 2015 - 2019
+      - title: Transparency International Russia & HSE University
+      institution: Federal National-funded Grant (€22,000)
+      year: 2017
+      description:
+        - 4th Summer School for Anti-Corruption Policy (Transparency International R)
+        - 1st Prize in Research Project Competition 
+      - title: Moscow Olympiad in Social Sciences
+      institution: Winner
+      year: 2015
+
+
+  
+
+
 - title: Honors and Awards
   type: time_table
   contents:
@@ -104,11 +148,11 @@
       items: 
         - Yandex.Toloka 1st Degree Small Research Grant ($500)
         - co-applicant with Varvara Ushakova
-    - year: 2019
+    - year: 2021
       items: 
         - Yandex.Toloka 1st Degree Small Research Grant ($500) 
         - co-applicant with Philipp Chapkovski
-    - year: 2019
+    - year: 2021
       items: 
         - 12th Experimental Economics Summer School in Macroeconomics 
         - Full Scholarship ($1,000)
