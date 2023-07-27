@@ -97,18 +97,21 @@
   type: time_table
   contents:
       - title: Research Institute, Utrecht School of Economics, Utrecht University
-        institution: Small Research Grant (€3,000)
+        description:
+          - Small Research Grant (€3,000)
         year: 2023
       - title: Utrecht School of Economics, Utrecht University
-        institution: Utrecht Excellence Scholarship (€56,000)
+        description:
+          - Utrecht Excellence Scholarship (€56,000)
         year: 2021 - 2023
       - title: Research Grant Competition, Yandex.Toloka
         description:
           - 1st Degree Small Research Grant ($500) with Varvara Ushakova
           - 1st Degree Small Research Grant ($500) with Philipp Chapkovski
         year: 2021
-      - title: 12th Experimental Economics Summer School in Macroeconomics
+      - title: Carleton University & Pompeu Fabra University 
         description:
+          - 12th Experimental Economics Summer School in Macroeconomics
           - Full Scholarship ($1,000)
         year: 2019
       - title: Financial University
