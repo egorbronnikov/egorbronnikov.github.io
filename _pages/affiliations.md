@@ -2,7 +2,7 @@
 layout: affiliations
 title: Affiliations
 permalink: /affiliations/
-description: Info about my current affiliations beyond primary ones.
+description: info about my current affiliations beyond primary ones
 nav: false
 ---
 Here are some affiliations I deem personally important. So, <i>inter alia</i>, I am  <i>pbp</i> 
