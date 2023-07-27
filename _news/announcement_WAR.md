@@ -24,7 +24,9 @@ Several open letters I joined:
     <li>
         Open Letter <a href="https://academiccooperationletter.wordpress.com/">On Putin’s War in Ukraine and the Future of International Academic Cooperation</a>
     </li>
-    <li>c</li>
+    <li>
+        Open Letter by HSE University Graduates and Academic Staff <a href="https://docs.google.com/forms/d/e/1FAIpQLSeZ1-ZOLAK994RnK-j3ud7UM3o0QSy9WI7nSDavnlK2lCpMzg/closedform">Stop The War!</a> (blocked)
+    </li>
 </ul>
 
 
