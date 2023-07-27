@@ -2,26 +2,26 @@
   type: time_table
   contents:
     - title: Dissernet
-      institution: Research Fellow 
+      institution: Research Fellow, <i>pro bono publico</i>  
       year: 2023 - now
       description: 
         - Dissernet is a voluntary academic network for science integrity that examines, documents and fights against plagiarism in Russian Doctoral and Habilitation theses;
         - You can find more information either on the <a href="https://en.wikipedia.org/wiki/Dissernet">Wiki page</a> or -- if you read in Russian -- on the <a href="https://www.dissernet.org/">official website</a>;
     - title: Behavioral & Experimental Economics Laboratory, Maastricht University 
-      institution: Research Affiliate
+      institution: Research Affiliate, <i>pro bono publico</i> 
       year: 2023 - now
     - title: Vienna Centre for Experimental Economics, University of Vienna
-      institution: Research Affiliate
+      institution: Research Affiliate, <i>pro bono publico</i> 
       year: 2022 – now
 
 - title:  Previous Affiliations
   type: time_table
   contents:
     - title: Tilburg School of Economics and Management, Tilburg University
-      institution: Visiting MRes Student
+      institution: Visiting MRes Candidate
       year: 2022 - 2023
     - title: Tilburg School of Social and Behavioral Sciences, Tilburg University
-      institution: Visiting MRes Student
+      institution: Visiting MRes Candidate
       year: 2022 – 2023
     - title: International College of Economics and Finance (ICEF), HSE University
       institution: BSc Papers Supervisor
