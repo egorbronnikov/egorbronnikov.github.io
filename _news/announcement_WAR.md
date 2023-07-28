@@ -1,21 +1,12 @@
 ---
 layout: post
-title: Announcement Under Development
+title: As a Russian citizen, I declare my intention to stop the war. Several open letters I have joined.
 date: 2022-02-24 16:11:00-0400
 inline: false
 related_posts: false
 ---
 
-***
 
-> Quote/Comment
-> Quote/Comment
-
-***
-
-
-
-Several open letters I joined:
 
 <ul>
     <li>
