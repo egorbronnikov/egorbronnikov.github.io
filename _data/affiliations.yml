@@ -2,17 +2,23 @@
   type: time_table
   contents:
     - title: Dissernet
-      institution: Research Fellow, <i>pro bono publico</i>  
+      institution: Research Fellow, <i>pbp</i>  
       year: 2023 - now
       description: 
         - Dissernet is a voluntary academic network for science integrity that examines, documents and fights against plagiarism in Russian Doctoral and Habilitation theses;
         - You can find more information either on the <a href="https://en.wikipedia.org/wiki/Dissernet">Wiki page</a> or -- if you read in Russian -- on the <a href="https://www.dissernet.org/">official website</a>;
+    - title: European University at Saint Petersburg (Expected)
+      institution: Visiting Lecturer, <i>pbp</i>  
+      year: 2023 - 2024
+      description: 
+        - European University at Saint Petersburg (EUSP) is one of the best private universities in Russia for economics;
+        - EUSP is one of several Russian Universities whose rector did not sign the notorious letter of the war   
     - title: Behavioral & Experimental Economics Laboratory, Maastricht University 
-      institution: Research Affiliate, <i>pro bono publico</i> 
-      year: 2023 - now
+      institution: Research Affiliate, <i>pbp</i> 
+      year: 2023 - p.t.
     - title: Vienna Centre for Experimental Economics, University of Vienna
-      institution: Research Affiliate, <i>pro bono publico</i> 
-      year: 2022 – now
+      institution: Research Affiliate, <i>pbp</i> 
+      year: 2022 – p.t.
 
 - title:  Previous Affiliations
   type: time_table
