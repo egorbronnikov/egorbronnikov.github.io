@@ -14,10 +14,16 @@ layout: default
           </div>
 
           <!-- Working papers -->
+          <!-- {% if page.working_papers -%} -->
+          <!--   <h2><a href="{{ '/papers/' | relative_url }}" style="color: inherit;">Working Papers</a></h2> -->
+          <!--   {%- include working_papers.html %} -->
+          <!-- {%- endif %}   -->
+
+          <!-- Working papers -->
           {% if page.working_papers -%}
-            <h2><a href="{{ '/papers/' | relative_url }}" style="color: inherit;">Working Papers</a></h2>
+            <h2>Working Papers</h2>
             {%- include working_papers.html %}
-          {%- endif %}    
+          {%- endif %}                
 
           <!-- Work In Progress papers -->
           {% if page.work_in_progress_papers -%}
