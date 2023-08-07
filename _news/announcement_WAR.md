@@ -1,6 +1,6 @@
 ---
 layout: post
-title: As a Russian citizen, I declare my intention to stop the war in Ukraine. Several open letters I have joined.
+title: Here are several open letters I joined to declare my position regarding the war in Ukraine.
 date: 2022-02-24 16:11:00-0400
 inline: false
 related_posts: false
