@@ -33,5 +33,11 @@ Additionally, I serve as a <i>pro bono publico</i> Adjunct Professor of behavio
 
 <i>Inter alia</i>, I am a member of Dissernet, a <i>pro bono publico</i> academic network that examines, documents and fights against plagiarism in Russian Doctoral and Habilitation theses (read more [here](/affiliations/)).
 
-Previously, I worked at Utrecht University (Utrecht School of Economics), the University of Vienna (Vienna Centre for Experimental Economics), HSE University (International Laboratory for Experimental and Behavioural Economics; International College of Economics and Finance (ICEF); School of Psychology, Faculty of Social Sciences), and Transparency International Russia.
+Previously, I worked at Utrecht University, the University of Vienna, HSE University, and Transparency International Russia (read more [here](/cv/)).
+
+#Previously, I worked at Utrecht University (Utrecht School of Economics), the University of Vienna (Vienna Centre for Experimental Economics), HSE University (International Laboratory for Experimental and Behavioural Economics; International College of Economics and Finance (ICEF); School of Psychology, Faculty of Social Sciences), and Transparency International Russia.
+
+
+
+
 
