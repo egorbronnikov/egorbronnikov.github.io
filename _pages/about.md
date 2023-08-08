@@ -29,7 +29,7 @@ I am a Doctoral Researcher and PhD Candidate in Economics at the School of Busin
 
 My research interests are Behavioural and Experimental Economics, (Behavioural) Game Theory, and Political Economy.
 
-Additionally, I serve as a <i>pro bono publico</i> Adjunct Professor of behavioural economics at the School of Science at the Free University of Moscow (Brīvā Universitāte), a tuition-free online University committed to providing state-of-the-art courses by professors who are exiled from the state Russian Universities for their political views (read more [here](/teaching/)).
+Additionally, I serve as a <i>pro bono publico</i> Adjunct Professor of economics at the School of Science at the Free University of Moscow (Brīvā Universitāte), a tuition-free online university committed to providing state-of-the-art courses by professors who were exiled from Russian state universities due to their political views (read more [here](/teaching/)).
 
 <i>Inter alia</i>, I am a member of Dissernet, a <i>pro bono publico</i> academic network that examines, documents and fights against plagiarism in Russian Doctoral and Habilitation theses (read more [here](/affiliations/)).
 
