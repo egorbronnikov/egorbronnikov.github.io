@@ -18,10 +18,10 @@
         - (motivated) beliefs, trust, fairness, loneliness, deception;
     - title: (Behavioural) Game Theory
       items:
-        - quantal response equilibrium; level-k; cursed equilibrium;
+        - voting, information asymmetry, evolution, level-k;
     - title: Political Economy & Political Economics
       items:
-        - voting, electoral control, propaganda, corruption, whistle-blowing.
+        - education, propaganda, corruption, whistle-blowing, autocracy.
 
 - title: Education
   type: time_table
