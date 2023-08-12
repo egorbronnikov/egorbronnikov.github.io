@@ -23,9 +23,15 @@ layout: default
 
           <!-- Published papers -->
           {% if page.published_papers -%}
-             <h2><a href="{{ '/papers/' | relative_url }}" style="color: inherit;">Published Papers</a></h2>
+             <h2>Published Papers</h2>
              {%- include published_papers.html %}
           {%- endif %}
+
+          <!-- Published papers -->
+          <!-- {% if page.published_papers -%} -->
+             <!-- <h2><a href="{{ '/papers/' | relative_url }}" style="color: inherit;">Published Papers</a></h2> -->
+             <!-- {%- include published_papers.html %} -->
+          <!-- {%- endif %} -->
                       
           <!-- Working papers -->
           {% if page.working_papers -%}
