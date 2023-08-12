@@ -119,7 +119,7 @@
           {%- capture entrytype -%}{%- endcapture -%}
         {%- endif -%}
         {%- if entry.month -%}
-          {%- capture entrymonth -%}{{ " " }}{{ entry.month | capitalize }}{%- endcapture -%}
+          {%- capture entrymonth -%}{{ " " }}{{ entry.month }}{%- endcapture -%}
         {%- endif -%}
         {%- if entry.status -%}
           {%- capture entrystatus -%}{{ " " }}{{entry.status}}{%- endcapture -%}
@@ -141,8 +141,8 @@
         <!-- {%- capture periodical -%}{{ entrytype }}{%- if entrytype_text != "" and entryyear != "" -%}, {%- endif -%}{{ entrymonth }}{{ entryyear }}{%- endcapture -%} -->
         <!-- {%- capture periodical -%}{{ entrytype }}{%- if entrytype_text != "" and entryyear != "" -%}, {%- endif -%}{{ entrymonth }}{{ entryyear }}{%- if entrytype_text != "" and entryvolume != "" -%}, vol. {%- endif -%}{{ entryvolume }}{%- if entryvolume != "" and entrynumber != "" -%} ({%- endif -%}{{ entrynumber }}{%- if entrynumber != "" and entrypages != "" -%}), pp. {%- endif -%}{{ entrypages }} {%- endcapture -%} -->
         <!-- {%- capture periodical -%}{{ entrytype }}{%- if entrytype_text != "" and entryyear != "" -%}, {%- endif -%}{{ entrymonth }}{{ entryyear }}{%- if entrytype_text != "" and entryyear != "" -%}, vol. {%- endif -%}{{ entryvolume }}{%- if entryvolume != "" and entrynumber != "" -%} ({%- endif -%}{{ entrynumber }}{%- if entrynumber != "" and entrypages != "" -%}), pp. {%- endif -%}{{ entrypages }} {%- endcapture -%} -->
-        {%- capture periodical -%}{{ entrytype }}{%- if entrytype_text != "" and entryyear != "" -%}, {%- endif -%}{{ entrymonth }}{{ entryyear }}{%- if entryvolume != "" and entrynumber != "" -%}, vol. {%- endif -%}{{ entryvolume }}{%- if entryvolume != "" and entrynumber != "" -%} ({%- endif -%}{{ entrynumber }}{%- if entrynumber != "" and entrypages != "" -%}), pp. {%- endif -%}{{ entrypages }} {%- endcapture -%} 
-        <!-- {%- capture periodical -%}{{ entrytype }}{%- if entrytype_text != "" and entryyear != "" -%}, {%- endif -%}{{ entrymonth }}{{ entrystatus }}{{ entryyear }}{%- if entryvolume != "" and entrynumber != "" -%}, vol. {%- endif -%}{{ entryvolume }}{%- if entryvolume != "" and entrynumber != "" -%} ({%- endif -%}{{ entrynumber }}{%- if entrynumber != "" and entrypages != "" -%}), pp. {%- endif -%}{{ entrypages }} {%- endcapture -%} -->
+        <!-- {%- capture periodical -%}{{ entrytype }}{%- if entrytype_text != "" and entryyear != "" -%}, {%- endif -%}{{ entrymonth }}{{ entryyear }}{%- if entryvolume != "" and entrynumber != "" -%}, vol. {%- endif -%}{{ entryvolume }}{%- if entryvolume != "" and entrynumber != "" -%} ({%- endif -%}{{ entrynumber }}{%- if entrynumber != "" and entrypages != "" -%}), pp. {%- endif -%}{{ entrypages }} {%- endcapture -%} -->
+        {%- capture periodical -%}{{ entrytype }}{%- if entrytype_text != "" and entryyear != "" -%}, {%- endif -%}{{ entrymonth }}{{ entryyear }}{%- if entryvolume != "" and entrynumber != "" -%}, vol. {%- endif -%}{{ entryvolume }}{%- if entrynumber != "" -%} ({%- endif -%}{{ entrynumber }}{%- if entrynumber != "" and entrypages != "" -%}), pp. {%- endif -%}{{ entrypages }} {%- endcapture -%} 
 
 
               
