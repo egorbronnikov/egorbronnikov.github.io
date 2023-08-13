@@ -6,6 +6,7 @@ description: info about the Free University of Moscow (FUM) and courses taught
 nav: true
 nav_order: 4
 Syllabus_1_pdf: example_pdf.pdf
+Syllabus_2_pdf: example_pdf.pdf
 ---
 
 ### Brief History of the FUM
