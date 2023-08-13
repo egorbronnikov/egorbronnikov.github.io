@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 permalink: /publications/
-description: Publications by categories in reversed chronological order
+description: publications by categories in reversed chronological order
 nav: false
 working_papers: false # includes a list of papers marked as "working={true}"
 work_in_progress_papers: false
