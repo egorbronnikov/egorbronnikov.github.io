@@ -21,10 +21,14 @@ social: true  # includes social icons at the bottom of the page
 
 <br /> 
 
-Please feel free to contact me. 
+Please don't hesitate to reach out.
 
-You can do so by sending an email either to [Gmail](mailto:e.v.bronnikov@gmail.com) or [University mail](mailto:e.bronnikov@tilburguniversity.edu).
+You can contact me by sending an email to either my [Gmail](mailto:e.v.bronnikov@gmail.com) or [University mail](mailto:e.bronnikov@tilburguniversity.edu) addresses.
 
-The physical address can be found on the left.
+My physical address is provided on the left.
 
-Find other details below.
+Additional details can be found below.
+
+
+
+
