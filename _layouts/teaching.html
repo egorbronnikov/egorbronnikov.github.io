@@ -34,7 +34,12 @@ layout: default
             <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">Work In Progress</a></h2>
             {%- include work_in_progress_papers.html %}
           {%- endif %}   
+                
+                  <!-- Nice PDF Icon for Syllabus No. 1 -->
+<h1 class="post-title"> {% if page.Syllabus_1_pdf %}<a href="{{ page.Syllabus_1_pdf | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer" class="float-right"><i class="fas fa-file-pdf"></i></a>{% endif %}</h1> 
 
+          <p>  </p>
+          <h3>(Ir)Rationality: Brief Introduction to Behavioural Economics</h3>
           <p>  </p>
           <p> Syllabus of <i>(Ir)Rationality: Brief Introduction to Behavioural Economics</i>, BSc level course: </p>
                   
@@ -42,15 +47,15 @@ layout: default
                 <!-- if height="250px" more than 250 it will load with a page preview on the left -->
                 <embed src="https://egorbronnikov.github.io/assets/pdf/example_pdf.pdf" width=100% height="250px" type="application/pdf">
  
-
-<!-- <h1 class="post-title"> {% if page.cv_pdf %}<a href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer" class="float-right"><i class="fas fa-file-pdf"></i></a>{% endif %}</h1>  -->
-<h1 class="post-title"> {% if page.Syllabus_1_pdf %}<a href="{{ page.Syllabus_1_pdf | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer" class="float-right"><i class="fas fa-file-pdf"></i></a>{% endif %}</h1> 
-
-
+                  <!-- Nice PDF Icon for Syllabus No. 2 -->
+<h1 class="post-title"> {% if page.Syllabus_2_pdf %}<a href="{{ page.Syllabus_2_pdf | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer" class="float-right"><i class="fas fa-file-pdf"></i></a>{% endif %}</h1> 
                   
           <p>  </p>
+          <h3>Behavioural Decision Theory</h3>
+          <p>  </p>
           <p> Syllabus of <i>Behavioural Decision Theory</i>, MRes level course: </p>
-                  
+
+
 
                 <!-- THIS WORKS -->
                 <!-- if height="250px" more than 250 it will load with a page preview on the left -->
