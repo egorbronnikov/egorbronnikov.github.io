@@ -10,16 +10,19 @@ layout: default
             <p class="post-description">{{ page.description }}</p>
           </header>
 
+                <!-- DOES NOT ALWAYS PROPERLY LOAD -->
+                <!-- neither this -->
 <!--  <body style="width:100%; height:100%; margin:0;"> -->
 <!--    <iframe src="https://docs.google.com/gview?url=https://egorbronnikov.github.io/assets/pdf/Egor_Bronnikov_CV.pdf&embedded=true" style="width:100%; height:100%;" frameborder="0"></iframe> -->
 <!--  </body> -->
+                <!-- nor this -->
+<!-- <embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://egorbronnikov.github.io/assets/pdf/Egor_Bronnikov_CV.pdf" width=100% height=100%> -->
 
-<embed src="https://egorbronnikov.github.io/assets/pdf/Egor_Bronnikov_CV.pdf" width=100% height=100% type="application/pdf">
-
+                <!-- THIS WORKS -->
+                <!-- if height="250px" more than 250 it will load with a page preview on the left -->
+<!-- <embed src="https://egorbronnikov.github.io/assets/pdf/Egor_Bronnikov_CV.pdf" width=100% height=100% type="application/pdf"> -->
 <embed src="https://egorbronnikov.github.io/assets/pdf/Egor_Bronnikov_CV.pdf" width=100% height="250px" type="application/pdf">
 
-                
-<!-- <embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://egorbronnikov.github.io/assets/pdf/Egor_Bronnikov_CV.pdf" width=100% height=100%> -->
 
                 
           <article>
