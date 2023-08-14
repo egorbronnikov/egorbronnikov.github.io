@@ -232,6 +232,20 @@
           </div>
           {%- endif %}
 
+        <!-- attempts to add volume and pages: 250-263 -->
+        {%- if entry.science -%}
+          {%- capture entryscience -%}{{ "" }}{{entry.science}}{%- endcapture -%}
+        {%- endif -%}
+        {% assign entryscience_text = entryscience | strip_html | strip %}
+        {%- capture science -%}{%- if entryscience != "" -%}<span style="color: silver">[{{ entryscience }}]</span>{%- endif -%}{%- endcapture -%} 
+
+        <div class="science"> 
+          {{ science | strip }} 
+        </div> 
+        <div class="science"> 
+          {{ entry.note | strip }} 
+        </div>
+
           {% if entry.abstract -%}
           <!-- Hidden abstract block -->
           <div class="abstract hidden">
@@ -247,20 +261,6 @@
           {%- endif %}
 
 
-        <!-- attempts to add volume and pages: 250-263 -->
-        {%- if entry.science -%}
-          {%- capture entryscience -%}{{ "" }}{{entry.science}}{%- endcapture -%}
-        {%- endif -%}
-
-        {% assign entryscience_text = entryscience | strip_html | strip %}
-        {%- capture science -%}{%- if entryscience != "" -%}<span style="color: silver">[{{ entryscience }}]</span>{%- endif -%}{%- endcapture -%} 
-
-        <div class="science"> 
-          {{ science | strip }} 
-        </div> 
-        <div class="science"> 
-          {{ entry.note | strip }} 
-        </div>
 
 
 
