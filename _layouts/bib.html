@@ -144,9 +144,9 @@
         {% assign entrytype_text = entrytype | strip_html | strip %}
         <!-- {%- capture periodical -%}{{ entrytype }}{%- if entrytype_text != "" and entryyear != "" -%}, {%- endif -%}{{ entrymonth }}{{ entryyear }}{%- if entryvolume != "" -%}, vol. {%- endif -%}{{ entryvolume }}{%- if entrynumber != "" -%} ({%- endif -%}{{ entrynumber }}{%- if entrynumber != "" -%}) {%- endif -%}{%- if entrypages != "" -%}, pp. {%- endif -%}{{ entrypages }} {%- endcapture -%}  -->
         {%- capture periodical -%}{{ entrytype }}{%- if entrytype_text != "" and entryyear != "" -%}, &nbsp;{%- endif -%}{{ entrymonth }}{{ entryyear }}{%- if entryvolume != "" -%}, &nbsp;vol.&nbsp;{%- endif -%}{{ entryvolume }}{%- if entrynumber != "" -%}, &nbsp;no.&nbsp;{%- endif -%}{{ entrynumber }}{%- if entrynumber != "" -%}{%- endif -%}{%- if entrypages != "" -%}, pp.&nbsp;{%- endif -%}{{ entrypages }} {%- endcapture -%} 
-        {%- capture periodical -%}{%- if entryscience != "" -%}[{{ entryscience }}]{%- endif -%}{%- endcapture -%} 
+        {%- capture periodical -%}{%- if entryscience != "" -%}<span style="color: gray">[{{ entryscience }}]</span>{%- endif -%}{%- endcapture -%} 
 
-
+<!-- <span style="color: gray"> </span> -->
               
         <div class="periodical">
           {{ periodical | strip }}
