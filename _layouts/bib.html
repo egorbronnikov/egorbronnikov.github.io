@@ -105,7 +105,20 @@
         {%- endif -%}
 
         </div>
-
+                                 <!-- add filed/science: 109-120 -->
+                                {%- if entry.science -%}
+                                  {%- capture entryscience -%}{{ "" }}{{entry.science}}{%- endcapture -%}
+                                {%- endif -%}
+                                {% assign entryscience_text = entryscience | strip_html | strip %}
+                                {%- capture science -%}{%- if entryscience != "" -%}<span style="color: silver">[{{ entryscience }}]</span>{%- endif -%}{%- endcapture -%} 
+                        
+                                <div class="science"> 
+                                  {{ science | strip }} 
+                                </div> 
+                                <div class="science"> 
+                                  {{ entry.note | strip }} 
+                                </div>
+                                <!-- end adding filed/science -->
         <!-- Journal/Book title and date -->
         {% assign proceedings = "inproceedings,incollection" | split: ','%}
         {% assign thesis = "thesis,mastersthesis,phdthesis" | split: ','%}
