@@ -33,7 +33,7 @@ Additionally, I serve as a <i>pro bono publico</i> Adjunct Professor of economi
 
 <i>Inter alia</i>, I am a member of Dissernet, a <i>pro bono publico</i> academic network that examines, documents and fights against plagiarism in Russian Doctoral and Habilitation theses (read more [here](/affiliations/)).
 
-[comment]: <> (This is a comment, it will not be included)
+[comment]: <> ( <i>Inter alia</i>, I am quite concerned about issues related to research replicability and academic integrity. I am affiliated with the Institute for Replication ([I4R](https://i4replication.org/)), Berkeley Initiative for Transparency in the Social Sciences ([BITSS](https://www.bitss.org/)), and Dissernet, a <i>pro bono publico</i> academic network that examines, documents and fights against plagiarism in Russian Doctoral and Habilitation theses (read more [here](/affiliations/)). )
 
 Previously, I worked at Utrecht University, the University of Vienna, HSE University, and Transparency International Russia (read more [here](/cv/)).
 
