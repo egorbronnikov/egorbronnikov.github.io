@@ -23,9 +23,7 @@ social: true  # includes social icons at the bottom of the page
 
 Please don't hesitate to reach out.
 
-You can contact me by sending an email to either my [Gmail](mailto:e.v.bronnikov@gmail.com) or [University mail](mailto:e.bronnikov@tilburguniversity.edu) addresses.
-
-My physical address is provided on the left.
+You can contact me by sending an email to either my [Gmail](mailto:e.v.bronnikov@gmail.com) or [University mail](mailto:e.bronnikov@tilburguniversity.edu) addresses. My physical address is provided on the left.
 
 Additional details can be found below.
 
