@@ -137,23 +137,33 @@
         {%- if entry.pages -%}
           {%- capture entrypages -%}{{ "" }}{{entry.pages}}{%- endcapture -%}
         {%- endif -%}
-<!-- attempts to add volume and pages: 141-143 & 147 -->
-        <!-- {%- if entry.science -%} -->
-          <!-- {%- capture entryscience -%}{{ "" }}{{entry.science}}{%- endcapture -%} -->
-        <!-- {%- endif -%} -->
         {% assign entrytype_text = entrytype | strip_html | strip %}
         <!-- {%- capture periodical -%}{{ entrytype }}{%- if entrytype_text != "" and entryyear != "" -%}, {%- endif -%}{{ entrymonth }}{{ entryyear }}{%- if entryvolume != "" -%}, vol. {%- endif -%}{{ entryvolume }}{%- if entrynumber != "" -%} ({%- endif -%}{{ entrynumber }}{%- if entrynumber != "" -%}) {%- endif -%}{%- if entrypages != "" -%}, pp. {%- endif -%}{{ entrypages }} {%- endcapture -%}  -->
         {%- capture periodical -%}{{ entrytype }}{%- if entrytype_text != "" and entryyear != "" -%}, &nbsp;{%- endif -%}{{ entrymonth }}{{ entryyear }}{%- if entryvolume != "" -%}, &nbsp;vol.&nbsp;{%- endif -%}{{ entryvolume }}{%- if entrynumber != "" -%}, &nbsp;no.&nbsp;{%- endif -%}{{ entrynumber }}{%- if entrynumber != "" -%}{%- endif -%}{%- if entrypages != "" -%}, pp.&nbsp;{%- endif -%}{{ entrypages }} {%- endcapture -%} 
-        <!-- {%- capture periodical -%}{%- if entryscience != "" -%}<span style="color: silver">[{{ entryscience }}]</span>{%- endif -%}{%- endcapture -%}  -->
 
+
+<!-- attempts to add volume and pages -->
+        <!-- {%- if entry.science -%} -->
+          <!-- {%- capture entryscience -%}{{ "" }}{{entry.science}}{%- endcapture -%} -->
+        <!-- {%- endif -%} -->
 <!-- <span style="color: gray"> </span> -->
-              
+
+        <!-- {% assign entryscience_text = entrytype | strip_html | strip %} -->
+        <!-- {%- capture science -%}{%- if entryscience != "" -%}<span style="color: silver">[{{ entryscience }}]</span>{%- endif -%}{%- endcapture -%}  -->
+
         <div class="periodical">
           {{ periodical | strip }}
         </div>
         <div class="periodical">
           {{ entry.note | strip }}
         </div>
+
+        <!-- <div class="science"> -->
+          <!-- {{ science | strip }} -->
+        <!-- </div> -->
+        <!-- <div class="science"> -->
+          <!-- {{ entry.note | strip }} -->
+        <!-- </div> -->
 
           <!-- Links/Buttons -->
           <div class="links">
