@@ -29,18 +29,19 @@
         <!-- Entry bib key -->
         <div id="{{entry.key}}" class="col-sm-8">
                                  <!-- add filed/science: 31-43 -->
-                                {%- if entry.science -%}
-                                  {%- capture entryscience -%}{{ "" }}{{entry.science}}{%- endcapture -%}
-                                {%- endif -%}
-                                {% assign entryscience_text = entryscience | strip_html | strip %}
-                                {%- capture science -%}{%- if entryscience != "" -%}<span style="color: silver">[{{ entryscience }}]</span>{%- endif -%}{%- endcapture -%} 
+                                <!-- {%- if entry.science -%} -->
+                                  <!-- {%- capture entryscience -%}{{ "" }}{{entry.science}}{%- endcapture -%} -->
+                                <!-- {%- endif -%} -->
+                                <!-- {% assign entryscience_text = entryscience | strip_html | strip %} -->
+                                <!-- {%- capture science -%}{%- if entryscience != "" -%}<span style="color: silver">[{{ entryscience }}]</span>{%- endif -%}{%- endcapture -%}  -->
                         
-                                <div class="science"> 
-                                  {{ science | strip }} 
-                                </div> 
-                                <div class="science"> 
-                                  {{ entry.note | strip }} 
-                                </div>
+                                <!-- <div class="science">  -->
+                                  <!-- {{ science | strip }}  -->
+                                <!-- </div>  -->
+                                <!-- <div class="science">  -->
+                                  <!-- {{ entry.note | strip }}  -->
+                                <!-- </div> -->
+            
                                 <!-- end adding filed/science -->
         <!-- Title -->
         <div class="title">{{entry.title}}</div>
@@ -215,6 +216,18 @@
             <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
           {%- endif %}
                                  <!-- add filed/science: 204-215 -->
+                              {%- if entry.science -%}
+                                  {%- capture entryscience -%}{{ "" }}{{entry.science}}{%- endcapture -%}
+                                {%- endif -%}
+                                {% assign entryscience_text = entryscience | strip_html | strip %}
+                                {%- capture science -%}{%- if entryscience != "" -%}<span style="color: silver">[{{ entryscience }}]</span>{%- endif -%}{%- endcapture -%} 
+                        
+                                <div class="science"> 
+                                  {{ science | strip }} 
+                                </div> 
+                                <div class="science"> 
+                                  {{ entry.note | strip }} 
+                                </div>
                                 <!-- {%- if entry.science -%} -->
                                   <!-- {%- capture entryscience -%}{{ "" }}{{entry.science}}{%- endcapture -%} -->
                                 <!-- {%- endif -%} -->
