@@ -7,4 +7,5 @@ nav: false
 Syllabus_RG_pdf: BehEc_Reading_Group.pdf
 ---
 
-TBA
+Further information will be announced shortly.
+
