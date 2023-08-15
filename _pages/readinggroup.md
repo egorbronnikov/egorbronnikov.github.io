@@ -4,7 +4,7 @@ title: Reading Group
 permalink: /readinggroup/
 description: reading group info 
 nav: false
-Syllabus_RG_pdf: example_pdf.pdf
+Syllabus_RG_pdf: BehEc_Reading_Group.pdf
 ---
 
 TBA
