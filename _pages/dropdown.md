@@ -12,7 +12,7 @@ children:
       permalink: /namesake/
     - title: divider
     - title:  Reading Group
-      permalink: /ReadingGroup/
+      permalink: /readinggroup/
     - title: divider
     - title:  Useful Links
       permalink: /usefullinks/
