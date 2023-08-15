@@ -11,6 +11,9 @@ children:
     - title: Not Me
       permalink: /namesake/
     - title: divider
+    - title:  Reading Group
+      permalink: /ReadingGroup/
+    - title: divider
     - title:  Useful Links
       permalink: /usefullinks/
 ---
