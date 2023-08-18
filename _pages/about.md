@@ -31,15 +31,13 @@ My research interests are Behavioural and Experimental Economics, (Behavioural) 
 
 Additionally, I serve as a <i>pro bono publico</i> Adjunct Professor of economics at the School of Science at the Free University of Moscow (Brīvā Universitāte), a tuition-free online university committed to providing state-of-the-art courses by professors who were exiled from Russian state universities due to their political views (read more [here](/teaching/)).
 
+Being concerned about research replicability and academic integrity issues, I am, <i>inter alia</i>, affiliated with the Institute for Replication and Dissernet (read more [here](/affiliations/)).
 
-<i>Inter alia</i>, I am quite concerned about issues related to research replicability and academic integrity. I am affiliated with the Institute for Replication ([I4R](https://i4replication.org/)),  and Dissernet, a <i>pro bono publico</i> academic network that examines, documents and fights against plagiarism in Russian Doctoral and Habilitation theses (read more [here](/affiliations/)).
-
+[comment]: <> (<i>Inter alia</i>, I am quite concerned about issues related to research replicability and academic integrity. I am affiliated with the Institute for Replication ([I4R](https://i4replication.org/)),  and Dissernet, a <i>pro bono publico</i> academic network that examines, documents and fights against plagiarism in Russian Doctoral and Habilitation theses. )
 
 [comment]: <> ( ...  Berkeley Initiative for Transparency in the Social Sciences ([BITSS](https://www.bitss.org/)), ...  )
 
-
 [comment]: <> ( My other affiliations include ..., ...,  the Behavioral Insights Center at Maastricht University (MU BIC), and the European University at Saint Petersburg (EUSP). )
-
 
 Previously, I worked at Utrecht University, the University of Vienna, HSE University, and Transparency International Russia (read more [here](/cv/)).
 
