@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://www.maastrichtuniversity.nl/about-um/faculties/school-business-and-economics'>Maastricht University</a> | <a href='https://economics.harvard.edu/'>Harvard University</a> | <a href='https://freemoscow.university/?lang=en'>the Free University of Moscow</a>
+subtitle: <a href='https://www.maastrichtuniversity.nl/about-um/faculties/school-business-and-economics'>Maastricht University</a> | <a href='https://freemoscow.university/?lang=en'>The Free University of Moscow</a>
 
 
 
@@ -39,7 +39,7 @@ Being concerned about research replicability and academic integrity issues, I am
 
 [comment]: <> ( My other affiliations include ..., ...,  the Behavioral Insights Center at Maastricht University (MU BIC), and the European University at Saint Petersburg (EUSP). )
 
-Previously, I worked at Utrecht University, the University of Vienna, HSE University, and Transparency International Russia (read more [here](/cv/)).
+Previously, I worked at Harvard University, Utrecht University, the University of Vienna, HSE University, and Transparency International Russia (read more [here](/cv/)).
 
 
 
