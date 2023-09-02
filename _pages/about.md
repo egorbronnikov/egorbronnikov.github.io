@@ -25,7 +25,7 @@ work_in_progress_papers: false
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a Doctoral Researcher and PhD Candidate in Economics at the School of Business and Economics at Maastricht University and a Research Assistant at the Department of Economics at Harvard University.
+I am a Doctoral Researcher and PhD Candidate in Economics at the School of Business and Economics at Maastricht University.
 
 My research interests are Behavioural and Experimental Economics, (Behavioural) Game Theory, and Political Economy.
 
