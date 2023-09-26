@@ -4,7 +4,6 @@ title: About
 permalink: /
 subtitle: <a href='https://www.maastrichtuniversity.nl/about-um/faculties/school-business-and-economics'>Maastricht University</a> | <a href='https://freemoscow.university/?lang=en'>Free University of Moscow</a>
 
-
 profile:
   align: left  # right
   image: MPE_SBE.jpeg
