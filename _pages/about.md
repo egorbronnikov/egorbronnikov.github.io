@@ -2,8 +2,8 @@
 layout: about
 title: About
 permalink: /
-subtitle: Prim. Aff. <a href='https://www.maastrichtuniversity.nl/about-um/faculties/school-business-and-economics'>Maastricht University</a> | <a href='https://freemoscow.university/?lang=en'>Free University of Moscow</a>
-subtitle1: Sec. Aff. <a href='https://dissernet.org/about'>Dissernet</a>
+subtitle: Primary <a href='https://www.maastrichtuniversity.nl/about-um/faculties/school-business-and-economics'>Maastricht University</a> | <a href='https://freemoscow.university/?lang=en'>Free University of Moscow</a> | <a href='https://eusp.org/en/econ'>EUSP</a>
+subtitle1: Secondary <a href='https://shorensteincenter.org/'>Harvard Kennedy School</a> | <a href='https://i4replication.org/'>Institute for Replication</a> | <a href='https://dissernet.org/about'>Dissernet</a>
 
 profile:
   align: left  # right
