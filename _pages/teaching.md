@@ -5,7 +5,7 @@ title: FUM
 description: information about the Free University of Moscow (FUM) and the courses taught
 nav: true
 nav_order: 4
-Syllabus_1_pdf: example_pdf.pdf
+Syllabus_1_pdf: FUM_BehEc_Intro.pdf
 Syllabus_2_pdf: example_pdf.pdf
 ---
 
