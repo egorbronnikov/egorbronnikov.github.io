@@ -14,7 +14,7 @@ nav: false
 Syllabus_RG_pdf: BehEc_Reading_Group.pdf
 ---
 
-Please click on the image to visit the _Behavioral Economics Reading Group_ course website.
+Please visit the [Behavioral Economics Reading Group course website](https://econreadinggroup.github.io).
 
 
 
