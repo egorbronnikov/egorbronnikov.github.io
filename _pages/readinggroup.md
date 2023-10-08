@@ -12,3 +12,8 @@ Further information will be announced shortly.
 <form action="https://econreadinggroup.github.io">
     <input type="submit" value="Visit the Behavioral Economics Reading Group Course Page" />
 </form>
+
+[[https://egorbronnikov.github.io/assets/img/Reading_Group.png|alt=octocat]]
+
+
+
