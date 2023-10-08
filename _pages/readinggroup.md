@@ -8,7 +8,6 @@ profile:
   image: Reading_Group.png
   image_circular: false # crops the image to make it circular
 
-description: reading group info 
 nav: false
 Syllabus_RG_pdf: BehEc_Reading_Group.pdf
 ---
