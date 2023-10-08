@@ -6,7 +6,7 @@ permalink: /readinggroup/
 profile:
   align: left  # right
   image: Reading_Group.png
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
 
 nav: false
 Syllabus_RG_pdf: BehEc_Reading_Group.pdf
