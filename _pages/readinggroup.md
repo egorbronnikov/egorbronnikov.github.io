@@ -12,10 +12,6 @@ nav: false
 Syllabus_RG_pdf: BehEc_Reading_Group.pdf
 ---
 
+<\br>
+
 Please visit the [Behavioral Economics Reading Group course website](https://econreadinggroup.github.io).
-
-
-
-[![Alt text for broken image link](https://egorbronnikov.github.io/assets/img/Reading_Group.png)](https://econreadinggroup.github.io)
-
-
