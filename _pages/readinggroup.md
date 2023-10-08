@@ -12,5 +12,5 @@ Please click on the image to visit the _Behavioral Economics Reading Group_ cour
 
 [![Alt text for broken image link](https://egorbronnikov.github.io/assets/img/Reading_Group.png)](https://econreadinggroup.github.io)
 
-[![Alt text for broken image link](https://egorbronnikov.github.io/assets/img/Reading_Group.png | width=100 )](https://econreadinggroup.github.io)
+[![Alt text for broken image link](https://egorbronnikov.github.io/assets/img/Reading_Group.png | width=100px)](https://econreadinggroup.github.io)
 
