@@ -6,8 +6,7 @@ nav: false
 Syllabus_RG_pdf: BehEc_Reading_Group.pdf
 ---
 
-
-[Please click the image below to visit the](https://econreadinggroup.github.io) _[Behavioral Economics Reading Group](https://econreadinggroup.github.io)_ [course website](https://econreadinggroup.github.io).
+Welcome to the _Behavioral Economics Reading Group_ course. In the 2023-2024 academic year, this course is offered by the Department of Economics at the European University at Saint Petersburg. [Please click this link or the image below to visit the course website](https://econreadinggroup.github.io).
 
 
 <p>
