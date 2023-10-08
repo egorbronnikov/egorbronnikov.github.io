@@ -2,6 +2,13 @@
 layout: readinggroup
 title: Reading Group
 permalink: /readinggroup/
+
+profile:
+  align: left  # right
+  image: Reading_Group.png
+  image_circular: false # crops the image to make it circular
+  address: >
+
 description: reading group info 
 nav: false
 Syllabus_RG_pdf: BehEc_Reading_Group.pdf
