@@ -21,13 +21,14 @@
       description: 
         - European University at Saint Petersburg (EUSP) is one of the best private universities in Russia for economics;
         - EUSP is one of the few universities whose head did not sign the notorious letter of Rectors in support of the war in Ukraine;
-    - title: Vienna Centre for Experimental Economics, University of Vienna
-      institution: Research Affiliate, <i>pbp</i> 
-      year: 2022 – p.t.
+
 
 - title:  Previous Affiliations
   type: time_table
   contents:
+    - title: Vienna Centre for Experimental Economics, University of Vienna
+      institution: Research Affiliate 
+      year: 2022 – 2023
     - title: International College of Economics and Finance (ICEF), HSE University
       institution: BSc Papers Supervisor
       year: 2020 – 2022
