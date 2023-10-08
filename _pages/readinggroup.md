@@ -11,6 +11,6 @@ Please click the image below to visit  the _[Behavioral Economics Reading Group]
 
 <p>
     <a href="https://econreadinggroup.github.io" target="_blank">
-      <img src="https://egorbronnikov.github.io/assets/img/Reading_Group.png" width="864" height="540">
+      <img src="https://egorbronnikov.github.io/assets/img/Reading_Group.png" width="835.2" height="522">
     </a>
 </p>
