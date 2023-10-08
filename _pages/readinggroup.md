@@ -2,23 +2,12 @@
 layout: readinggroup
 title: Reading Group
 permalink: /readinggroup/
-
-profile:
-  align: left  # right
-  image: Reading_Group.png
-  image_circular: false # crops the image to make it circular
-
 nav: false
 Syllabus_RG_pdf: BehEc_Reading_Group.pdf
 ---
 
-<br /> 
-<br /> 
 
-Please visit the _[Behavioral Economics Reading Group](https://econreadinggroup.github.io)_ [course website](https://econreadinggroup.github.io).
-
-
-<img src="https://egorbronnikov.github.io/assets/img/Reading_Group.png" width="864" height="540">
+Please click the image below to visit  the _[Behavioral Economics Reading Group](https://econreadinggroup.github.io)_ [course website](https://econreadinggroup.github.io).
 
 <p>
     <a href="https://econreadinggroup.github.io" target="_blank">
