@@ -20,9 +20,14 @@ Further information will be announced shortly.
 Image:
 ![Alt text for broken image link](assets/img/Reading_Group.png)
 
-Link:
-[Alt text for broken link](httsp://example.com)
 
 Image with link:
 [![Alt text for broken image link](assets/img/Reading_Group.png)](https://econreadinggroup.github.io)
 
+
+Image:
+![Alt text for broken image link](https://egorbronnikov.github.io/assets/img/Reading_Group.png)
+
+
+Image with link:
+[![Alt text for broken image link](https://egorbronnikov.github.io/assets/img/Reading_Group.png)](https://econreadinggroup.github.io)
