@@ -12,7 +12,7 @@ Syllabus_2_pdf: example_pdf.pdf
 ### Brief History of the FUM
 
 
-You can read a brief history of the FUM in [my post on the _LSE European Politics and Policy_](https://blogs.lse.ac.uk/europpblog/2023/10/10/how-european-universities-can-counter-russias-intellectual-isolation/).
+You can read a brief history of the Free University of Moscow in [my post on the](https://blogs.lse.ac.uk/europpblog/2023/10/10/how-european-universities-can-counter-russias-intellectual-isolation/) _[LSE European Politics and Policy](https://blogs.lse.ac.uk/europpblog/2023/10/10/how-european-universities-can-counter-russias-intellectual-isolation/)_.
 
 
 
