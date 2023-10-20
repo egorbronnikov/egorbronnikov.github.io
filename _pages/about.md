@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <span style="color:gray"> </span> <a href='https://www.maastrichtuniversity.nl/about-um/faculties/school-business-and-economics'>Maastricht University</a> | <a href='https://freemoscow.university/?lang=en'>Free University of Moscow</a> | <a href='https://eusp.org/en/econ'>European University at St. Petersburg</a> | <a href='https://www.msses.ru/en/'>Shaninka University</a>
+subtitle: <span style="color:gray"> </span> <a href='https://www.maastrichtuniversity.nl/about-um/faculties/school-business-and-economics'>Maastricht University</a> | <a href='https://freemoscow.university/?lang=en'>Free University of Moscow</a> | <a href='https://eusp.org/en/econ'>European University at St. P.</a> | <a href='https://www.msses.ru/en/'>Shaninka University</a>
 
 profile:
   align: left  # right
