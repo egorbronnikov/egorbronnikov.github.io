@@ -12,8 +12,7 @@ profile:
     <p>Tongersestraat 53,</p>
     <p>6211 LM, Maastricht</p>
     <p>The Netherlands</p>
-    <p> </p>
-    <p> </p>
+<br /> 
 
  
 news: true  # includes a list of news items
