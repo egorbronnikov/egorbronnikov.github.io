@@ -26,7 +26,7 @@ I am a Doctoral Researcher and PhD Candidate in Economics at the School of Busin
 
 Additionally, I serve as a <i>pro bono publico</i> Adjunct Professor of economics at the School of Science at the Free University of Moscow (Brīvā Universitāte), a tuition-free online university committed to providing state-of-the-art courses by professors who were exiled from Russian state universities due to their political views (read more [here](/teaching/)). 
 
-In the 2023-2024 academic year, I am also a <i>pbp</i> visiting (external) lecturer at the Department of Economics at the European University at St. Petersburg.
+In the 2023-2024 academic year, I am also a <i>pbp</i> visiting (external) lecturer at the Department of Economics at the European University at St. Petersburg and an MA thesis co-supervisor at Shaninka University.
 
 My research interests are Behavioural and Experimental Economics, (Behavioural) Game Theory, and Political Economy.
 
