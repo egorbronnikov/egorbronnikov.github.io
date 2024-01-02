@@ -15,10 +15,10 @@
   contents:
     - title: Behavioural & Experimental Economics
       items: 
-        - (motivated) reasoning, trust, fairness, loneliness, deception;
+        - information, motivated reasoning, trust, fairness, loneliness, deception;
     - title: (Behavioural) Game Theory
       items:
-        - voting, information asymmetry, evolution, level-k;
+        - information (complexity), (social) choice, (motivated) beliefs, evolution, level-k;
     - title: Political Economy
       items:
         - propaganda, autocracy, democratisation, transitional justice, corruption, education.
