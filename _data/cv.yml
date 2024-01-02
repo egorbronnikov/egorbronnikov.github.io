@@ -15,7 +15,7 @@
   contents:
     - title: Behavioural & Experimental Economics
       items: 
-        - information, motivated reasoning, trust, fairness, loneliness, deception;
+        - motivated reasoning, information (complexity), trust, fairness, loneliness;
     - title: (Behavioural) Game Theory
       items:
         - information (complexity), (social) choice, (motivated) beliefs, evolution, level-k;
