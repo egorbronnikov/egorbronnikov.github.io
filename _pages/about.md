@@ -30,7 +30,9 @@ My research interests are Behavioural and Experimental Economics, (Behavioural) 
 
 Additionally, I serve as a <i>pro bono publico</i> Adjunct Professor of economics at the School of Science at the Free University of Moscow (Brīvā Universitāte), a tuition-free online university committed to providing state-of-the-art courses by professors who were exiled from Russian state universities due to their political views (read more [here](/teaching/)). 
 
-In the 2023-2024 academic year, I am also a <i>pbp</i> visiting (external) lecturer at the Department of Economics at the European University at St. Petersburg and an MA thesis co-supervisor at Shaninka University. In addition, I am affiliated with the <i>HKS Misinformation Review</i> at the Harvard Kennedy School, the Institute for Replication, and Dissernet (read more [here](/affiliations/)).
+In the 2023-2024 academic year, I am also a <i>pbp</i> visiting (external) lecturer at the Department of Economics at the European University at St. Petersburg and an MA thesis co-supervisor at Shaninka University. In addition, I am affiliated with the Berkeley Initiative for Transparency in the Social Sciences (at the University of California, Berkeley), the Institute for Replication, and Dissernet (read more [here](/affiliations/)).
+
+[comment]: <> ( as well as with the <i>HKS Misinformation Review</i> at the Harvard Kennedy School. )
 
 [comment]: <> (<i>Inter alia</i>, I am quite concerned about issues related to research replicability and academic integrity. I am affiliated with the Institute for Replication ([I4R](https://i4replication.org/)),  and Dissernet, a <i>pro bono publico</i> academic network that examines, documents and fights against plagiarism in Russian Doctoral and Habilitation theses. )
 
