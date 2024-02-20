@@ -10,7 +10,7 @@ related_posts: false
 
 <ul>
     <li>
-        Open Letter from the Editors and Coordination Council of T-invariant: <a href="[https://sites.google.com/view/netvoine-en](https://www.t-invariant.org/2024/02/nothing-is-ambiguous-br-from-the-editors-and-coordination-council-of-t-invariant/)">Nothing is Ambiguous</a>
+        Open Letter from the Editors and Coordination Council of T-invariant: <a href="https://www.t-invariant.org/2024/02/nothing-is-ambiguous-br-from-the-editors-and-coordination-council-of-t-invariant/">Nothing is Ambiguous</a>
     </li>
 </ul>
 
