@@ -2,7 +2,7 @@
 layout: page
 title: Motivated Reasoning
 permalink: /motivatedreasoning/
-description: here I try to collect as many papers on motivated reasoning (and related) as possible
+description: here I try to collect as many papers on motivated reasoning (and beyond) as possible
 nav: false
 ---
 
