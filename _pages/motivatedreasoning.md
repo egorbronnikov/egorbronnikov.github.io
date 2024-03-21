@@ -96,6 +96,8 @@ Here, I am endeavoring to gather as many papers as possible on motivated reasoni
   - Thaler, M. (2021). Gender differences in motivated reasoning. _Journal of Economic Behavior & Organization_, vol. 191, pp. 501--518.
 [[HTML](https://www.sciencedirect.com/science/article/abs/pii/S0167268121003954)] <span style="color:gray">[MR]</span> <span style="color:gray">[Experiment]</span>
 
+- Review Papers
+  - TBA
 
 
 ##### 2020 papers
