@@ -16,7 +16,7 @@ Bolte, L., & Fan, T. Q. (2024). Motivated mislearning: The case of correlation n
 
 #### 2023 papers
 
-TBA
+v
 
 ##### 2022 papers
 
@@ -24,12 +24,15 @@ TBA
 
 ##### 2021 papers
 
-TBA
+- Thaler, M. (2021). Gender differences in motivated reasoning. _Journal of Economic Behavior & Organization_, vol. 191, pp. 501-518.
+
+[[html](https://www.sciencedirect.com/science/article/abs/pii/S0167268121003954)]
+
 
 ##### 2020 papers
 
-Zimmermann, F. (2020). The dynamics of motivated beliefs. _American Economic Review_, vol. 110, no. 2, pp. 337-363. 
-[[html](https://www.aeaweb.org/articles?id=10.1257/aer.20180728)]
+- Zimmermann, F. (2020). The dynamics of motivated beliefs. _American Economic Review_, vol. 110, no. 2, pp. 337-363. 
+**[[html](https://www.aeaweb.org/articles?id=10.1257/aer.20180728)]**
 
 
 
@@ -46,7 +49,7 @@ TBA
 
 #### 2023 papers
 
-Amelio, A., & Zimmermann, F. (2023). Motivated memory in economics—a review. _Games_, vol.  14, no. 1, pp. 15.
+Amelio, A., & Zimmermann, F. (2023). Motivated memory in economics—a review. _Games_, vol.  14, no. 1, pp. 15. [[html]()]
 
 #### 2022 papers
 TBA
