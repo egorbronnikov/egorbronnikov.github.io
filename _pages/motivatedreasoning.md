@@ -2,19 +2,17 @@
 layout: page
 title: Motivated Reasoning
 permalink: /motivatedreasoning/
-description: motivated reasoning (and beyond)
 nav: false
 ---
 
 Here, I am endeavoring to gather as many papers as possible on motivated reasoning and motivated memory, primarily focusing on experimental papers within the field of Economics. While aiming to remain focused on these specific topics, determining the precise boundary can sometimes be subtle. Additionally, I am incorporating several papers on related—but broader—topics such as motivated cognition and self-serving beliefs.
 
-### Published Papers in Economics
-
 <p>&nbsp;</p> 
 
 
-##### Forthcoming papers
+### Published Papers in Economics
 
+##### Forthcoming papers
 - Research Papers
   - Drobner, C., & Goerg, S. J. (forthcoming). Motivated belief updating and rationalization of information. _Management Science_. [[HTML](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2023.02537?af=R)] <span style="color:gray">[MR]</span>
  
@@ -29,7 +27,6 @@ Here, I am endeavoring to gather as many papers as possible on motivated reasoni
 
 
 ##### 2024 papers
-
 - Research Papers
   - Bolte, L., & Fan, T. Q. (2024). Motivated mislearning: The case of correlation neglect. _Journal of Economic Behavior & Organization_, vol. 217, pp. 647--663. [[HTML](https://www.sciencedirect.com/science/article/abs/pii/S0167268123004249)]
     
@@ -43,9 +40,7 @@ Here, I am endeavoring to gather as many papers as possible on motivated reasoni
 
 
 ##### 2023 papers
-
 - Research Papers
-
   - Amasino, D. R., Pace, D. D., & van der Weele, J. (2023). Self-serving bias in redistribution choices: Accounting for beliefs and norms. _Journal of Economic Psychology_, vol. 98, pp. 102654. [[HTML](https://www.sciencedirect.com/science/article/pii/S0167487023000557)]
 
   - Bicchieri, C., Dimant, E., & Sonderegger, S. (2023). It's not a lie if you believe the norm does not apply: Conditional norm-following and belief distortion. _Games and Economic Behavior_, vol. 138, pp. 321--354. [[HTML](https://www.sciencedirect.com/science/article/pii/S0899825623000088)] <span style="color:gray">[ESB]</span> <span style="color:gray">[Experiment]</span>
@@ -68,7 +63,6 @@ Here, I am endeavoring to gather as many papers as possible on motivated reasoni
 
 
 ##### 2022 papers
-
 - Research Papers
   - Burro, G., & Castagnetti, A. (2022). Will I tell you that you are smart (dumb)? Deceiving Others about their IQ or about a Random Draw. _Journal of Behavioral and Experimental Economics_, vol.  100, pp. 101920. [[HTML](https://www.sciencedirect.com/science/article/abs/pii/S2214804322000921)]
 
@@ -98,7 +92,6 @@ Here, I am endeavoring to gather as many papers as possible on motivated reasoni
 
 
 ##### 2021 papers
-
 - Research Papers
   - Thaler, M. (2021). Gender differences in motivated reasoning. _Journal of Economic Behavior & Organization_, vol. 191, pp. 501--518.
 [[HTML](https://www.sciencedirect.com/science/article/abs/pii/S0167268121003954)] <span style="color:gray">[MR]</span> <span style="color:gray">[Experiment]</span>
@@ -106,7 +99,6 @@ Here, I am endeavoring to gather as many papers as possible on motivated reasoni
 
 
 ##### 2020 papers
-
 - Research Papers
   - Chew, S. H., Huang, W., & Zhao, X. (2020). Motivated false memory. _Journal of Political Economy_, vol. 128, no. 10, pp. 3913--3939. [[HTML](https://www.journals.uchicago.edu/doi/abs/10.1086/709971)] <span style="color:gray">[MM]</span> <span style="color:gray">[Experiment]</span>
 
@@ -127,7 +119,6 @@ Here, I am endeavoring to gather as many papers as possible on motivated reasoni
 
 
 ##### 2019 papers
-
 - Research Papers
   - Coutts, A. (2019). Good news and bad news are still news: Experimental evidence on belief updating. _Experimental Economics_, vol. 22, no. 2, pp. 369--395. [[HTML](https://link.springer.com/article/10.1007/s10683-018-9572-5)]
 
@@ -144,9 +135,7 @@ Here, I am endeavoring to gather as many papers as possible on motivated reasoni
 
 
 
-
 ##### 2018 papers
-
 - Research Papers
   - TBA
  
@@ -155,7 +144,6 @@ Here, I am endeavoring to gather as many papers as possible on motivated reasoni
 
 
 ##### 2017 papers
-
 - Research Papers
   - Charness, G., & Dave, C. (2017). Confirmation bias with motivated beliefs. _Games and Economic Behavior_, vol. 104, pp. 1--23. [[HTML](https://www.sciencedirect.com/science/article/pii/S0899825617300416)]
  
@@ -165,7 +153,6 @@ Here, I am endeavoring to gather as many papers as possible on motivated reasoni
 
 
 ##### 2016 papers
-
 - Research Papers
   - Exley, C. L. (2016). Excusing selfishness in charitable giving: The role of risk. _Review of Economic Studies_, vol. 83, no. 2, pp. 587--628. [[HTML](https://academic.oup.com/restud/article-abstract/83/2/587/2461284)] <span style="color:gray">[ESB]</span> <span style="color:gray">[Experiment]</span>
     
@@ -185,7 +172,6 @@ Here, I am endeavoring to gather as many papers as possible on motivated reasoni
 
   
 ##### 2015 papers
-
 - Research Papers
   - Bénabou, R. (2015). The economics of motivated beliefs. _Revue d'économie politique_, vol. 5, pp. 665--685. [[HTML](https://www.cairn.info/revue-d-economie-politique-2015-5-page-665.htm)] <span style="color:gray">[Theory]</span>
  
