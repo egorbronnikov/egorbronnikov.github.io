@@ -44,6 +44,9 @@ nav: false
 ##### 2023 papers
 
 - Research Papers
+
+  - Amasino, D. R., Pace, D. D., & van der Weele, J. (2023). Self-serving bias in redistribution choices: Accounting for beliefs and norms. _Journal of Economic Psychology_, vol. 98, pp. 102654.
+    
   - Sprengholz, P., Henkel, L., Böhm, R., & Betsch, C. (2023). Historical narratives about the COVID-19 pandemic are motivationally biased. _Nature_, vol. 623, no. 7987, pp. 588-593. [[HTML]()]
 
   - Wang, A., Wang, S., & Ye, X. (2023). When information conflicts with obligations: the role of motivated cognition. _The Economic Journal_, vol. 133, no. 654, pp. 2533-2552. [[HTML]()]
@@ -96,6 +99,8 @@ nav: false
 
   - Solda, A., Ke, C., Page, L., & Von Hippel, W. (2020). Strategically delusional. _Experimental Economics_, vol. 23, pp. 604-631.
 
+  - Stone, D. F. (2020). Just a big misunderstanding? Bias and Bayesian affective polarization. International Economic Review, 61(1), 189-217. [[HTML](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/iere.12421)]
+
   - Zimmermann, F. (2020). The dynamics of motivated beliefs. _American Economic Review_, vol. 110, no. 2, pp. 337-363.
   [[HTML](https://www.aeaweb.org/articles?id=10.1257/aer.20180728)]
 
@@ -109,9 +114,15 @@ nav: false
 
 - Research Papers
   - Coutts, A. (2019). Good news and bad news are still news: Experimental evidence on belief updating. _Experimental Economics_, vol. 22, no. 2, pp. 369-395. [[HTML](https://link.springer.com/article/10.1007/s10683-018-9572-5)]
-    
-  - Saucet, C., & Villeval, M. C. (2019). Motivated memory in dictator games. _Games and Economic Behavior_, vol. 117, pp. 250-275.
-    
+
+  - Saucet, C., & Villeval, M. C. (2019). Motivated memory in dictator games. _Games and Economic Behavior_, vol. 117, pp. 250-275. [[HTML](https://www.sciencedirect.com/science/article/abs/pii/S0899825619300879)]
+
+  - Schwardmann, P., & Van der Weele, J. (2019). Deception and self-deception. _Nature Human Behaviour_, vol. 3, no. 10, pp.  1055-1061. [[HTML](https://www.nature.com/articles/s41562-019-0666-7)]
+
+  - Stone, D. F. (2019). “Unmotivated bias” and partisan hostility: Empirical evidence. _Journal of Behavioral and Experimental Economics_, vol. 79, pp. 12-26. [[HTML](https://www.sciencedirect.com/science/article/pii/S221480431830418X)]
+
+
+   
 - Review Papers
   - TBA
 
