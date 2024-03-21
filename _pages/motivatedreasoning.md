@@ -141,13 +141,13 @@ nav: false
   - TBA
  
 - Review Papers
-  - Golman, R., Hagmann, D., & Loewenstein, G. (2017). Information avoidance. _Journal of Economic Literature_, vol. 55, no. 1, pp.= 96-135.
+  - Golman, R., Hagmann, D., & Loewenstein, G. (2017). Information avoidance. _Journal of Economic Literature_, vol. 55, no. 1, pp. 96-135.
 
 ##### 2016 papers
 
 
 - Research Papers
-  - TBA
+  - Exley, C. L. (2016). Excusing selfishness in charitable giving: The role of risk. _Review of Economic Studies_, vol. 83, no. 2, pp. 587-628. [[HTML](https://academic.oup.com/restud/article-abstract/83/2/587/2461284)]
     
 - Review Papers
   - Epley, N., & Gilovich, T. (2016). The mechanics of motivated reasoning. _Journal of Economic Perspectives_, vol. 30, no. 3, pp. 133-140.
