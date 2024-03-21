@@ -49,17 +49,15 @@ TBA
 
 ##### 2020 papers
 
-###### Research Papers
+- Research Papers
 
-- Zimmermann, F. (2020). The dynamics of motivated beliefs. _American Economic Review_, vol. 110, no. 2, pp. 337-363. 
+  - Zimmermann, F. (2020). The dynamics of motivated beliefs. _American Economic Review_, vol. 110, no. 2, pp. 337-363.
+  [[HTML](https://www.aeaweb.org/articles?id=10.1257/aer.20180728)]
 
-&nbsp; &nbsp; &nbsp; &nbsp; [[HTML](https://www.aeaweb.org/articles?id=10.1257/aer.20180728)]
+- Review Papers in Economics
 
-###### Review Papers in Economics
-
-- Molnar, A., & Loewenstein, G. (2022). Chapter 15: Thoughts and Players: An Introduction to Old and New Economic Perspectives on Beliefs. , In Musolino, J., Sommer, J., & Hemmer, P. (Eds.) _The Cognitive Science of Belief: A Multidisciplinary Approach._ (pp. 321-350). Cambridge University Press.
-
-&nbsp; &nbsp; &nbsp; &nbsp; [[HTML](https://www.cambridge.org/core/books/cognitive-science-of-belief/4B06289013C7C18773CE2AF05E1A00ED)] &nbsp; &nbsp;
+  - Molnar, A., & Loewenstein, G. (2022). Chapter 15: Thoughts and Players: An Introduction to Old and New Economic Perspectives on Beliefs. , In Musolino, J., Sommer, J., & Hemmer, P. (Eds.) _The Cognitive Science of Belief: A Multidisciplinary Approach._ (pp. 321-350). Cambridge University Press.
+  [[HTML](https://www.cambridge.org/core/books/cognitive-science-of-belief/4B06289013C7C18773CE2AF05E1A00ED)] &nbsp; &nbsp;
 
 
 
