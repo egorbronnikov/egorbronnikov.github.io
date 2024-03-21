@@ -20,7 +20,7 @@ nav: false
   
   - Thaler, M. (forthcoming). Good News Is Not a Sufficient Condition for Motivated Reasoning. _American Economic Journal: Microeconomics_. [[HTML](https://www.aeaweb.org/articles?id=10.1257/mic.20220146&&from=f)]
  
-  - Coffman, K., Collis, M. R., & Kulkarni, L. (2023). Stereotypes and belief updating. _Journal of the European Economic Association_.[[HTML]()]
+  - Coffman, K., Collis, M. R., & Kulkarni, L. (2023). Stereotypes and belief updating. _Journal of the European Economic Association_.[[HTML](https://academic.oup.com/jeea/advance-article-abstract/doi/10.1093/jeea/jvad063/7333976)]
     
 - Review Papers
   - TBA
@@ -52,7 +52,7 @@ nav: false
 
   - Sprengholz, P., Henkel, L., Böhm, R., & Betsch, C. (2023). Historical narratives about the COVID-19 pandemic are motivationally biased. _Nature_, vol. 623, no. 7987, pp. 588-593. [[HTML](https://www.nature.com/articles/s41586-023-06674-5)]
 
-  - Wang, A., Wang, S., & Ye, X. (2023). When information conflicts with obligations: the role of motivated cognition. _The Economic Journal_, vol. 133, no. 654, pp. 2533-2552. [[HTML]()]
+  - Wang, A., Wang, S., & Ye, X. (2023). When information conflicts with obligations: the role of motivated cognition. _The Economic Journal_, vol. 133, no. 654, pp. 2533-2552. [[HTML](https://academic.oup.com/ej/article-abstract/133/654/2533/7175372)]
     
 - Review Papers
   - Amelio, A., & Zimmermann, F. (2023). Motivated memory in economics—a review. _Games_, vol. 14, no. 1, pp. 15. [[HTML](https://www.mdpi.com/2073-4336/14/1/15)]
@@ -104,11 +104,11 @@ nav: false
 
   - Exley, C. L. (2020). Using charity performance metrics as an excuse not to give. _Management Science_, vol. 66, no. 2, pp. 553-563. [[HTML](https://pubsonline.informs.org/doi/pdf/10.1287/mnsc.2018.3268)]
 
-  - Ging-Jehli, N. R., Schneider, F. H., & Weber, R. A. (2020). On self-serving strategic beliefs. _Games and Economic Behavior_, 122, 341-353. [[HTML](https://www.sciencedirect.com/science/article/pii/S0899825620300713)]
+  - Ging-Jehli, N. R., Schneider, F. H., & Weber, R. A. (2020). On self-serving strategic beliefs. _Games and Economic Behavior_, vol. 122, pp. 341-353. [[HTML](https://www.sciencedirect.com/science/article/pii/S0899825620300713)]
 
   - Solda, A., Ke, C., Page, L., & Von Hippel, W. (2020). Strategically delusional. _Experimental Economics_, vol. 23, pp. 604-631. [[HTML](https://link.springer.com/article/10.1007/s10683-019-09636-9)]
 
-  - Stone, D. F. (2020). Just a big misunderstanding? Bias and Bayesian affective polarization. _International Economic Review_, 61(1), 189-217. [[HTML](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/iere.12421)]
+  - Stone, D. F. (2020). Just a big misunderstanding? Bias and Bayesian affective polarization. _International Economic Review_, vol. 61, no. 1, 189-217. [[HTML](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/iere.12421)]
 
   - Zimmermann, F. (2020). The dynamics of motivated beliefs. _American Economic Review_, vol. 110, no. 2, pp. 337-363.
   [[HTML](https://www.aeaweb.org/articles?id=10.1257/aer.20180728)]
@@ -177,7 +177,7 @@ nav: false
 ##### 2015 papers
 
 - Research Papers
-  - Bénabou, R. (2015). The economics of motivated beliefs. _Revue d'économie politique_, (5), 665-685. [[HTML](https://www.cairn.info/revue-d-economie-politique-2015-5-page-665.htm)]
+  - Bénabou, R. (2015). The economics of motivated beliefs. _Revue d'économie politique_, vol. 5, pp. 665-685. [[HTML](https://www.cairn.info/revue-d-economie-politique-2015-5-page-665.htm)]
  
 - Review Papers
   - TBA
