@@ -228,7 +228,7 @@ nav: false
 
   - Orhun, A. Y., Cohn, A., & Raymond, C. (2021). Motivated optimism and workplace risk. _SSRN Working Paper_, no. 3966686. [[HTML](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3966686)]
 
-  - Engelmann, J., Lebreton, M., Schwardmann, P., van der Weele, J. J., & Chang, L. A. (2019). Anticipatory anxiety and wishful thinking. Working Paper_. [[HTML](https://papers.tinbergen.nl/19042.pdf)]
+  - Engelmann, J., Lebreton, M., Schwardmann, P., van der Weele, J. J., & Chang, L. A. (2019). Anticipatory anxiety and wishful thinking. _Working Paper_. [[HTML](https://papers.tinbergen.nl/19042.pdf)]
 
   - Wang, A., Wang, S., & Ye, X. (2018). Religion and motivated cognition: when Ramadan meets the college entrance exam. _Working Paper_. [[HTML](https://aalims.org/wp-content/uploads/2020/04/Shaoda-Wang-Ramadan_v5.pdf)]
 
