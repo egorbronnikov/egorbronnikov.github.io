@@ -20,7 +20,7 @@ Here, I am endeavoring to gather as many papers as possible on motivated reasoni
   
   - Thaler, M. (forthcoming). Good News Is Not a Sufficient Condition for Motivated Reasoning. _American Economic Journal: Microeconomics_. [[HTML](https://www.aeaweb.org/articles?id=10.1257/mic.20220146&&from=f)] <span style="color:gray">[MR]</span>
  
-  - Coffman, K., Collis, M. R., & Kulkarni, L. (2023). Stereotypes and belief updating. _Journal of the European Economic Association_.[[HTML](https://academic.oup.com/jeea/advance-article-abstract/doi/10.1093/jeea/jvad063/7333976)]
+  - Coffman, K., Collis, M. R., & Kulkarni, L. (2023). Stereotypes and belief updating. _Journal of the European Economic Association_. [[HTML](https://academic.oup.com/jeea/advance-article-abstract/doi/10.1093/jeea/jvad063/7333976)]
     
 - Review Papers
   - TBA
