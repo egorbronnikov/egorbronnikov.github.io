@@ -189,7 +189,7 @@ nav: false
 
   - Hagenbach, J., & Saucet, C. (2024). Motivated Skepticism. _Working Paper_. [[HTML](https://hal.science/hal-03770685/document)]
 
-  - Thaler, M. (2024). Good News Is Not a Sufficient Condition for Motivated Reasoning. _Working Paper_. [[HTML]()](https://arxiv.org/pdf/2012.01548.pdf)]
+  - Thaler, M. (2024). Good News Is Not a Sufficient Condition for Motivated Reasoning. _Working Paper_. [[HTML](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3543371)]
 
   - Battigalli, P., & Generoso, N. (2023). Information flows and memory in games. _SSRN Working Paper_, no. 4435785. [[HTML](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4435785)]
 
@@ -222,18 +222,6 @@ nav: false
   
 - Review Papers
   - Villeval, M. C. (2020). Performance feedback and peer effects: A review. _SSRN Working Paper_, no. 3543371. [[HTML](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3543371)]
-
-
-
-
-
-[[HTML]()]
-
-[[HTML]()]
-
-[[HTML]()]
-
-
 
 
 
