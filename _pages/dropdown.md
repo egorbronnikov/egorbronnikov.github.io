@@ -16,6 +16,9 @@ children:
     - title: divider
     - title:  Useful Links
       permalink: /usefullinks/
+    - title: divider
+    - title:  Motivated Reasoning
+      permalink: /motivatedreasoning/
 ---
 
 
