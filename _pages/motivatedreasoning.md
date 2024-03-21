@@ -68,7 +68,7 @@ nav: false
 
   - Castagnetti, A., & Schmacker, R. (2022). Protecting the ego: Motivated information selection and updating. _European Economic Review_, vol. 142, pp. 104007. [[HTML](https://www.sciencedirect.com/science/article/pii/S0014292121002786)]
 
-  - Coffman, K. B., Exley, C. L., & Niederle, M. (2021). The role of beliefs in driving gender discrimination. Management Science, vol. 67, no. 6, pp. 3551-3569. [[HTML](https://pubsonline.informs.org/doi/10.1287/mnsc.2020.3660)]  
+  - Coffman, K. B., Exley, C. L., & Niederle, M. (2021). The role of beliefs in driving gender discrimination. _Management Science_, vol. 67, no. 6, pp. 3551-3569. [[HTML](https://pubsonline.informs.org/doi/10.1287/mnsc.2020.3660)]  
 
   - Drobner, C. (2022). Motivated beliefs and anticipation of uncertainty resolution. _American Economic Review: Insights_, vol. 4, no. 1, pp. 89-105. [[HTML](https://www.aeaweb.org/articles?id=10.1257/aeri.20200829)]
 
@@ -104,11 +104,11 @@ nav: false
 
   - Exley, C. L. (2020). Using charity performance metrics as an excuse not to give. _Management Science_, vol. 66, no. 2, pp. 553-563. [[HTML](https://pubsonline.informs.org/doi/pdf/10.1287/mnsc.2018.3268)]
 
-  - Ging-Jehli, N. R., Schneider, F. H., & Weber, R. A. (2020). On self-serving strategic beliefs. Games and Economic Behavior, 122, 341-353. [[HTML](https://www.sciencedirect.com/science/article/pii/S0899825620300713)]
+  - Ging-Jehli, N. R., Schneider, F. H., & Weber, R. A. (2020). On self-serving strategic beliefs. _Games and Economic Behavior_, 122, 341-353. [[HTML](https://www.sciencedirect.com/science/article/pii/S0899825620300713)]
 
   - Solda, A., Ke, C., Page, L., & Von Hippel, W. (2020). Strategically delusional. _Experimental Economics_, vol. 23, pp. 604-631. [[HTML](https://link.springer.com/article/10.1007/s10683-019-09636-9)]
 
-  - Stone, D. F. (2020). Just a big misunderstanding? Bias and Bayesian affective polarization. International Economic Review, 61(1), 189-217. [[HTML](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/iere.12421)]
+  - Stone, D. F. (2020). Just a big misunderstanding? Bias and Bayesian affective polarization. _International Economic Review_, 61(1), 189-217. [[HTML](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/iere.12421)]
 
   - Zimmermann, F. (2020). The dynamics of motivated beliefs. _American Economic Review_, vol. 110, no. 2, pp. 337-363.
   [[HTML](https://www.aeaweb.org/articles?id=10.1257/aer.20180728)]
