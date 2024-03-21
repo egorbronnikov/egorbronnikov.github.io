@@ -18,15 +18,15 @@ Bolte, L., & Fan, T. Q. (2024). Motivated mislearning: The case of correlation n
 
 TBA
 
-#### 2022 papers
+##### 2022 papers
 
 TBA
 
-#### 2021 papers
+##### 2021 papers
 
 TBA
 
-#### 2020 papers
+##### 2020 papers
 
 Zimmermann, F. (2020). The dynamics of motivated beliefs. _American Economic Review_, vol. 110, no. 2, pp. 337-363. 
 [[html](https://www.aeaweb.org/articles?id=10.1257/aer.20180728)]
@@ -72,16 +72,16 @@ TBA
 #### 2016 papers
 
 
-Epley, N., & Gilovich, T. (2016). The mechanics of motivated reasoning. _Journal of Economic Perspectives_, vol. 30. no. 3, pp. 133-140.
+- Epley, N., & Gilovich, T. (2016). The mechanics of motivated reasoning. _Journal of Economic Perspectives_, vol. 30. no. 3, pp. 133-140.
 [[html](https://www.aeaweb.org/articles?id=10.1257/jep.30.3.133)]
 
-Bénabou, R., & Tirole, J. (2016). Mindful economics: The production, consumption, and value of beliefs. _Journal of Economic Perspectives_, vol. 30. no. 3, pp. 141-164.
+- Bénabou, R., & Tirole, J. (2016). Mindful economics: The production, consumption, and value of beliefs. _Journal of Economic Perspectives_, vol. 30. no. 3, pp. 141-164.
 [[html](https://www.aeaweb.org/articles?id=10.1257/jep.30.3.141)]
 
-Golman, R., Loewenstein, G., Moene, K. O., & Zarri, L. (2016). The preference for belief consonance. _Journal of Economic Perspectives_, vol. 30. no. 3, pp. 165-188.
+- Golman, R., Loewenstein, G., Moene, K. O., & Zarri, L. (2016). The preference for belief consonance. _Journal of Economic Perspectives_, vol. 30. no. 3, pp. 165-188.
 [[html](https://www.aeaweb.org/articles?id=10.1257/jep.30.3.165)]
 
-Gino, F., Norton, M. I., & Weber, R. A. (2016). Motivated Bayesians: Feeling moral while acting egoistically. _Journal of Economic Perspectives_, vol. 30. no. 3, pp. 189-212.
+- Gino, F., Norton, M. I., & Weber, R. A. (2016). Motivated Bayesians: Feeling moral while acting egoistically. _Journal of Economic Perspectives_, vol. 30. no. 3, pp. 189-212.
 [[html](https://www.aeaweb.org/articles?id=10.1257/jep.30.3.189)]
 
 
