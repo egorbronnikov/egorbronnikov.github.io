@@ -126,7 +126,7 @@ nav: false
   - TBA
  
 - Review Papers
-  - TBA
+  - Golman, R., Hagmann, D., & Loewenstein, G. (2017). Information avoidance. _Journal of Economic Literature_, vol. 55, no. 1, pp.= 96-135.
 
 ##### 2016 papers
 
@@ -164,6 +164,7 @@ nav: false
 
 
 
+
 <p>&nbsp;</p> 
 
 #### Working Papers
@@ -182,7 +183,9 @@ nav: false
   - Lobeck, M. (2023). Motivating beliefs in a just world. _SSRN Working Paper_, no. 4369242. [[HTML]()]
 
   - Sial, A. Y., Sydnor, J. R., & Taubinsky, D. (2023). Biased Memory and Perceptions of Self-Control. _NBER Working Paper_, no. w30825. [[HTML]()]
- 
+
+  - Wittrock, L., Strobel, M., & Tsakas, E. (2023). Belief updating with misinformation. _Working Paper_. [[HTML]( http://www.elias-tsakas.com/Research/Papers/UpdatingMisinformation.pdf)]
+
   - Fudenberg, D., Lanzani, G., & Strack, P. (2022). Selective memory equilibrium. _SSRN Working Paper_, no. 4015313. [[HTML]()]
 
   - Hagenbach, J., & Saucet, C. (2022). Motivated Skepticism. _Working Paper_. [[HTML]()]
