@@ -6,7 +6,7 @@ description: here I try to collect as many papers on motivated reasoning (and be
 nav: false
 ---
 
-### (Published) Research Papers in Economics
+### Published Papers in Economics
 
 <p>&nbsp;</p> 
 
@@ -193,7 +193,7 @@ nav: false
 
 <p>&nbsp;</p> 
 
-#### Working Papers
+#### Working Papers in Economics
 
 - Research Papers
   - Burgh, J., & Melo, E. (2024). Censored beliefs and wishful thinking. _Working Paper_. [[HTML](https://arxiv.org/html/2402.01892v1)]
