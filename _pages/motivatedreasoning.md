@@ -34,10 +34,13 @@ TBA
 
 ##### 2020 papers
 
-###### Research Papers
+- ###### Research Papers
 
 - Zimmermann, F. (2020). The dynamics of motivated beliefs. _American Economic Review_, vol. 110, no. 2, pp. 337-363. 
-[**[html](https://www.aeaweb.org/articles?id=10.1257/aer.20180728)**]
+
+</br> </br> [**[html](https://www.aeaweb.org/articles?id=10.1257/aer.20180728)**]
+
+
 
 ###### Review Papers
 
