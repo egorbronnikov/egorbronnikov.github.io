@@ -76,7 +76,7 @@ Here, I am endeavoring to gather as many papers as possible on motivated reasoni
 
   - Faia, E., Fuster, A., Pezone, V., & Zafar, B. (2022). Biases in information selection and processing: Survey evidence from the pandemic. _Review of Economics and Statistics_, pp. 1--46. [[HTML](https://direct.mit.edu/rest/article-abstract/doi/10.1162/rest_a_01187)]  
 
-  - Feng, H., Wang, T., Hennessy, D. A., & Arora, G. (2022). Over-perception about land use changes: Assessing empirical evidence and linkage with decisions and motivated beliefs. _Land Economics_, vol. 98, no. 2, pp. 254--273. [HTML]()]
+  - Feng, H., Wang, T., Hennessy, D. A., & Arora, G. (2022). Over-perception about land use changes: Assessing empirical evidence and linkage with decisions and motivated beliefs. _Land Economics_, vol. 98, no. 2, pp. 254--273. [HTML](https://le.uwpress.org/content/98/2/254)]
 
   - Gonzalez-Jimenez, V. (2022). Social status and motivated beliefs. _Journal of Public Economics_, vol. 211, pp. 104662. [[HTML](https://www.sciencedirect.com/science/article/pii/S0047272722000640)]
 
