@@ -15,8 +15,11 @@ nav: false
 
 - Research Papers
   - Drobner, C., & Goerg, S. J. (forthcoming). Motivated belief updating and rationalization of information. _Management Science_. [[HTML]()]
+ 
+  - Exley, C. L., & Kessler, J. B. (forthcoming). Motivated errors. _American Economic Review_. [[HTML](https://www.aeaweb.org/articles?id=10.1257/aer.20191849&&from=f)]
+
   
-  - Thaler, M. (forthcoming). Good News Is Not a Sufficient Condition for Motivated Reasoning. _American Economic Journal: Microeconomics_. [[HTML]()]
+  - Thaler, M. (forthcoming). Good News Is Not a Sufficient Condition for Motivated Reasoning. _American Economic Journal: Microeconomics_. [[HTML](https://www.aeaweb.org/articles?id=10.1257/mic.20220146&&from=f)]
  
   - Coffman, K., Collis, M. R., & Kulkarni, L. (2023). Stereotypes and belief updating. _Journal of the European Economic Association_.[[HTML]()]
     
@@ -41,14 +44,15 @@ nav: false
 ##### 2023 papers
 
 - Research Papers
-  - Sprengholz, P., Henkel, L., Böhm, R., & Betsch, C. (2023). Historical narratives about the COVID-19 pandemic are motivationally biased. Nature, vol. 623, no. 7987, pp. 588-593. [[HTML]()]
+  - Sprengholz, P., Henkel, L., Böhm, R., & Betsch, C. (2023). Historical narratives about the COVID-19 pandemic are motivationally biased. _Nature_, vol. 623, no. 7987, pp. 588-593. [[HTML]()]
 
   - Wang, A., Wang, S., & Ye, X. (2023). When information conflicts with obligations: the role of motivated cognition. _The Economic Journal_, vol. 133, no. 654, pp. 2533-2552. [[HTML]()]
 
     
 - Review Papers
-  - Amelio, A., & Zimmermann, F. (2023). Motivated memory in economics—a review. _Games_, vol.  14, no. 1, pp. 15. [[HTML](https://www.mdpi.com/2073-4336/14/1/15)]
-  - TBA
+  - Amelio, A., & Zimmermann, F. (2023). Motivated memory in economics—a review. _Games_, vol. 14, no. 1, pp. 15. [[HTML](https://www.mdpi.com/2073-4336/14/1/15)]
+    
+  - Haaland, I., Roth, C., & Wohlfart, J. (2023). Designing information provision experiments. _Journal of Economic Literature_, vol. 61, no. 1, pp. 3-40.
 
 
 ##### 2022 papers
@@ -60,10 +64,11 @@ nav: false
 
   - Coffman, K. B., Exley, C. L., & Niederle, M. (2021). The role of beliefs in driving gender discrimination. Management Science, vol. 67, no. 6, pp. 3551-3569.
 
-
   - Drobner, C. (2022). Motivated beliefs and anticipation of uncertainty resolution. _American Economic Review: Insights_, vol. 4, no. 1, pp. 89-105. [[HTML]()]
 
   - Faia, E., Fuster, A., Pezone, V., & Zafar, B. (2022). Biases in information selection and processing: Survey evidence from the pandemic. _Review of Economics and Statistics_, pp. 1-46.
+
+  - Gonzalez-Jimenez, V. (2022). Social status and motivated beliefs. _Journal of Public Economics_, vol. 211, pp. 104662. [[HTML](https://www.sciencedirect.com/science/article/pii/S0047272722000640)]
 
   - Hagenbach, J., & Koessler, F. (2022). Selective memory of a psychological agent. _European Economic Review_, vol. 142, pp. 104012.  [[HTML]()]
 
@@ -164,37 +169,42 @@ nav: false
 
 
 
-
 <p>&nbsp;</p> 
 
 #### Working Papers
 
 - Research Papers
-  - Thaler, M. (2024). Good News Is Not a Sufficient Condition for Motivated Reasoning. _Working Paper_. [[HTML](https://arxiv.org/pdf/2012.01548.pdf)]
+  - Burgh, J., & Melo, E. (2024). Censored beliefs and wishful thinking. _Working Paper_. [[HTML](https://arxiv.org/html/2402.01892v1)]
 
-  - Battigalli, P., & Generoso, N. (2023). Information flows and memory in games. _SSRN Working Paper_, no. 4435785. [[HTML]()]
+  - Hagenbach, J., & Saucet, C. (2024). Motivated Skepticism. _Working Paper_. [[HTML](https://hal.science/hal-03770685/document)]
 
-  - Cassella, S., Golez, B., Gulen, H., & Kelly, P. (2023). Motivated beliefs in macroeconomic expectations. _SSRN Working Paper_, no. 3759035. [[HTML]()]
+  - Thaler, M. (2024). Good News Is Not a Sufficient Condition for Motivated Reasoning. _Working Paper_. [[HTML]()](https://arxiv.org/pdf/2012.01548.pdf)]
+
+  - Battigalli, P., & Generoso, N. (2023). Information flows and memory in games. _SSRN Working Paper_, no. 4435785. [[HTML](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4435785)]
+
+  - Cassella, S., Golez, B., Gulen, H., & Kelly, P. (2023). Motivated beliefs in macroeconomic expectations. _SSRN Working Paper_, no. 3759035. [[HTML](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3759035)]
 
   - Hagenbach, J., Kranton, R., & Lee, V. (2023). Competition, Cooperation, and Motivated Social Perceptions. _Working Paper_. [[HTML]()]
 
-  - Kapons, M. M., & Kelly, P. (2023). Biased inference due to prior beliefs: Evidence from the field. _SSRN Working Paper_, no. 4209631. [[HTML]()]
+  - Kapons, M. M., & Kelly, P. (2023). Biased inference due to prior beliefs: Evidence from the field. _SSRN Working Paper_, no. 4209631. [[HTML](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4209631)]
 
-  - Lobeck, M. (2023). Motivating beliefs in a just world. _SSRN Working Paper_, no. 4369242. [[HTML]()]
+  - Lobeck, M. (2023). Motivating beliefs in a just world. _SSRN Working Paper_, no. 4369242. [[HTML](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4369242)]
 
-  - Sial, A. Y., Sydnor, J. R., & Taubinsky, D. (2023). Biased Memory and Perceptions of Self-Control. _NBER Working Paper_, no. w30825. [[HTML]()]
+  - Sial, A. Y., Sydnor, J. R., & Taubinsky, D. (2023). Biased Memory and Perceptions of Self-Control. _NBER Working Paper_, no. w30825. [[HTML](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4320573)]
 
   - Wittrock, L., Strobel, M., & Tsakas, E. (2023). Belief updating with misinformation. _Working Paper_. [[HTML]( http://www.elias-tsakas.com/Research/Papers/UpdatingMisinformation.pdf)]
 
-  - Fudenberg, D., Lanzani, G., & Strack, P. (2022). Selective memory equilibrium. _SSRN Working Paper_, no. 4015313. [[HTML]()]
+  - Fudenberg, D., Lanzani, G., & Strack, P. (2022). Selective memory equilibrium. _SSRN Working Paper_, no. 4015313. [[HTML](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4015313)]
 
-  - Hagenbach, J., & Saucet, C. (2022). Motivated Skepticism. _Working Paper_. [[HTML]()]
+  - Momsen, K., & Schneider, S. O. (2022). Motivated reasoning, information avoidance, and default bias. _Working Paper_. [[HTML](https://www.econstor.eu/bitstream/10419/273678/1/1799842347.pdf)]
 
-  - Riehm, T. (2022). Motivated beliefs in auctions. _Working Paper_. [[HTML]()]
+  - Riehm, T. (2022). Motivated beliefs in auctions. _Working Paper_. [[HTML](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4300892)]
+
+  - Islam, M. (2021). Motivated Risk Assessments. _Working Paper_. [[HTML](https://www.econstor.eu/bitstream/10419/260332/1/wp2021-012.pdf)]
+
+  - Orhun, A. Y., Cohn, A., & Raymond, C. (2021). Motivated optimism and workplace risk. _SSRN Working Paper_, no. 3966686. [[HTML](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3966686)]
 
   - Engelmann, J., Lebreton, M., Schwardmann, P., van der Weele, J. J., & Chang, L. A. (2019). Anticipatory anxiety and wishful thinking. Working Paper_. [[HTML]()]
-
-  - Exley, C. L., & Kessler, J. B. (2019). Motivated errors. _NBER Working Paper_, no. w26595. [[HTML]()]
 
   - Wang, A., Wang, S., & Ye, X. (2018). Religion and motivated cognition: when Ramadan meets the college entrance exam. _Working Paper_. [[HTML]()]
 
