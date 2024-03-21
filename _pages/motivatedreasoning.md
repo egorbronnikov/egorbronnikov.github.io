@@ -105,8 +105,7 @@ nav: false
   [[HTML](https://www.aeaweb.org/articles?id=10.1257/aer.20180728)]
 
 - Review Papers
-  - Molnar, A., & Loewenstein, G. (2022). Chapter 15: Thoughts and Players: An Introduction to Old and New Economic Perspectives on Beliefs. , In Musolino, J., Sommer, J., & Hemmer, P. (Eds.) _The Cognitive Science of Belief: A Multidisciplinary Approach._ (pp. 321-350). Cambridge University Press.
-  [[HTML](https://www.cambridge.org/core/books/cognitive-science-of-belief/4B06289013C7C18773CE2AF05E1A00ED)] &nbsp; &nbsp;
+  - Molnar, A., & Loewenstein, G. (2022). Chapter 15: Thoughts and Players: An Introduction to Old and New Economic Perspectives on Beliefs (pp. 321-350). In Musolino, J., Sommer, J., & Hemmer, P. (Eds.) _The Cognitive Science of Belief: A Multidisciplinary Approach_. Cambridge University Press. [[HTML](https://www.cambridge.org/core/books/cognitive-science-of-belief/4B06289013C7C18773CE2AF05E1A00ED)] &nbsp; 
 
 
 
@@ -122,9 +121,10 @@ nav: false
   - Stone, D. F. (2019). “Unmotivated bias” and partisan hostility: Empirical evidence. _Journal of Behavioral and Experimental Economics_, vol. 79, pp. 12-26. [[HTML](https://www.sciencedirect.com/science/article/pii/S221480431830418X)]
 
 
-   
 - Review Papers
-  - TBA
+  - Benjamin, D. J. (2019). Chapter 2: Errors in probabilistic reasoning and judgment biases (pp. 69-186). In Bernheim, B. D., DellaVigna, S., & Laibso, D. (Eds.) _Handbook of Behavioral Economics: Applications and Foundations 2_. North-Holland. [[HTML](https://www.sciencedirect.com/science/article/abs/pii/S2352239918300228)]
+
+
 
 
 ##### 2018 papers
