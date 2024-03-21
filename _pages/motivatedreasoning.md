@@ -14,8 +14,10 @@ nav: false
 
 ##### 2024 papers
 
+###### Forthcoming papers
+
 Bolte, L., & Fan, T. Q. (2024). Motivated mislearning: The case of correlation neglect. _Journal of Economic Behavior & Organization_, vol. 217, pp. 647-663. 
-[[html](https://www.sciencedirect.com/science/article/abs/pii/S0167268123004249)]
+[[HTML](https://www.sciencedirect.com/science/article/abs/pii/S0167268123004249)]
 
 ##### 2023 papers
 
@@ -29,13 +31,13 @@ TBA
 
 - Thaler, M. (2021). Gender differences in motivated reasoning. _Journal of Economic Behavior & Organization_, vol. 191, pp. 501-518.
 
-[[html](https://www.sciencedirect.com/science/article/abs/pii/S0167268121003954)]
+[**[HTML](https://www.sciencedirect.com/science/article/abs/pii/S0167268121003954)**]
 
 
 ##### 2020 papers
 
 - Zimmermann, F. (2020). The dynamics of motivated beliefs. _American Economic Review_, vol. 110, no. 2, pp. 337-363. 
-**[[html](https://www.aeaweb.org/articles?id=10.1257/aer.20180728)]**
+[**[html](https://www.aeaweb.org/articles?id=10.1257/aer.20180728)**]
 
 
 
