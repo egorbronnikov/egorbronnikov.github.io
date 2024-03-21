@@ -29,11 +29,11 @@ nav: false
 ##### 2024 papers
 
 - Research Papers
-  - Bolte, L., & Fan, T. Q. (2024). Motivated mislearning: The case of correlation neglect. _Journal of Economic Behavior & Organization_, vol. 217, pp. 647-663. [[HTML](https://www.sciencedirect.com/science/article/abs/pii/S0167268123004249)]
+  - Bolte, L., & Fan, T. Q. (2024). Motivated mislearning: The case of correlation neglect. _Journal of Economic Behavior & Organization_, vol. 217, pp. 647--663. [[HTML](https://www.sciencedirect.com/science/article/abs/pii/S0167268123004249)]
     
   - Burro, G., & Castagnetti, A. (2024). The ego is no fool: Absence of motivated belief formation in strategic interactions. _Journal of Behavioral and Experimental Economics_, vol. 109, pp. 102167. [[HTML](https://www.sciencedirect.com/science/article/pii/S2214804324000077)]
 
-  - Stötzer, L. S., & Zimmermann, F. (2024). A representative survey experiment of motivated climate change denial. _Nature Climate Change_, vol. 14, pp. 198–204. [[HTML](https://www.nature.com/articles/s41558-023-01910-2)]
+  - Stötzer, L. S., & Zimmermann, F. (2024). A representative survey experiment of motivated climate change denial. _Nature Climate Change_, vol. 14, pp. 198-–204. [[HTML](https://www.nature.com/articles/s41558-023-01910-2)]
     
 - Review Papers
   - TBA
@@ -46,20 +46,22 @@ nav: false
 
   - Amasino, D. R., Pace, D. D., & van der Weele, J. (2023). Self-serving bias in redistribution choices: Accounting for beliefs and norms. _Journal of Economic Psychology_, vol. 98, pp. 102654. [[HTML](https://www.sciencedirect.com/science/article/pii/S0167487023000557)]
 
-  - Bicchieri, C., Dimant, E., & Sonderegger, S. (2023). It's not a lie if you believe the norm does not apply: Conditional norm-following and belief distortion. _Games and Economic Behavior_, vol. 138, pp. 321-354. [[HTML](https://www.sciencedirect.com/science/article/pii/S0899825623000088)]
+  - Bicchieri, C., Dimant, E., & Sonderegger, S. (2023). It's not a lie if you believe the norm does not apply: Conditional norm-following and belief distortion. _Games and Economic Behavior_, vol. 138, pp. 321--354. [[HTML](https://www.sciencedirect.com/science/article/pii/S0899825623000088)]
 
-  - Exley, C. L., & Kessler, J. B. (2023). Information avoidance and image concerns. _The Economic Journal_, 133(656), 3153-3168. [[HTML](https://academic.oup.com/ej/article-abstract/133/656/3153/7240144)]
+  - Exley, C. L., & Kessler, J. B. (2023). Information avoidance and image concerns. _The Economic Journal_, 133(656), 3153--3168. [[HTML](https://academic.oup.com/ej/article-abstract/133/656/3153/7240144)]
 
-  - Ruzzier, C. A., & Woo, M. D. (2023). Discrimination with inaccurate beliefs and confirmation bias. _Journal of Economic Behavior & Organization_, vol. 210, pp. 379-390. [[HTML](https://www.sciencedirect.com/science/article/pii/S0167268123001221)]
+  - Le Yaouanq, Y. (2023). A model of voting with motivated beliefs. _Journal of Economic Behavior & Organization_, vol. 213, pp. 394--408. [[HTML](https://www.sciencedirect.com/science/article/pii/S0167268119301763)]
 
-  - Sprengholz, P., Henkel, L., Böhm, R., & Betsch, C. (2023). Historical narratives about the COVID-19 pandemic are motivationally biased. _Nature_, vol. 623, no. 7987, pp. 588-593. [[HTML](https://www.nature.com/articles/s41586-023-06674-5)]
+  - Ruzzier, C. A., & Woo, M. D. (2023). Discrimination with inaccurate beliefs and confirmation bias. _Journal of Economic Behavior & Organization_, vol. 210, pp. 379--390. [[HTML](https://www.sciencedirect.com/science/article/pii/S0167268123001221)]
 
-  - Wang, A., Wang, S., & Ye, X. (2023). When information conflicts with obligations: the role of motivated cognition. _The Economic Journal_, vol. 133, no. 654, pp. 2533-2552. [[HTML](https://academic.oup.com/ej/article-abstract/133/654/2533/7175372)]
+  - Sprengholz, P., Henkel, L., Böhm, R., & Betsch, C. (2023). Historical narratives about the COVID-19 pandemic are motivationally biased. _Nature_, vol. 623, no. 7987, pp. 588--593. [[HTML](https://www.nature.com/articles/s41586-023-06674-5)]
+
+  - Wang, A., Wang, S., & Ye, X. (2023). When information conflicts with obligations: the role of motivated cognition. _The Economic Journal_, vol. 133, no. 654, pp. 2533--2552. [[HTML](https://academic.oup.com/ej/article-abstract/133/654/2533/7175372)]
     
 - Review Papers
   - Amelio, A., & Zimmermann, F. (2023). Motivated memory in economics—a review. _Games_, vol. 14, no. 1, pp. 15. [[HTML](https://www.mdpi.com/2073-4336/14/1/15)]
     
-  - Haaland, I., Roth, C., & Wohlfart, J. (2023). Designing information provision experiments. _Journal of Economic Literature_, vol. 61, no. 1, pp. 3-40. [[HTML](https://www.aeaweb.org/articles?id=10.1257/jel.20211658)]  
+  - Haaland, I., Roth, C., & Wohlfart, J. (2023). Designing information provision experiments. _Journal of Economic Literature_, vol. 61, no. 1, pp. 3--40. [[HTML](https://www.aeaweb.org/articles?id=10.1257/jel.20211658)]  
 
 
 
@@ -70,15 +72,15 @@ nav: false
 
   - Castagnetti, A., & Schmacker, R. (2022). Protecting the ego: Motivated information selection and updating. _European Economic Review_, vol. 142, pp. 104007. [[HTML](https://www.sciencedirect.com/science/article/pii/S0014292121002786)]
 
-  - Coffman, K. B., Exley, C. L., & Niederle, M. (2021). The role of beliefs in driving gender discrimination. _Management Science_, vol. 67, no. 6, pp. 3551-3569. [[HTML](https://pubsonline.informs.org/doi/10.1287/mnsc.2020.3660)]  
+  - Coffman, K. B., Exley, C. L., & Niederle, M. (2021). The role of beliefs in driving gender discrimination. _Management Science_, vol. 67, no. 6, pp. 3551--3569. [[HTML](https://pubsonline.informs.org/doi/10.1287/mnsc.2020.3660)]  
 
-  - Drobner, C. (2022). Motivated beliefs and anticipation of uncertainty resolution. _American Economic Review: Insights_, vol. 4, no. 1, pp. 89-105. [[HTML](https://www.aeaweb.org/articles?id=10.1257/aeri.20200829)]
+  - Drobner, C. (2022). Motivated beliefs and anticipation of uncertainty resolution. _American Economic Review: Insights_, vol. 4, no. 1, pp. 89--105. [[HTML](https://www.aeaweb.org/articles?id=10.1257/aeri.20200829)]
 
-  - Erkal, N., Gangadharan, L., & Koh, B. H. (2022). By chance or by choice? Biased attribution of others’ outcomes when social preferences matter. Experimental Economics, vol. 25, no. 2, pp. 413-443. [[HTML](https://link.springer.com/article/10.1007/s10683-021-09731-w)]
+  - Erkal, N., Gangadharan, L., & Koh, B. H. (2022). By chance or by choice? Biased attribution of others’ outcomes when social preferences matter. Experimental Economics, vol. 25, no. 2, pp. 413--443. [[HTML](https://link.springer.com/article/10.1007/s10683-021-09731-w)]
 
-  - Faia, E., Fuster, A., Pezone, V., & Zafar, B. (2022). Biases in information selection and processing: Survey evidence from the pandemic. _Review of Economics and Statistics_, pp. 1-46. [[HTML](https://direct.mit.edu/rest/article-abstract/doi/10.1162/rest_a_01187)]  
+  - Faia, E., Fuster, A., Pezone, V., & Zafar, B. (2022). Biases in information selection and processing: Survey evidence from the pandemic. _Review of Economics and Statistics_, pp. 1--46. [[HTML](https://direct.mit.edu/rest/article-abstract/doi/10.1162/rest_a_01187)]  
 
-- Feng, H., Wang, T., Hennessy, D. A., & Arora, G. (2022). Over-perception about land use changes: Assessing empirical evidence and linkage with decisions and motivated beliefs. _Land Economics_, vol. 98, no. 2, pp. 254-273. [HTML]()]
+- Feng, H., Wang, T., Hennessy, D. A., & Arora, G. (2022). Over-perception about land use changes: Assessing empirical evidence and linkage with decisions and motivated beliefs. _Land Economics_, vol. 98, no. 2, pp. 254--273. [HTML]()]
 
   - Gonzalez-Jimenez, V. (2022). Social status and motivated beliefs. _Journal of Public Economics_, vol. 211, pp. 104662. [[HTML](https://www.sciencedirect.com/science/article/pii/S0047272722000640)]
 
@@ -86,17 +88,17 @@ nav: false
 
   - Momsen, K., & Ohndorf, M. (2022). Information avoidance, selective exposure, and fake (?) news: Theory and experimental evidence on green consumption. _Journal of Economic Psychology_, vol. 88, pp. 102457. [[HTML](https://www.sciencedirect.com/science/article/pii/S0167487021000878)]  
 
-  - Oprea, R., & Yuksel, S. (2022). Social exchange of motivated beliefs. _Journal of the European Economic Association_, vol. 20, no. 2, pp. 667-699. [[HTML](https://academic.oup.com/jeea/article-abstract/20/2/667/6368096)]
+  - Oprea, R., & Yuksel, S. (2022). Social exchange of motivated beliefs. _Journal of the European Economic Association_, vol. 20, no. 2, pp. 667--699. [[HTML](https://academic.oup.com/jeea/article-abstract/20/2/667/6368096)]
     
 - Review Papers
-  - Bursztyn, L., & Yang, D. Y. (2022). Misperceptions about others. _Annual Review of Economics_, vol.  14, pp. 425-452. [[HTML](https://www.annualreviews.org/content/journals/10.1146/annurev-economics-051520-023322)]  
+  - Bursztyn, L., & Yang, D. Y. (2022). Misperceptions about others. _Annual Review of Economics_, vol.  14, pp. 425--452. [[HTML](https://www.annualreviews.org/content/journals/10.1146/annurev-economics-051520-023322)]  
  
 
 
 ##### 2021 papers
 
 - Research Papers
-  - Thaler, M. (2021). Gender differences in motivated reasoning. _Journal of Economic Behavior & Organization_, vol. 191, pp. 501-518.
+  - Thaler, M. (2021). Gender differences in motivated reasoning. _Journal of Economic Behavior & Organization_, vol. 191, pp. 501--518.
 [[HTML](https://www.sciencedirect.com/science/article/abs/pii/S0167268121003954)]
 
 
@@ -104,39 +106,39 @@ nav: false
 ##### 2020 papers
 
 - Research Papers
-  - Chew, S. H., Huang, W., & Zhao, X. (2020). Motivated false memory. _Journal of Political Economy_, vol. 128, no. 10, pp. 3913-3939. [[HTML](https://www.journals.uchicago.edu/doi/abs/10.1086/709971)]
+  - Chew, S. H., Huang, W., & Zhao, X. (2020). Motivated false memory. _Journal of Political Economy_, vol. 128, no. 10, pp. 3913--3939. [[HTML](https://www.journals.uchicago.edu/doi/abs/10.1086/709971)]
 
-  - Exley, C. L. (2020). Using charity performance metrics as an excuse not to give. _Management Science_, vol. 66, no. 2, pp. 553-563. [[HTML](https://pubsonline.informs.org/doi/pdf/10.1287/mnsc.2018.3268)]
+  - Exley, C. L. (2020). Using charity performance metrics as an excuse not to give. _Management Science_, vol. 66, no. 2, pp. 553--563. [[HTML](https://pubsonline.informs.org/doi/pdf/10.1287/mnsc.2018.3268)]
 
-  - Ging-Jehli, N. R., Schneider, F. H., & Weber, R. A. (2020). On self-serving strategic beliefs. _Games and Economic Behavior_, vol. 122, pp. 341-353. [[HTML](https://www.sciencedirect.com/science/article/pii/S0899825620300713)]
+  - Ging-Jehli, N. R., Schneider, F. H., & Weber, R. A. (2020). On self-serving strategic beliefs. _Games and Economic Behavior_, vol. 122, pp. 341--353. [[HTML](https://www.sciencedirect.com/science/article/pii/S0899825620300713)]
 
-  - Solda, A., Ke, C., Page, L., & Von Hippel, W. (2020). Strategically delusional. _Experimental Economics_, vol. 23, pp. 604-631. [[HTML](https://link.springer.com/article/10.1007/s10683-019-09636-9)]
+  - Solda, A., Ke, C., Page, L., & Von Hippel, W. (2020). Strategically delusional. _Experimental Economics_, vol. 23, pp. 604--631. [[HTML](https://link.springer.com/article/10.1007/s10683-019-09636-9)]
 
-  - Stone, D. F. (2020). Just a big misunderstanding? Bias and Bayesian affective polarization. _International Economic Review_, vol. 61, no. 1, 189-217. [[HTML](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/iere.12421)]
+  - Stone, D. F. (2020). Just a big misunderstanding? Bias and Bayesian affective polarization. _International Economic Review_, vol. 61, no. 1, 189--217. [[HTML](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/iere.12421)]
 
-  - Zimmermann, F. (2020). The dynamics of motivated beliefs. _American Economic Review_, vol. 110, no. 2, pp. 337-363.
+  - Zimmermann, F. (2020). The dynamics of motivated beliefs. _American Economic Review_, vol. 110, no. 2, pp. 337--363.
   [[HTML](https://www.aeaweb.org/articles?id=10.1257/aer.20180728)]
 
 - Review Papers
-  - Molnar, A., & Loewenstein, G. (2022). Chapter 15: Thoughts and Players: An Introduction to Old and New Economic Perspectives on Beliefs (pp. 321-350). In Musolino, J., Sommer, J., & Hemmer, P. (Eds.) _The Cognitive Science of Belief: A Multidisciplinary Approach_. Cambridge University Press. [[HTML](https://www.cambridge.org/core/books/cognitive-science-of-belief/4B06289013C7C18773CE2AF05E1A00ED)] &nbsp; 
+  - Molnar, A., & Loewenstein, G. (2022). Chapter 15: Thoughts and Players: An Introduction to Old and New Economic Perspectives on Beliefs (pp. 321--350). In Musolino, J., Sommer, J., & Hemmer, P. (Eds.) _The Cognitive Science of Belief: A Multidisciplinary Approach_. Cambridge University Press. [[HTML](https://www.cambridge.org/core/books/cognitive-science-of-belief/4B06289013C7C18773CE2AF05E1A00ED)] &nbsp; 
 
 
 
 ##### 2019 papers
 
 - Research Papers
-  - Coutts, A. (2019). Good news and bad news are still news: Experimental evidence on belief updating. _Experimental Economics_, vol. 22, no. 2, pp. 369-395. [[HTML](https://link.springer.com/article/10.1007/s10683-018-9572-5)]
+  - Coutts, A. (2019). Good news and bad news are still news: Experimental evidence on belief updating. _Experimental Economics_, vol. 22, no. 2, pp. 369--395. [[HTML](https://link.springer.com/article/10.1007/s10683-018-9572-5)]
 
-  - Druckman, J. N., & McGrath, M. C. (2019). The evidence for motivated reasoning in climate change preference formation. _Nature Climate Change_, vol. 9, no. 2, pp. 111-119. [[HTML](https://www.nature.com/articles/s41558-018-0360-1)]
+  - Druckman, J. N., & McGrath, M. C. (2019). The evidence for motivated reasoning in climate change preference formation. _Nature Climate Change_, vol. 9, no. 2, pp. 111--119. [[HTML](https://www.nature.com/articles/s41558-018-0360-1)]
 
-  - Saucet, C., & Villeval, M. C. (2019). Motivated memory in dictator games. _Games and Economic Behavior_, vol. 117, pp. 250-275. [[HTML](https://www.sciencedirect.com/science/article/abs/pii/S0899825619300879)]
+  - Saucet, C., & Villeval, M. C. (2019). Motivated memory in dictator games. _Games and Economic Behavior_, vol. 117, pp. 250--275. [[HTML](https://www.sciencedirect.com/science/article/abs/pii/S0899825619300879)]
 
-  - Schwardmann, P., & Van der Weele, J. (2019). Deception and self-deception. _Nature Human Behaviour_, vol. 3, no. 10, pp.  1055-1061. [[HTML](https://www.nature.com/articles/s41562-019-0666-7)]
+  - Schwardmann, P., & Van der Weele, J. (2019). Deception and self-deception. _Nature Human Behaviour_, vol. 3, no. 10, pp.  1055--1061. [[HTML](https://www.nature.com/articles/s41562-019-0666-7)]
 
-  - Stone, D. F. (2019). “Unmotivated bias” and partisan hostility: Empirical evidence. _Journal of Behavioral and Experimental Economics_, vol. 79, pp. 12-26. [[HTML](https://www.sciencedirect.com/science/article/pii/S221480431830418X)]
+  - Stone, D. F. (2019). “Unmotivated bias” and partisan hostility: Empirical evidence. _Journal of Behavioral and Experimental Economics_, vol. 79, pp. 12--26. [[HTML](https://www.sciencedirect.com/science/article/pii/S221480431830418X)]
 
 - Review Papers
-  - Benjamin, D. J. (2019). Chapter 2: Errors in probabilistic reasoning and judgment biases (pp. 69-186). In Bernheim, B. D., DellaVigna, S., & Laibso, D. (Eds.) _Handbook of Behavioral Economics: Applications and Foundations 2_. North-Holland. [[HTML](https://www.sciencedirect.com/science/article/abs/pii/S2352239918300228)]
+  - Benjamin, D. J. (2019). Chapter 2: Errors in probabilistic reasoning and judgment biases (pp. 69--186). In Bernheim, B. D., DellaVigna, S., & Laibso, D. (Eds.) _Handbook of Behavioral Economics: Applications and Foundations 2_. North-Holland. [[HTML](https://www.sciencedirect.com/science/article/abs/pii/S2352239918300228)]
 
 
 
@@ -153,29 +155,29 @@ nav: false
 ##### 2017 papers
 
 - Research Papers
-  - Charness, G., & Dave, C. (2017). Confirmation bias with motivated beliefs. _Games and Economic Behavior_, vol. 104, pp. 1-23. [[HTML](https://www.sciencedirect.com/science/article/pii/S0899825617300416)]
+  - Charness, G., & Dave, C. (2017). Confirmation bias with motivated beliefs. _Games and Economic Behavior_, vol. 104, pp. 1--23. [[HTML](https://www.sciencedirect.com/science/article/pii/S0899825617300416)]
  
 - Review Papers
-  - Golman, R., Hagmann, D., & Loewenstein, G. (2017). Information avoidance. _Journal of Economic Literature_, vol. 55, no. 1, pp. 96-135. [[HTML](https://www.aeaweb.org/articles?id=10.1257/jel.20151245)]
+  - Golman, R., Hagmann, D., & Loewenstein, G. (2017). Information avoidance. _Journal of Economic Literature_, vol. 55, no. 1, pp. 96--135. [[HTML](https://www.aeaweb.org/articles?id=10.1257/jel.20151245)]
 
 
 
 ##### 2016 papers
 
 - Research Papers
-  - Exley, C. L. (2016). Excusing selfishness in charitable giving: The role of risk. _Review of Economic Studies_, vol. 83, no. 2, pp. 587-628. [[HTML](https://academic.oup.com/restud/article-abstract/83/2/587/2461284)]
+  - Exley, C. L. (2016). Excusing selfishness in charitable giving: The role of risk. _Review of Economic Studies_, vol. 83, no. 2, pp. 587--628. [[HTML](https://academic.oup.com/restud/article-abstract/83/2/587/2461284)]
     
 - Review Papers
-  - Epley, N., & Gilovich, T. (2016). The mechanics of motivated reasoning. _Journal of Economic Perspectives_, vol. 30, no. 3, pp. 133-140.
+  - Epley, N., & Gilovich, T. (2016). The mechanics of motivated reasoning. _Journal of Economic Perspectives_, vol. 30, no. 3, pp. 133--140.
   [[HTML](https://www.aeaweb.org/articles?id=10.1257/jep.30.3.133)]
 
-  - Bénabou, R., & Tirole, J. (2016). Mindful economics: The production, consumption, and value of beliefs. _Journal of Economic Perspectives_, vol. 30. no. 3, pp. 141-164.
+  - Bénabou, R., & Tirole, J. (2016). Mindful economics: The production, consumption, and value of beliefs. _Journal of Economic Perspectives_, vol. 30. no. 3, pp. 141--164.
   [[HTML](https://www.aeaweb.org/articles?id=10.1257/jep.30.3.141)]
   
-  - Golman, R., Loewenstein, G., Moene, K. O., & Zarri, L. (2016). The preference for belief consonance. _Journal of Economic Perspectives_, vol. 30. no. 3, pp. 165-188.
+  - Golman, R., Loewenstein, G., Moene, K. O., & Zarri, L. (2016). The preference for belief consonance. _Journal of Economic Perspectives_, vol. 30. no. 3, pp. 165--188.
   [[HTML](https://www.aeaweb.org/articles?id=10.1257/jep.30.3.165)]
   
-  - Gino, F., Norton, M. I., & Weber, R. A. (2016). Motivated Bayesians: Feeling moral while acting egoistically. _Journal of Economic Perspectives_, vol. 30. no. 3, pp. 189-212.
+  - Gino, F., Norton, M. I., & Weber, R. A. (2016). Motivated Bayesians: Feeling moral while acting egoistically. _Journal of Economic Perspectives_, vol. 30. no. 3, pp. 189--212.
   [[HTML](https://www.aeaweb.org/articles?id=10.1257/jep.30.3.189)]
 
 
@@ -183,7 +185,7 @@ nav: false
 ##### 2015 papers
 
 - Research Papers
-  - Bénabou, R. (2015). The economics of motivated beliefs. _Revue d'économie politique_, vol. 5, pp. 665-685. [[HTML](https://www.cairn.info/revue-d-economie-politique-2015-5-page-665.htm)]
+  - Bénabou, R. (2015). The economics of motivated beliefs. _Revue d'économie politique_, vol. 5, pp. 665--685. [[HTML](https://www.cairn.info/revue-d-economie-politique-2015-5-page-665.htm)]
  
 - Review Papers
   - TBA
