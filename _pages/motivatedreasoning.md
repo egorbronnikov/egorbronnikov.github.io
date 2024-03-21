@@ -185,7 +185,7 @@ nav: false
 
 
 
-
+ 
 
 <p>&nbsp;</p> 
 
@@ -196,7 +196,9 @@ nav: false
 
   - Hagenbach, J., & Saucet, C. (2024). Motivated Skepticism. _Working Paper_. [[HTML](https://hal.science/hal-03770685/document)]
 
-  - Thaler, M. (2024). Good News Is Not a Sufficient Condition for Motivated Reasoning. _Working Paper_. [[HTML](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3543371)]
+  - Thaler, M. (2024). Good News Is Not a Sufficient Condition for Motivated Reasoning. _Working Paper_. [[HTML](https://www.cesifo.org/DocDL/cesifo1_wp10915.pdf)]
+ 
+  - Augenblick, N., Lazarus, E., & Thaler, M. (2023). Overinference from weak signals and underinference from strong signals. _Working Paper_. [[HTML](https://drive.google.com/file/d/1irPVAmdcz8zKVzqplHkvwlwdnAN2H7Qh/view)]
 
   - Battigalli, P., & Generoso, N. (2023). Information flows and memory in games. _SSRN Working Paper_, no. 4435785. [[HTML](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4435785)]
 
@@ -211,6 +213,8 @@ nav: false
   - Lobeck, M. (2023). Motivating beliefs in a just world. _SSRN Working Paper_, no. 4369242. [[HTML](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4369242)]
 
   - Sial, A. Y., Sydnor, J. R., & Taubinsky, D. (2023). Biased Memory and Perceptions of Self-Control. _NBER Working Paper_, no. w30825. [[HTML](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4320573)]
+
+  - Thaler, M. (2023). The Supply of Motivated Beliefs. _Working Paper_. [[HTML](https://drive.google.com/file/d/1GDXmIgahq_6YzyiMPIJdik8KJlxCSlZ2/view)]
 
   - Wittrock, L., Strobel, M., & Tsakas, E. (2023). Belief updating with misinformation. _Working Paper_. [[HTML]( http://www.elias-tsakas.com/Research/Papers/UpdatingMisinformation.pdf)]
 
