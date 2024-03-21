@@ -13,33 +13,40 @@ nav: false
 
 ##### Forthcoming papers
 
+- Research Papers
+  - Thaler, M. (forthcoming). Good News Is Not a Sufficient Condition for Motivated Reasoning. _American Economic Journal: Microeconomics_. [[HTML]()]
+  - TBA
+- Review Papers
+  - TBA
 
-
-Thaler, M. (forthcoming). Good News Is Not a Sufficient Condition for Motivated Reasoning. _American Economic Journal: Microeconomics_.
 
 ##### 2024 papers
 
-Bolte, L., & Fan, T. Q. (2024). Motivated mislearning: The case of correlation neglect. _Journal of Economic Behavior & Organization_, vol. 217, pp. 647-663. 
-[[HTML](https://www.sciencedirect.com/science/article/abs/pii/S0167268123004249)]
+- Research Papers
+  - Bolte, L., & Fan, T. Q. (2024). Motivated mislearning: The case of correlation neglect. _Journal of Economic Behavior & Organization_, vol. 217, pp. 647-663. [[HTML](https://www.sciencedirect.com/science/article/abs/pii/S0167268123004249)]
+  - TBA
+- Review Papers
+  - TBA
 
-<p>&nbsp;</p> 
+
 
 ##### 2023 papers
 
 - Research Papers
   - TBA
-
-&nbsp;
-
-- Review Papers in Economics
+- Review Papers
   - Amelio, A., & Zimmermann, F. (2023). Motivated memory in economics—a review. _Games_, vol.  14, no. 1, pp. 15. [[HTML](https://www.mdpi.com/2073-4336/14/1/15)]
+  - TBA
 
 
 ##### 2022 papers
 
-TBA
-
-<p>&nbsp;</p> 
+- Research Papers
+  - TBA
+- Review Papers
+  - TBA
+ 
+  
 
 ##### 2021 papers
 
@@ -49,28 +56,21 @@ TBA
 
 
 
-<p>&nbsp;</p> 
-
 ##### 2020 papers
 
 - Research Papers
-
   - Zimmermann, F. (2020). The dynamics of motivated beliefs. _American Economic Review_, vol. 110, no. 2, pp. 337-363.
   [[HTML](https://www.aeaweb.org/articles?id=10.1257/aer.20180728)]
-
-&nbsp;
-
 - Review Papers
-
   - Molnar, A., & Loewenstein, G. (2022). Chapter 15: Thoughts and Players: An Introduction to Old and New Economic Perspectives on Beliefs. , In Musolino, J., Sommer, J., & Hemmer, P. (Eds.) _The Cognitive Science of Belief: A Multidisciplinary Approach._ (pp. 321-350). Cambridge University Press.
   [[HTML](https://www.cambridge.org/core/books/cognitive-science-of-belief/4B06289013C7C18773CE2AF05E1A00ED)] &nbsp; &nbsp;
 
 
-#### 2019 papers
+
+##### 2019 papers
 
 - Research Papers
   - TBA
- 
 - Review Papers
   - TBA
 
@@ -97,12 +97,9 @@ TBA
 
 - Research Papers
   - TBA
- 
 - Review Papers
-  
   - Epley, N., & Gilovich, T. (2016). The mechanics of motivated reasoning. _Journal of Economic Perspectives_, vol. 30. no. 3, pp. 133-140.
   [[HTML](https://www.aeaweb.org/articles?id=10.1257/jep.30.3.133)]
-  
   - Bénabou, R., & Tirole, J. (2016). Mindful economics: The production, consumption, and value of beliefs. _Journal of Economic Perspectives_, vol. 30. no. 3, pp. 141-164.
   [[HTML](https://www.aeaweb.org/articles?id=10.1257/jep.30.3.141)]
   
@@ -130,31 +127,14 @@ TBA
 
 ##### 2024 papers
 
-Thaler, M. (2024). Good News Is Not a Sufficient Condition for Motivated Reasoning. _Working paper_.
+- Research Papers
+  - Thaler, M. (2024). Good News Is Not a Sufficient Condition for Motivated Reasoning. _Working paper_. [[HTML]()]
+  - TBA
+  - TBA
+ 
+- Review Papers
+  - TBA
 
-##### 2023 papers
-
-TBA
-
-##### 2022 papers
-
-TBA
-
-##### 2021 papers
-
-TBA
-
-##### 2020 papers
-
-TBA
-
-##### 2018 papers
-
-TBA
-
-##### 2017 papers
-
-TBA
 
 
 
