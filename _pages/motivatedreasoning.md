@@ -11,7 +11,8 @@ nav: false
 
 #### 2024 papers
 
-TBA
+Bolte, L., & Fan, T. Q. (2024). Motivated mislearning: The case of correlation neglect. _Journal of Economic Behavior & Organization_, vol. 217, pp. 647-663. 
+[[html](https://www.sciencedirect.com/science/article/abs/pii/S0167268123004249)]
 
 #### 2023 papers
 
@@ -27,7 +28,10 @@ TBA
 
 #### 2020 papers
 
-Zimmermann, F. (2020). The dynamics of motivated beliefs. _American Economic Review_, vol. 110, no. 2, pp. 337-363.
+Zimmermann, F. (2020). The dynamics of motivated beliefs. _American Economic Review_, vol. 110, no. 2, pp. 337-363. 
+[[html](https://www.aeaweb.org/articles?id=10.1257/aer.20180728)]
+
+
 
 #### 2019 papers
 
