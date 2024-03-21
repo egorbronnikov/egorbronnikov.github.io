@@ -2,9 +2,11 @@
 layout: page
 title: Motivated Reasoning
 permalink: /motivatedreasoning/
-description: here I try to collect as many papers on motivated reasoning (and beyond) as possible
+description: motivated reasoning (and beyond)
 nav: false
 ---
+
+Here, I am endeavoring to gather as many papers as possible on motivated reasoning and motivated memory, primarily focusing on experimental papers within the field of Economics. While aiming to remain focused on these specific topics, determining the precise boundary can sometimes be subtle. Additionally, I am incorporating several papers on related—but broader—topics such as motivated cognition and self-serving beliefs.
 
 ### Published Papers in Economics
 
