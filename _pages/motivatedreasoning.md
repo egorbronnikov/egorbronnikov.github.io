@@ -32,6 +32,8 @@ nav: false
   - Bolte, L., & Fan, T. Q. (2024). Motivated mislearning: The case of correlation neglect. _Journal of Economic Behavior & Organization_, vol. 217, pp. 647-663. [[HTML](https://www.sciencedirect.com/science/article/abs/pii/S0167268123004249)]
     
   - Burro, G., & Castagnetti, A. (2024). The ego is no fool: Absence of motivated belief formation in strategic interactions. _Journal of Behavioral and Experimental Economics_, vol. 109, pp. 102167. [[HTML](https://www.sciencedirect.com/science/article/pii/S2214804324000077)]
+
+  - Stötzer, L. S., & Zimmermann, F. (2024). A representative survey experiment of motivated climate change denial. _Nature Climate Change_, vol. 14, pp. 198–204. [[HTML](https://www.nature.com/articles/s41558-023-01910-2)]
     
 - Review Papers
   - TBA
@@ -183,10 +185,6 @@ nav: false
   - TBA
 
 
-
-
- 
-
 <p>&nbsp;</p> 
 
 #### Working Papers
@@ -213,6 +211,8 @@ nav: false
   - Lobeck, M. (2023). Motivating beliefs in a just world. _SSRN Working Paper_, no. 4369242. [[HTML](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4369242)]
 
   - Sial, A. Y., Sydnor, J. R., & Taubinsky, D. (2023). Biased Memory and Perceptions of Self-Control. _NBER Working Paper_, no. w30825. [[HTML](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4320573)]
+
+  - Stötzer, L. S., & Zimmermann, F. (2023). A Note on Motivated Cognition and Discriminatory Beliefs. _Working Paper_. [[HTML](https://drive.google.com/file/d/12FbR1w4wUefmWyPcRmsCDWYFbttIVMr2/view)]
 
   - Thaler, M. (2023). The Supply of Motivated Beliefs. _Working Paper_. [[HTML](https://drive.google.com/file/d/1GDXmIgahq_6YzyiMPIJdik8KJlxCSlZ2/view)]
 
