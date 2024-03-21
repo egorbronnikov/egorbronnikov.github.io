@@ -139,13 +139,14 @@ nav: false
 ##### 2017 papers
 
 - Research Papers
-  - TBA
+  - Charness, G., & Dave, C. (2017). Confirmation bias with motivated beliefs. _Games and Economic Behavior_, vol. 104, pp. 1-23. [[HTML](https://www.sciencedirect.com/science/article/pii/S0899825617300416)]
  
 - Review Papers
   - Golman, R., Hagmann, D., & Loewenstein, G. (2017). Information avoidance. _Journal of Economic Literature_, vol. 55, no. 1, pp. 96-135. [[HTML](https://www.aeaweb.org/articles?id=10.1257/jel.20151245)]
 
-##### 2016 papers
 
+
+##### 2016 papers
 
 - Research Papers
   - Exley, C. L. (2016). Excusing selfishness in charitable giving: The role of risk. _Review of Economic Studies_, vol. 83, no. 2, pp. 587-628. [[HTML](https://academic.oup.com/restud/article-abstract/83/2/587/2461284)]
