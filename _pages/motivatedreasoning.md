@@ -45,7 +45,7 @@ Here, I am endeavoring to gather as many papers as possible on motivated reasoni
 
   - Bicchieri, C., Dimant, E., & Sonderegger, S. (2023). It's not a lie if you believe the norm does not apply: Conditional norm-following and belief distortion. _Games and Economic Behavior_, vol. 138, pp. 321--354. [[HTML](https://www.sciencedirect.com/science/article/pii/S0899825623000088)] <span style="color:gray">[ESB]</span> <span style="color:gray">[Experiment]</span>
 
-  - Exley, C. L., & Kessler, J. B. (2023). Information avoidance and image concerns. _The Economic Journal_, 133(656), 3153--3168. [[HTML](https://academic.oup.com/ej/article-abstract/133/656/3153/7240144)] 
+  - Exley, C. L., & Kessler, J. B. (2023). Information avoidance and image concerns. _The Economic Journal_, vol. 133, no. 656, pp. 3153--3168. [[HTML](https://academic.oup.com/ej/article-abstract/133/656/3153/7240144)] 
 
   - Le Yaouanq, Y. (2023). A model of voting with motivated beliefs. _Journal of Economic Behavior & Organization_, vol. 213, pp. 394--408. [[HTML](https://www.sciencedirect.com/science/article/pii/S0167268119301763)]
 
@@ -87,7 +87,7 @@ Here, I am endeavoring to gather as many papers as possible on motivated reasoni
   - Oprea, R., & Yuksel, S. (2022). Social exchange of motivated beliefs. _Journal of the European Economic Association_, vol. 20, no. 2, pp. 667--699. [[HTML](https://academic.oup.com/jeea/article-abstract/20/2/667/6368096)] <span style="color:gray">[MR]</span> <span style="color:gray">[Experiment]</span>
     
 - Review Papers
-  - Bursztyn, L., & Yang, D. Y. (2022). Misperceptions about others. _Annual Review of Economics_, vol.  14, pp. 425--452. [[HTML](https://www.annualreviews.org/content/journals/10.1146/annurev-economics-051520-023322)]  
+  - Bursztyn, L., & Yang, D. Y. (2022). Misperceptions about others. _Annual Review of Economics_, vol. 14, pp. 425--452. [[HTML](https://www.annualreviews.org/content/journals/10.1146/annurev-economics-051520-023322)]  
  
 
 
