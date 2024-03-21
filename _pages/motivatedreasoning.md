@@ -78,6 +78,8 @@ nav: false
 
   - Faia, E., Fuster, A., Pezone, V., & Zafar, B. (2022). Biases in information selection and processing: Survey evidence from the pandemic. _Review of Economics and Statistics_, pp. 1-46. [[HTML](https://direct.mit.edu/rest/article-abstract/doi/10.1162/rest_a_01187)]  
 
+- Feng, H., Wang, T., Hennessy, D. A., & Arora, G. (2022). Over-perception about land use changes: Assessing empirical evidence and linkage with decisions and motivated beliefs. _Land Economics_, vol. 98, no. 2, pp. 254-273. [HTML]()]
+
   - Gonzalez-Jimenez, V. (2022). Social status and motivated beliefs. _Journal of Public Economics_, vol. 211, pp. 104662. [[HTML](https://www.sciencedirect.com/science/article/pii/S0047272722000640)]
 
   - Hagenbach, J., & Koessler, F. (2022). Selective memory of a psychological agent. _European Economic Review_, vol. 142, pp. 104012.  [[HTML](https://www.sciencedirect.com/science/article/abs/pii/S0014292121002816)]
@@ -236,12 +238,13 @@ nav: false
 
   - Engelmann, J., Lebreton, M., Schwardmann, P., van der Weele, J. J., & Chang, L. A. (2019). Anticipatory anxiety and wishful thinking. _Working Paper_. [[HTML](https://papers.tinbergen.nl/19042.pdf)]
 
+  - Hagmann, D., & Loewenstein, G. (2018). Persuasion with motivated beliefs. _Working Paper_. [[HTML](https://www.aeaweb.org/conference/2019/preliminary/paper/5ytibhds)]
+
   - Wang, A., Wang, S., & Ye, X. (2018). Religion and motivated cognition: when Ramadan meets the college entrance exam. _Working Paper_. [[HTML](https://aalims.org/wp-content/uploads/2020/04/Shaoda-Wang-Ramadan_v5.pdf)]
 
   
 - Review Papers
   - Villeval, M. C. (2020). Performance feedback and peer effects: A review. _SSRN Working Paper_, no. 3543371. [[HTML](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3543371)]
-
 
 
 
