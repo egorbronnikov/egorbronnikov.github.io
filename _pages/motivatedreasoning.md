@@ -43,9 +43,13 @@ nav: false
 - Research Papers
 
   - Amasino, D. R., Pace, D. D., & van der Weele, J. (2023). Self-serving bias in redistribution choices: Accounting for beliefs and norms. _Journal of Economic Psychology_, vol. 98, pp. 102654. [[HTML](https://www.sciencedirect.com/science/article/pii/S0167487023000557)]
- 
+
+  - Bicchieri, C., Dimant, E., & Sonderegger, S. (2023). It's not a lie if you believe the norm does not apply: Conditional norm-following and belief distortion. _Games and Economic Behavior_, vol. 138, pp. 321-354. [[HTML](https://www.sciencedirect.com/science/article/pii/S0899825623000088)]
+
   - Exley, C. L., & Kessler, J. B. (2023). Information avoidance and image concerns. _The Economic Journal_, 133(656), 3153-3168. [[HTML](https://academic.oup.com/ej/article-abstract/133/656/3153/7240144)]
-    
+
+  - Ruzzier, C. A., & Woo, M. D. (2023). Discrimination with inaccurate beliefs and confirmation bias. _Journal of Economic Behavior & Organization_, vol. 210, pp. 379-390. [[HTML](https://www.sciencedirect.com/science/article/pii/S0167268123001221)]
+
   - Sprengholz, P., Henkel, L., Böhm, R., & Betsch, C. (2023). Historical narratives about the COVID-19 pandemic are motivationally biased. _Nature_, vol. 623, no. 7987, pp. 588-593. [[HTML](https://www.nature.com/articles/s41586-023-06674-5)]
 
   - Wang, A., Wang, S., & Ye, X. (2023). When information conflicts with obligations: the role of motivated cognition. _The Economic Journal_, vol. 133, no. 654, pp. 2533-2552. [[HTML]()]
@@ -67,6 +71,8 @@ nav: false
   - Coffman, K. B., Exley, C. L., & Niederle, M. (2021). The role of beliefs in driving gender discrimination. Management Science, vol. 67, no. 6, pp. 3551-3569. [[HTML](https://pubsonline.informs.org/doi/10.1287/mnsc.2020.3660)]  
 
   - Drobner, C. (2022). Motivated beliefs and anticipation of uncertainty resolution. _American Economic Review: Insights_, vol. 4, no. 1, pp. 89-105. [[HTML](https://www.aeaweb.org/articles?id=10.1257/aeri.20200829)]
+
+  - Erkal, N., Gangadharan, L., & Koh, B. H. (2022). By chance or by choice? Biased attribution of others’ outcomes when social preferences matter. Experimental Economics, vol. 25, no. 2, pp. 413-443. [[HTML](https://link.springer.com/article/10.1007/s10683-021-09731-w)]
 
   - Faia, E., Fuster, A., Pezone, V., & Zafar, B. (2022). Biases in information selection and processing: Survey evidence from the pandemic. _Review of Economics and Statistics_, pp. 1-46. [[HTML](https://direct.mit.edu/rest/article-abstract/doi/10.1162/rest_a_01187)]  
 
@@ -97,6 +103,8 @@ nav: false
   - Chew, S. H., Huang, W., & Zhao, X. (2020). Motivated false memory. _Journal of Political Economy_, vol. 128, no. 10, pp. 3913-3939. [[HTML](https://www.journals.uchicago.edu/doi/abs/10.1086/709971)]
 
   - Exley, C. L. (2020). Using charity performance metrics as an excuse not to give. _Management Science_, vol. 66, no. 2, pp. 553-563. [[HTML](https://pubsonline.informs.org/doi/pdf/10.1287/mnsc.2018.3268)]
+
+  - Ging-Jehli, N. R., Schneider, F. H., & Weber, R. A. (2020). On self-serving strategic beliefs. Games and Economic Behavior, 122, 341-353. [[HTML](https://www.sciencedirect.com/science/article/pii/S0899825620300713)]
 
   - Solda, A., Ke, C., Page, L., & Von Hippel, W. (2020). Strategically delusional. _Experimental Economics_, vol. 23, pp. 604-631. [[HTML](https://link.springer.com/article/10.1007/s10683-019-09636-9)]
 
@@ -179,8 +187,6 @@ nav: false
 
 
 
-
-
 <p>&nbsp;</p> 
 
 #### Working Papers
@@ -196,6 +202,8 @@ nav: false
 
   - Cassella, S., Golez, B., Gulen, H., & Kelly, P. (2023). Motivated beliefs in macroeconomic expectations. _SSRN Working Paper_, no. 3759035. [[HTML](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3759035)]
 
+  - Gangadharan, L., Grossman, P. J., & Xue, N. (2023). Are three heads more biased than one? The role of communication in group belief updating. Experimental evidence on the role of beliefs in prosocial behaviour. _Working Paper_. [[HTML](https://bridges.monash.edu/articles/thesis/Experimental_evidence_on_the_role_of_beliefs_in_prosocial_behaviour/24160218/1/files/42391029.pdf#page=60)]
+    
   - Hagenbach, J., Kranton, R., & Lee, V. (2023). Competition, Cooperation, and Motivated Social Perceptions. _Working Paper_. [[HTML](https://sciencespo.hal.science/hal-03792554v1/document)]
 
   - Kapons, M. M., & Kelly, P. (2023). Biased inference due to prior beliefs: Evidence from the field. _SSRN Working Paper_, no. 4209631. [[HTML](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4209631)]
@@ -206,6 +214,8 @@ nav: false
 
   - Wittrock, L., Strobel, M., & Tsakas, E. (2023). Belief updating with misinformation. _Working Paper_. [[HTML]( http://www.elias-tsakas.com/Research/Papers/UpdatingMisinformation.pdf)]
 
+  - Eyting, M. (2022). Why do we discriminate? The role of motivated reasoning. _SSRN Working Paper_, no. 4210315. [[HTML](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4210315)]
+
   - Fudenberg, D., Lanzani, G., & Strack, P. (2022). Selective memory equilibrium. _SSRN Working Paper_, no. 4015313. [[HTML](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4015313)]
 
   - Momsen, K., & Schneider, S. O. (2022). Motivated reasoning, information avoidance, and default bias. _Working Paper_. [[HTML](https://www.econstor.eu/bitstream/10419/273678/1/1799842347.pdf)]
@@ -213,6 +223,8 @@ nav: false
   - Riehm, T. (2022). Motivated beliefs in auctions. _Working Paper_. [[HTML](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4300892)]
 
   - Islam, M. (2021). Motivated Risk Assessments. _Working Paper_. [[HTML](https://www.econstor.eu/bitstream/10419/260332/1/wp2021-012.pdf)]
+
+  - Erkal, N., Gangadharan, L., & Koh, B. H. (2021). Gender biases in performance evaluation: The role of beliefs versus outcomes. _SSRN Working Paper_, no. 3979701. [[HTML](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3979701)]
 
   - Orhun, A. Y., Cohn, A., & Raymond, C. (2021). Motivated optimism and workplace risk. _SSRN Working Paper_, no. 3966686. [[HTML](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3966686)]
 
