@@ -106,6 +106,8 @@ Here, I am endeavoring to gather as many papers as possible on motivated reasoni
 
   - Ging-Jehli, N. R., Schneider, F. H., & Weber, R. A. (2020). On self-serving strategic beliefs. _Games and Economic Behavior_, vol. 122, pp. 341--353. [[HTML](https://www.sciencedirect.com/science/article/pii/S0899825620300713)]
 
+  - Gneezy, U., Saccardo, S., Serra-Garcia, M., & van Veldhuizen, R. (2020). Bribing the self. _Games and Economic Behavior_, vol. 120, pp. 311--324. [[HTML](https://www.sciencedirect.com/science/article/pii/S0899825619301939)]
+    
   - Solda, A., Ke, C., Page, L., & Von Hippel, W. (2020). Strategically delusional. _Experimental Economics_, vol. 23, pp. 604--631. [[HTML](https://link.springer.com/article/10.1007/s10683-019-09636-9)]
 
   - Stone, D. F. (2020). Just a big misunderstanding? Bias and Bayesian affective polarization. _International Economic Review_, vol. 61, no. 1, 189--217. [[HTML](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/iere.12421)]
