@@ -6,9 +6,14 @@ description: here I try to collect as many papers on motivated reasoning (and be
 nav: false
 ---
 
-### Research Papers
+### Research Papers in Economics
+
+<p>&nbsp;</p> 
+<p>&nbsp;</p> 
 
 #### Published Papers
+
+
 
 ##### Forthcoming papers
 
@@ -16,6 +21,8 @@ nav: false
 
 Bolte, L., & Fan, T. Q. (2024). Motivated mislearning: The case of correlation neglect. _Journal of Economic Behavior & Organization_, vol. 217, pp. 647-663. 
 [[HTML](https://www.sciencedirect.com/science/article/abs/pii/S0167268123004249)]
+
+<p>&nbsp;</p> 
 
 ##### 2023 papers
 
@@ -25,11 +32,16 @@ v
 
 TBA
 
+<p>&nbsp;</p> 
+
 ##### 2021 papers
 
 - Thaler, M. (2021). Gender differences in motivated reasoning. _Journal of Economic Behavior & Organization_, vol. 191, pp. 501-518.
 [[HTML](https://www.sciencedirect.com/science/article/abs/pii/S0167268121003954)]
 
+
+
+<p>&nbsp;</p> 
 
 ##### 2020 papers
 
@@ -39,8 +51,7 @@ TBA
 
 &nbsp; &nbsp; &nbsp; &nbsp; [[HTML](https://www.aeaweb.org/articles?id=10.1257/aer.20180728)]
 
-
-###### Review Papers
+###### Review Papers in Economics
 
 - Molnar, A., & Loewenstein, G. (2022). Chapter 15: Thoughts and Players: An Introduction to Old and New Economic Perspectives on Beliefs. , In Musolino, J., Sommer, J., & Hemmer, P. (Eds.) _The Cognitive Science of Belief: A Multidisciplinary Approach._ (pp. 321-350). Cambridge University Press.
 
@@ -51,6 +62,10 @@ TBA
 #### 2019 papers
 
 TBA
+
+<p>&nbsp;</p> 
+
+<p>&nbsp;</p> 
 
 
 #### Working Papers
