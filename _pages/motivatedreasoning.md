@@ -17,7 +17,6 @@ nav: false
   - Drobner, C., & Goerg, S. J. (forthcoming). Motivated belief updating and rationalization of information. _Management Science_. [[HTML]()]
  
   - Exley, C. L., & Kessler, J. B. (forthcoming). Motivated errors. _American Economic Review_. [[HTML](https://www.aeaweb.org/articles?id=10.1257/aer.20191849&&from=f)]
-
   
   - Thaler, M. (forthcoming). Good News Is Not a Sufficient Condition for Motivated Reasoning. _American Economic Journal: Microeconomics_. [[HTML](https://www.aeaweb.org/articles?id=10.1257/mic.20220146&&from=f)]
  
