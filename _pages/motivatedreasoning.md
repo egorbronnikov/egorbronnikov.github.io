@@ -125,6 +125,8 @@ nav: false
 - Research Papers
   - Coutts, A. (2019). Good news and bad news are still news: Experimental evidence on belief updating. _Experimental Economics_, vol. 22, no. 2, pp. 369-395. [[HTML](https://link.springer.com/article/10.1007/s10683-018-9572-5)]
 
+  - Druckman, J. N., & McGrath, M. C. (2019). The evidence for motivated reasoning in climate change preference formation. _Nature Climate Change_, vol. 9, no. 2, pp. 111-119. [[HTML](https://www.nature.com/articles/s41558-018-0360-1)]
+
   - Saucet, C., & Villeval, M. C. (2019). Motivated memory in dictator games. _Games and Economic Behavior_, vol. 117, pp. 250-275. [[HTML](https://www.sciencedirect.com/science/article/abs/pii/S0899825619300879)]
 
   - Schwardmann, P., & Van der Weele, J. (2019). Deception and self-deception. _Nature Human Behaviour_, vol. 3, no. 10, pp.  1055-1061. [[HTML](https://www.nature.com/articles/s41562-019-0666-7)]
