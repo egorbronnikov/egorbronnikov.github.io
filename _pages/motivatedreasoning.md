@@ -72,7 +72,7 @@ Here, I am endeavoring to gather as many papers as possible on motivated reasoni
 
   - Drobner, C. (2022). Motivated beliefs and anticipation of uncertainty resolution. _American Economic Review: Insights_, vol. 4, no. 1, pp. 89--105. [[HTML](https://www.aeaweb.org/articles?id=10.1257/aeri.20200829)] <span style="color:gray">[MR]</span> <span style="color:gray">[Experiment]</span>
 
-  - Erkal, N., Gangadharan, L., & Koh, B. H. (2022). By chance or by choice? Biased attribution of others’ outcomes when social preferences matter. Experimental Economics, vol. 25, no. 2, pp. 413--443. [[HTML](https://link.springer.com/article/10.1007/s10683-021-09731-w)]
+  - Erkal, N., Gangadharan, L., & Koh, B. H. (2022). By chance or by choice? Biased attribution of others’ outcomes when social preferences matter. _Experimental Economics_, vol. 25, no. 2, pp. 413--443. [[HTML](https://link.springer.com/article/10.1007/s10683-021-09731-w)]
 
   - Faia, E., Fuster, A., Pezone, V., & Zafar, B. (2022). Biases in information selection and processing: Survey evidence from the pandemic. _Review of Economics and Statistics_, pp. 1--46. [[HTML](https://direct.mit.edu/rest/article-abstract/doi/10.1162/rest_a_01187)]  
 
