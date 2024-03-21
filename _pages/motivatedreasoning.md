@@ -17,6 +17,10 @@ nav: false
 
 ##### Forthcoming papers
 
+
+
+Thaler, M. (forthcoming). Good News Is Not a Sufficient Condition for Motivated Reasoning. _American Economic Journal: Microeconomics_.
+
 ##### 2024 papers
 
 Bolte, L., & Fan, T. Q. (2024). Motivated mislearning: The case of correlation neglect. _Journal of Economic Behavior & Organization_, vol. 217, pp. 647-663. 
@@ -72,7 +76,7 @@ TBA
 
 ##### 2024 papers
 
-TBA
+Thaler, M. (2024). Good News Is Not a Sufficient Condition for Motivated Reasoning. _Working paper_.
 
 ##### 2023 papers
 
