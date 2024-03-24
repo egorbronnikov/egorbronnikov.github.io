@@ -7,9 +7,10 @@ nav: false
 
 Here, I am endeavoring to gather as many papers as possible on motivated reasoning and motivated memory, primarily focusing on experimental papers within the field of Economics. While aiming to remain focused on these specific topics, determining the precise boundary can sometimes be subtle. Additionally, I am incorporating several papers on related—but broader—topics such as motivated cognition and self-serving beliefs.
 
+At the same time, there is [[a page devoted to recent papers on belief updating](https://sites.google.com/view/alicesolda/resources/recent-belief-papers)] in a broader context, curated by Alice Soldà.
+
+
 <p>&nbsp;</p> 
-
-
 
 ### Published Papers in Economics
 
