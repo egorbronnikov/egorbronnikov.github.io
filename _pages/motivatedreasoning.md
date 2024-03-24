@@ -14,14 +14,15 @@ Here, I am endeavoring to gather as many papers as possible on motivated reasoni
 ### Published Papers in Economics
 
 ##### Forthcoming papers
-- Research Papers
-  - Drobner, C., & Goerg, S. J. (forthcoming). Motivated belief updating and rationalization of information. _Management Science_. [[HTML](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2023.02537?af=R)] <span style="color:gray">[MR]</span>
+
+  - Drobner, C., & Goerg, S. J. (forthcoming). Motivated belief updating and rationalization of information. _Management Science_. [[HTML](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2023.02537?af=R)]  <span style="color:gray">[MR]</span> <span style="color:gray">[Exp.]</span>
  
-  - Exley, C. L., & Kessler, J. B. (forthcoming). Motivated errors. _American Economic Review_. [[HTML](https://www.aeaweb.org/articles?id=10.1257/aer.20191849&&from=f)] 
+  - Exley, C. L., & Kessler, J. B. (forthcoming). Motivated errors. _American Economic Review_. [[HTML](https://www.aeaweb.org/articles?id=10.1257/aer.20191849&&from=f)]  <span style="color:gray">[MR]</span> <span style="color:gray">[Exp.]</span>
   
   - Thaler, M. (forthcoming). Good News Is Not a Sufficient Condition for Motivated Reasoning. _American Economic Journal: Microeconomics_. [[HTML](https://www.aeaweb.org/articles?id=10.1257/mic.20220146&&from=f)] <span style="color:gray">[MR]</span>
  
-  - Coffman, K., Collis, M. R., & Kulkarni, L. (2023). Stereotypes and belief updating. _Journal of the European Economic Association_. [[HTML](https://academic.oup.com/jeea/advance-article-abstract/doi/10.1093/jeea/jvad063/7333976)]
+  - Coffman, K., Collis, M. R., & Kulkarni, L. (2023). Stereotypes and belief updating. _Journal of the European Economic Association_. [[HTML](https://academic.oup.com/jeea/advance-article-abstract/doi/10.1093/jeea/jvad063/7333976)] <span style="color:gray">[MR]</span> <span style="color:gray">[Exp.]</span>
+
     
 - Review Papers
   - TBA
@@ -201,7 +202,7 @@ Here, I am endeavoring to gather as many papers as possible on motivated reasoni
   - Thaler, M. (2024). Good News Is Not a Sufficient Condition for Motivated Reasoning. _Working Paper_. [[HTML](https://www.cesifo.org/DocDL/cesifo1_wp10915.pdf)]
 
 ##### 2023 papers
-- Research Papers
+
   - Augenblick, N., Lazarus, E., & Thaler, M. (2023). Overinference from weak signals and underinference from strong signals. _Working Paper_. [[HTML](https://drive.google.com/file/d/1irPVAmdcz8zKVzqplHkvwlwdnAN2H7Qh/view)]
 
   - Battigalli, P., & Generoso, N. (2023). Information flows and memory in games. _SSRN Working Paper_, no. 4435785. [[HTML](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4435785)]
@@ -211,7 +212,9 @@ Here, I am endeavoring to gather as many papers as possible on motivated reasoni
   - Cordes, C., Friedrichsen, J., & Schudy, S. (2023). Motivated Procrastination (No. 471). _Working Paper_. [[HTML]([https://www.cesifo.org/DocDL/cesifo1_wp10915.pdf](https://www.econstor.eu/bitstream/10419/282162/1/471.pdf))]
 
   - Gangadharan, L., Grossman, P. J., & Xue, N. (2023). Are three heads more biased than one? The role of communication in group belief updating. Experimental evidence on the role of beliefs in prosocial behaviour. _Working Paper_. [[HTML](https://bridges.monash.edu/articles/thesis/Experimental_evidence_on_the_role_of_beliefs_in_prosocial_behaviour/24160218/1/files/42391029.pdf#page=60)]
-    
+
+  - Harrison, G. W., & Swarthout, J. T. (2020). Belief distributions, Bayes rule and Bayesian overconfidence. _Working Paper_. [[HTML](https://cear.gsu.edu/files/2023/04/CEAR-WP-2020-11-Belief-Distributions-Bayes-Rule-and-Bayesian-Overconfidence-APRIL-2023.pdf)]
+
   - Hagenbach, J., Kranton, R., & Lee, V. (2023). Competition, Cooperation, and Motivated Social Perceptions. _Working Paper_. [[HTML](https://sciencespo.hal.science/hal-03792554v1/document)]
 
   - Kapons, M. M., & Kelly, P. (2023). Biased inference due to prior beliefs: Evidence from the field. _SSRN Working Paper_, no. 4209631. [[HTML](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4209631)]
@@ -227,7 +230,7 @@ Here, I am endeavoring to gather as many papers as possible on motivated reasoni
   - Wittrock, L., Strobel, M., & Tsakas, E. (2023). Belief updating with misinformation. _Working Paper_. [[HTML]( http://www.elias-tsakas.com/Research/Papers/UpdatingMisinformation.pdf)]
 
 ##### 2022 papers
-- Research Papers
+
   - Eyting, M. (2022). Why do we discriminate? The role of motivated reasoning. _SSRN Working Paper_, no. 4210315. [[HTML](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4210315)]
 
   - Fudenberg, D., Lanzani, G., & Strack, P. (2022). Selective memory equilibrium. _SSRN Working Paper_, no. 4015313. [[HTML](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4015313)]
@@ -239,28 +242,27 @@ Here, I am endeavoring to gather as many papers as possible on motivated reasoni
   - Riehm, T. (2022). Motivated beliefs in auctions. _Working Paper_. [[HTML](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4300892)]
 
 ##### 2021 papers
-- Research Papers
+
   - Bosch-Rosa, C., Gietl, D., & Heinemann, F. (2021). Risk-taking under limited liability: Quantifying the role of motivated beliefs. _SSRN Working Paper_, no. 3985775. [[HTML](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3985775)]
 
   - Erkal, N., Gangadharan, L., & Koh, B. H. (2021). Gender biases in performance evaluation: The role of beliefs versus outcomes. _SSRN Working Paper_, no. 3979701. [[HTML](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3979701)]
-
+  
   - Islam, M. (2021). Motivated Risk Assessments. _Working Paper_. [[HTML](https://www.econstor.eu/bitstream/10419/260332/1/wp2021-012.pdf)]
 
   - Orhun, A. Y., Cohn, A., & Raymond, C. (2021). Motivated optimism and workplace risk. _SSRN Working Paper_, no. 3966686. [[HTML](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3966686)]
 
 ##### 2020 papers
-- Research Papers
-  - TBA
-  - 
-- Review Papers
-  - Villeval, M. C. (2020). Performance feedback and peer effects: A review. _SSRN Working Paper_, no. 3543371. [[HTML](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3543371)]
+
+  - Villeval, M. C. (2020). Performance feedback and peer effects: A review. _SSRN Working Paper_, no. 3543371. [[HTML](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3543371)] <span style="color:gray">[MR]</span> <span style="color:gray">[Rev.]</span>
+
     
 ##### 2019 papers
-- Research Papers
-  - Engelmann, J., Lebreton, M., Schwardmann, P., van der Weele, J. J., & Chang, L. A. (2019). Anticipatory anxiety and wishful thinking. _Working Paper_. [[HTML](https://papers.tinbergen.nl/19042.pdf)]
+
+  - Engelmann, J., Lebreton, M., Schwardmann, P., van der Weele, J. J., & Chang, L. A. (2019). Anticipatory anxiety and wishful thinking. _Working Paper_. [[HTML](https://papers.tinbergen.nl/19042.pdf)] <span style="color:gray">[WT]</span> <span style="color:gray">[Exp.]</span>
+
 
 ##### 2018 papers
-- Research Papers
+
   - Hagmann, D., & Loewenstein, G. (2018). Persuasion with motivated beliefs. _Working Paper_. [[HTML](https://www.aeaweb.org/conference/2019/preliminary/paper/5ytibhds)]
 
   - Wang, A., Wang, S., & Ye, X. (2018). Religion and motivated cognition: when Ramadan meets the college entrance exam. _Working Paper_. [[HTML](https://aalims.org/wp-content/uploads/2020/04/Shaoda-Wang-Ramadan_v5.pdf)]
