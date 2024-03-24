@@ -191,7 +191,7 @@ At the same time, there is [a page devoted to recent papers on belief updating](
 
 <p>&nbsp;</p> 
 
-#### Working Papers in Economics
+### Working Papers in Economics
 
 
 ##### 2024 papers
