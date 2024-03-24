@@ -165,14 +165,13 @@ Here, I am endeavoring to gather as many papers as possible on motivated reasoni
 
 <p>&nbsp;</p> 
 
+### Published Papers in Economics
 
-##### Some other broadly relevant papers
-
-  - Bursztyn, L., & Yang, D. Y. (2022). Misperceptions about others. _Annual Review of Economics_, vol. 14, pp. 425--452. [[HTML](https://www.annualreviews.org/content/journals/10.1146/annurev-economics-051520-023322)]  <span style="color:gray">[Bel]</span> <span style="color:gray">[Rev.]</span>
+  - Bursztyn, L., & Yang, D. Y. (2022). Misperceptions about others. _Annual Review of Economics_, vol. 14, pp. 425--452. [[HTML](https://www.annualreviews.org/content/journals/10.1146/annurev-economics-051520-023322)]  <span style="color:gray">[Info, B]</span> <span style="color:gray">[Rev.]</span>
 
    - Golman, R., Hagmann, D., & Loewenstein, G. (2017). Information avoidance. _Journal of Economic Literature_, vol. 55, no. 1, pp. 96--135. [[HTML](https://www.aeaweb.org/articles?id=10.1257/jel.20151245)]  <span style="color:gray">[Info]</span> <span style="color:gray">[Rev.]</span>
    
-  - Haaland, I., Roth, C., & Wohlfart, J. (2023). Designing information provision experiments. _Journal of Economic Literature_, vol. 61, no. 1, pp. 3--40. [[HTML](https://www.aeaweb.org/articles?id=10.1257/jel.20211658)] <span style="color:gray">[Info, BU]</span> <span style="color:gray">[Rev.]</span>
+  - Haaland, I., Roth, C., & Wohlfart, J. (2023). Designing information provision experiments. _Journal of Economic Literature_, vol. 61, no. 1, pp. 3--40. [[HTML](https://www.aeaweb.org/articles?id=10.1257/jel.20211658)] <span style="color:gray">[Info, B, BU]</span> <span style="color:gray">[Rev.]</span>
 
 
 
