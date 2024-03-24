@@ -170,7 +170,7 @@ At the same time, there is [a page devoted to recent papers on belief updating](
 
 <p>&nbsp;</p> 
 
-### Published and Forthcoming Papers in Economics
+### Several Related (Published and Forthcoming) Papers in Economics
 
 ##### Forthcoming papers
   - Haaland, I., König, J., Roth, C., & Wohlfart, J. (Forthcoming). Information experiments. In _Encyclopedia of Experimental Social Science_. [[HTML](https://raw.githubusercontent.com/cproth/papers/master/Information%20Experiments.pdf)] <span style="color:gray">[Info]</span> <span style="color:gray">[Rev.]</span>
@@ -185,12 +185,6 @@ At the same time, there is [a page devoted to recent papers on belief updating](
 
 ##### 2017 papers
    - Golman, R., Hagmann, D., & Loewenstein, G. (2017). Information avoidance. _Journal of Economic Literature_, vol. 55, no. 1, pp. 96--135. [[HTML](https://www.aeaweb.org/articles?id=10.1257/jel.20151245)]  <span style="color:gray">[Info]</span> <span style="color:gray">[Rev.]</span>
-
-
-   Prepared for the Encyclopedia of Experimental Social Science
-
-
-
 
 
 
