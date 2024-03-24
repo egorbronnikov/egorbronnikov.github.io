@@ -7,7 +7,7 @@ nav: false
 
 Here, I am endeavoring to gather as many papers as possible on motivated reasoning and motivated memory, primarily focusing on experimental papers within the field of Economics. While aiming to remain focused on these specific topics, determining the precise boundary can sometimes be subtle. Additionally, I am incorporating several papers on related—but broader—topics such as motivated cognition and self-serving beliefs.
 
-At the same time, there is [a page devoted to recent papers on belief updating](https://sites.google.com/view/alicesolda/resources/recent-belief-papers) in a broader context, curated by Alice Soldà.
+At the same time, there is [a page devoted to recent papers on belief updating](https://sites.google.com/view/alicesolda/resources/recent-belief-papers) in a broader context, curated by [Alice Soldà](https://sites.google.com/view/alicesolda/home).
 
 
 <p>&nbsp;</p> 
@@ -160,7 +160,7 @@ At the same time, there is [a page devoted to recent papers on belief updating](
   
 ##### 2015 papers
 
-  - Bénabou, R. (2015). The economics of motivated beliefs. _Revue d'économie politique_, vol. 5, pp. 665--685. [[HTML](https://www.cairn.info/revue-d-economie-politique-2015-5-page-665.htm)]  <span style="color:gray">[MR]</span> <span style="color:gray">[Th.]</span>
+  - Bénabou, R. (2015). The economics of motivated beliefs. _Revue d'économie politique_, vol. 5, pp. 665--685. [[HTML](https://www.cairn.info/revue-d-economie-politique-2015-5-page-665.htm)]  <span style="color:gray">[MR]</span> <span style="color:gray">[Th. & Rev.]</span>
  
 
 
@@ -173,9 +173,6 @@ At the same time, there is [a page devoted to recent papers on belief updating](
    - Golman, R., Hagmann, D., & Loewenstein, G. (2017). Information avoidance. _Journal of Economic Literature_, vol. 55, no. 1, pp. 96--135. [[HTML](https://www.aeaweb.org/articles?id=10.1257/jel.20151245)]  <span style="color:gray">[Info]</span> <span style="color:gray">[Rev.]</span>
    
   - Haaland, I., Roth, C., & Wohlfart, J. (2023). Designing information provision experiments. _Journal of Economic Literature_, vol. 61, no. 1, pp. 3--40. [[HTML](https://www.aeaweb.org/articles?id=10.1257/jel.20211658)] <span style="color:gray">[Info, B, BU]</span> <span style="color:gray">[Rev.]</span>
-
-
-
 
 
 
