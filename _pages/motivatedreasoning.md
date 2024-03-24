@@ -16,13 +16,17 @@ At the same time, there is [a page devoted to recent papers on belief updating](
 
 ##### Forthcoming papers
 
+  - Coffman, K., Collis, M. R., & Kulkarni, L. (2023). Stereotypes and belief updating. _Journal of the European Economic Association_. [[HTML](https://academic.oup.com/jeea/advance-article-abstract/doi/10.1093/jeea/jvad063/7333976)] <span style="color:gray">[MR]</span> <span style="color:gray">[Exp.]</span>
+
   - Drobner, C., & Goerg, S. J. (forthcoming). Motivated belief updating and rationalization of information. _Management Science_. [[HTML](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2023.02537?af=R)]  <span style="color:gray">[MR]</span> <span style="color:gray">[Exp.]</span>
  
   - Exley, C. L., & Kessler, J. B. (forthcoming). Motivated errors. _American Economic Review_. [[HTML](https://www.aeaweb.org/articles?id=10.1257/aer.20191849&&from=f)]  <span style="color:gray">[MR]</span> <span style="color:gray">[Exp.]</span>
-  
+
+  - Melnikoff, D. E., & Strohminger, N. (2024). Bayesianism and wishful thinking are compatible. _Nature Human Behaviour_. [[HTML](https://www.nature.com/articles/s41562-024-01819-6)]  <span style="color:gray">[WT]</span> <span style="color:gray">[Exp.]</span>
+
   - Thaler, M. (forthcoming). Good News Is Not a Sufficient Condition for Motivated Reasoning. _American Economic Journal: Microeconomics_. [[HTML](https://www.aeaweb.org/articles?id=10.1257/mic.20220146&&from=f)] <span style="color:gray">[MR]</span>
  
-  - Coffman, K., Collis, M. R., & Kulkarni, L. (2023). Stereotypes and belief updating. _Journal of the European Economic Association_. [[HTML](https://academic.oup.com/jeea/advance-article-abstract/doi/10.1093/jeea/jvad063/7333976)] <span style="color:gray">[MR]</span> <span style="color:gray">[Exp.]</span>
+
 
 
 
