@@ -16,13 +16,13 @@ At the same time, there is [a page devoted to recent papers on belief updating](
 
 ##### Forthcoming papers
 
-  - Coffman, K., Collis, M. R., & Kulkarni, L. (2023). Stereotypes and belief updating. _Journal of the European Economic Association_. [[HTML](https://academic.oup.com/jeea/advance-article-abstract/doi/10.1093/jeea/jvad063/7333976)] <span style="color:gray">[MR]</span> <span style="color:gray">[Exp.]</span>
+  - Coffman, K., Collis, M. R., & Kulkarni, L. (forthcoming). Stereotypes and belief updating. _Journal of the European Economic Association_. [[HTML](https://academic.oup.com/jeea/advance-article-abstract/doi/10.1093/jeea/jvad063/7333976)] <span style="color:gray">[MR]</span> <span style="color:gray">[Exp.]</span>
 
   - Drobner, C., & Goerg, S. J. (forthcoming). Motivated belief updating and rationalization of information. _Management Science_. [[HTML](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2023.02537?af=R)]  <span style="color:gray">[MR]</span> <span style="color:gray">[Exp.]</span>
  
   - Exley, C. L., & Kessler, J. B. (forthcoming). Motivated errors. _American Economic Review_. [[HTML](https://www.aeaweb.org/articles?id=10.1257/aer.20191849&&from=f)]  <span style="color:gray">[MR]</span> <span style="color:gray">[Exp.]</span>
 
-  - Melnikoff, D. E., & Strohminger, N. (2024). Bayesianism and wishful thinking are compatible. _Nature Human Behaviour_. [[HTML](https://www.nature.com/articles/s41562-024-01819-6)]  <span style="color:gray">[WT]</span> <span style="color:gray">[Exp.]</span>
+  - Melnikoff, D. E., & Strohminger, N. (forthcoming). Bayesianism and wishful thinking are compatible. _Nature Human Behaviour_. [[HTML](https://www.nature.com/articles/s41562-024-01819-6)]  <span style="color:gray">[WT]</span> <span style="color:gray">[Exp.]</span>
 
   - Thaler, M. (forthcoming). Good News Is Not a Sufficient Condition for Motivated Reasoning. _American Economic Journal: Microeconomics_. [[HTML](https://www.aeaweb.org/articles?id=10.1257/mic.20220146&&from=f)] <span style="color:gray">[MR]</span>
  
@@ -170,10 +170,12 @@ At the same time, there is [a page devoted to recent papers on belief updating](
 
 <p>&nbsp;</p> 
 
-### Published Papers in Economics
+### Published and Forthcoming Papers in Economics
+
+##### Forthcoming papers
+  - Haaland, I., König, J., Roth, C., & Wohlfart, J. (Forthcoming). Information experiments. In _Encyclopedia of Experimental Social Science_. [[HTML](https://raw.githubusercontent.com/cproth/papers/master/Information%20Experiments.pdf)] <span style="color:gray">[Info]</span> <span style="color:gray">[Rev.]</span>
 
 ##### 2023 papers
-
   - Haaland, I., Roth, C., & Wohlfart, J. (2023). Designing information provision experiments. _Journal of Economic Literature_, vol. 61, no. 1, pp. 3--40. [[HTML](https://www.aeaweb.org/articles?id=10.1257/jel.20211658)] <span style="color:gray">[Info, B, BU]</span> <span style="color:gray">[Rev.]</span>
   
   - Maćkowiak, B., Matějka, F., & Wiederholt, M. (2023). Rational inattention: A review. _Journal of Economic Literature_, vol. 61, no. 1, pp. 226--273. [[HTML](https://www.aeaweb.org/articles?id=10.1257/jel.20211524)] <span style="color:gray">[Info, RatInAt]</span> <span style="color:gray">[Rev.]</span>
@@ -183,7 +185,13 @@ At the same time, there is [a page devoted to recent papers on belief updating](
 
 ##### 2017 papers
    - Golman, R., Hagmann, D., & Loewenstein, G. (2017). Information avoidance. _Journal of Economic Literature_, vol. 55, no. 1, pp. 96--135. [[HTML](https://www.aeaweb.org/articles?id=10.1257/jel.20151245)]  <span style="color:gray">[Info]</span> <span style="color:gray">[Rev.]</span>
-   
+
+
+   Prepared for the Encyclopedia of Experimental Social Science
+
+
+
+
 
 
 
