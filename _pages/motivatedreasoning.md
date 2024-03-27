@@ -199,6 +199,8 @@ At the same time, there is [a page devoted to recent papers on belief updating](
 
 ##### 2024 papers
 
+  - Balietti, A., Budjan, A. J., Eymess, T., & Soldà, A. (2024). Strategic Ignorance and perceived control. _Working Paper_. [[HTML](https://drive.google.com/file/d/1u0h2ADESNW0_rca5PfxETPM1nDbVZZfV/view)]
+
   - Burgh, J., & Melo, E. (2024). Censored beliefs and wishful thinking. _Working Paper_. [[HTML](https://arxiv.org/html/2402.01892v1)]
 
   - Hagenbach, J., & Saucet, C. (2024). Motivated Skepticism. _Working Paper_. [[HTML](https://hal.science/hal-03770685/document)]
