@@ -12,6 +12,9 @@ At the same time, there is [a page devoted to recent papers on belief updating](
 
 <p>&nbsp;</p> 
 
+toc:
+  beginning: true
+
 ### Published Papers in Economics
 
 ##### Forthcoming papers
