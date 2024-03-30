@@ -193,7 +193,7 @@ toc:
 
 
 ##### 2017 papers
-   - Golman, R., Hagmann, D., & Loewenstein, G. (2017). Information avoidance. _Journal of Economic Literature_, vol. 55, no. 1, pp. 96--135. [[HTML](https://www.aeaweb.org/articles?id=10.1257/jel.20151245)] [[PDF](https://egorbronnikov.github.io/assets/MB/Golman%20et%20al.%20(2017%2C%20JEL).%20Information%20Avoidance.pdf)]  <span style="color:gray">[Info]</span> <span style="color:gray">[Rev.]</span>
+   - Golman, R., Hagmann, D., & Loewenstein, G. (2017). Information avoidance. _Journal of Economic Literature_, vol. 55, no. 1, pp. 96--135. [[HTML](https://www.aeaweb.org/articles?id=10.1257/jel.20151245)] [[PDF](https://egorbronnikov.github.io/assets/MB/Golman%20et%20al.%20(2017%2C%20JEL).pdf)]  <span style="color:gray">[Info]</span> <span style="color:gray">[Rev.]</span>
 
 
 
