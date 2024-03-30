@@ -21,7 +21,7 @@ toc:
 
   - Coffman, K., Collis, M. R., & Kulkarni, L. (forthcoming). Stereotypes and belief updating. _Journal of the European Economic Association_. [[HTML](https://academic.oup.com/jeea/advance-article-abstract/doi/10.1093/jeea/jvad063/7333976)] <span style="color:gray">[MR]</span> <span style="color:gray">[Exp.]</span>
 
-  - Drobner, C., & Goerg, S. J. (forthcoming). Motivated belief updating and rationalization of information. _Management Science_. [[HTML](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2023.02537?af=R)]  <span style="color:gray">[MR]</span> <span style="color:gray">[Exp.]</span>
+  - Drobner, C., & Goerg, S. J. (forthcoming). Motivated belief updating and rationalization of information. _Management Science_. [[HTML](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2023.02537?af=R)] [[PDF](https://egorbronnikov.github.io/assets/MB/Drobner%20%26%20Goerg%20(2024%2C%20MangSc).pdf)]  <span style="color:gray">[MR]</span> <span style="color:gray">[Exp.]</span>
  
   - Exley, C. L., & Kessler, J. B. (forthcoming). Motivated errors. _American Economic Review_. [[HTML](https://www.aeaweb.org/articles?id=10.1257/aer.20191849&&from=f)]  <span style="color:gray">[MR]</span> <span style="color:gray">[Exp.]</span>
 
@@ -29,8 +29,6 @@ toc:
 
   - Thaler, M. (forthcoming). Good News Is Not a Sufficient Condition for Motivated Reasoning. _American Economic Journal: Microeconomics_. [[HTML](https://www.aeaweb.org/articles?id=10.1257/mic.20220146&&from=f)] <span style="color:gray">[MR]</span>
  
-
-
 
 
 ##### 2024 papers
@@ -118,8 +116,7 @@ toc:
   - Stone, D. F. (2020). Just a big misunderstanding? Bias and Bayesian affective polarization. _International Economic Review_, vol. 61, no. 1, 189--217. [[HTML](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/iere.12421)]
 
   - Zimmermann, F. (2020). The dynamics of motivated beliefs. _American Economic Review_, vol. 110, no. 2, pp. 337--363.
-  [[HTML](https://www.aeaweb.org/articles?id=10.1257/aer.20180728)] <span style="color:gray">[MR]</span> <span style="color:gray">[Exp.]</span>
-
+  [[HTML](https://www.aeaweb.org/articles?id=10.1257/aer.20180728)] [[PDF](https://egorbronnikov.github.io/assets/MB/Zimmermann%20(2020).pdf)]  <span style="color:gray">[MR]</span> <span style="color:gray">[Exp.]</span>
 
 
 
@@ -127,18 +124,17 @@ toc:
 
   - Benjamin, D. J. (2019). Chapter 2: Errors in probabilistic reasoning and judgment biases (pp. 69--186). In Bernheim, B. D., DellaVigna, S., & Laibso, D. (Eds.) _Handbook of Behavioral Economics: Applications and Foundations 2_. North-Holland. [[HTML](https://www.sciencedirect.com/science/article/abs/pii/S2352239918300228)] <span style="color:gray">[BU]</span> <span style="color:gray">[Rev.]</span>
 
-  - Coutts, A. (2019). Good news and bad news are still news: Experimental evidence on belief updating. _Experimental Economics_, vol. 22, no. 2, pp. 369--395. [[HTML](https://link.springer.com/article/10.1007/s10683-018-9572-5)] <span style="color:gray">[MR]</span> <span style="color:gray">[Exp.]</span>
+  - Coutts, A. (2019). Good news and bad news are still news: Experimental evidence on belief updating. _Experimental Economics_, vol. 22, no. 2, pp. 369--395. [[HTML](https://link.springer.com/article/10.1007/s10683-018-9572-5)] [[PDF](https://egorbronnikov.github.io/assets/MB/Coutts%20(2019%2C%20EE).pdf)]  <span style="color:gray">[MR]</span> <span style="color:gray">[Exp.]</span>
 
   - Druckman, J. N., & McGrath, M. C. (2019). The evidence for motivated reasoning in climate change preference formation. _Nature Climate Change_, vol. 9, no. 2, pp. 111--119. [[HTML](https://www.nature.com/articles/s41558-018-0360-1)]
 
   - Saucet, C., & Villeval, M. C. (2019). Motivated memory in dictator games. _Games and Economic Behavior_, vol. 117, pp. 250--275. [[HTML](https://www.sciencedirect.com/science/article/abs/pii/S0899825619300879)]
 
-  - Schwardmann, P., & Van der Weele, J. (2019). Deception and self-deception. _Nature Human Behaviour_, vol. 3, no. 10, pp.  1055--1061. [[HTML](https://www.nature.com/articles/s41562-019-0666-7)] 
+  - Schwardmann, P., & Van der Weele, J. (2019). Deception and self-deception. _Nature Human Behaviour_, vol. 3, no. 10, pp.  1055--1061. [[HTML](https://www.nature.com/articles/s41562-019-0666-7)] [[PDF](https://egorbronnikov.github.io/assets/MB/Schwardmann%20%26%20Van%20der%20Weele%20(2019%2C%20NatHumBeh).pdf)] 
 
-  - Stone, D. F. (2019). “Unmotivated bias” and partisan hostility: Empirical evidence. _Journal of Behavioral and Experimental Economics_, vol. 79, pp. 12--26. [[HTML](https://www.sciencedirect.com/science/article/pii/S221480431830418X)]
+  - Stone, D. F. (2019). “Unmotivated bias” and partisan hostility: Empirical evidence. _Journal of Behavioral and Experimental Economics_, vol. 79, pp. 12--26. [[HTML](https://www.sciencedirect.com/science/article/pii/S221480431830418X)]  [[PDF](https://egorbronnikov.github.io/assets/MB/Stone%20(2019%2C%20JBEE).pdf)] 
 
 
- 
 
 ##### 2018 papers
   - TBA
@@ -196,9 +192,9 @@ toc:
    - Kamenica, E. (2019). Bayesian persuasion and information design. _Annual Review of Economics_, vol. 11,  pp. 249--272.[[HTML](https://www.annualreviews.org/content/journals/10.1146/annurev-economics-080218-025739)] [[PDF](https://egorbronnikov.github.io/assets/MB/Kamenica%20(2019%2C%20ARE).pdf)] <span style="color:gray">[BP]</span> <span style="color:gray">[Rev.]</span>
 
 
-
 ##### 2017 papers
-   - Golman, R., Hagmann, D., & Loewenstein, G. (2017). Information avoidance. _Journal of Economic Literature_, vol. 55, no. 1, pp. 96--135. [[HTML](https://www.aeaweb.org/articles?id=10.1257/jel.20151245)]  <span style="color:gray">[Info]</span> <span style="color:gray">[Rev.]</span>
+   - Golman, R., Hagmann, D., & Loewenstein, G. (2017). Information avoidance. _Journal of Economic Literature_, vol. 55, no. 1, pp. 96--135. [[HTML](https://www.aeaweb.org/articles?id=10.1257/jel.20151245)] [[PDF](https://egorbronnikov.github.io/assets/MB/Golman%20et%20al.%20(2017%2C%20JEL).%20Information%20Avoidance.pdf)]  <span style="color:gray">[Info]</span> <span style="color:gray">[Rev.]</span>
+
 
 
 
