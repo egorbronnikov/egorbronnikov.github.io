@@ -176,11 +176,12 @@ toc:
 ### Several Related (Published and Forthcoming) Papers in Economics
 
 ##### Forthcoming papers
-  - Haaland, I., König, J., Roth, C., & Wohlfart, J. (Forthcoming). Information experiments. In _Encyclopedia of Experimental Social Science_. [[HTML](https://raw.githubusercontent.com/cproth/papers/master/Information%20Experiments.pdf)] [[PDF](https://github.com/egorbronnikov/egorbronnikov.github.io/blob/master/assets/MB/Haaland%20et%20al.%20(2023%2C%20JEL).pdf)] <span style="color:gray">[Info]</span> <span style="color:gray">[Rev.]</span>
+  - Haaland, I., König, J., Roth, C., & Wohlfart, J. (Forthcoming). Information experiments. In _Encyclopedia of Experimental Social Science_. [[HTML](https://raw.githubusercontent.com/cproth/papers/master/Information%20Experiments.pdf)] <span style="color:gray">[Info]</span> <span style="color:gray">[Rev.]</span>
+
 
 
 ##### 2023 papers
-  - Haaland, I., Roth, C., & Wohlfart, J. (2023). Designing information provision experiments. _Journal of Economic Literature_, vol. 61, no. 1, pp. 3--40. [[HTML](https://www.aeaweb.org/articles?id=10.1257/jel.20211658)] <span style="color:gray">[Info, B, BU]</span> <span style="color:gray">[Rev.]</span>
+  - Haaland, I., Roth, C., & Wohlfart, J. (2023). Designing information provision experiments. _Journal of Economic Literature_, vol. 61, no. 1, pp. 3--40. [[HTML](https://www.aeaweb.org/articles?id=10.1257/jel.20211658)] [[PDF](https://egorbronnikov.github.io/assets/MB/Haaland%20et%20al.%20(2023,%20JEL).pdf)] <span style="color:gray">[Info, B, BU]</span> <span style="color:gray">[Rev.]</span>
   
   - Maćkowiak, B., Matějka, F., & Wiederholt, M. (2023). Rational inattention: A review. _Journal of Economic Literature_, vol. 61, no. 1, pp. 226--273. [[HTML](https://www.aeaweb.org/articles?id=10.1257/jel.20211524)] <span style="color:gray">[Info, RatInAt]</span> <span style="color:gray">[Rev.]</span>
 
