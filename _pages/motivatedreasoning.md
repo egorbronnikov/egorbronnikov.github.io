@@ -176,7 +176,7 @@ toc:
 ### Several Related (Published and Forthcoming) Papers in Economics
 
 ##### Forthcoming papers
-  - Haaland, I., König, J., Roth, C., & Wohlfart, J. (Forthcoming). Information experiments. In _Encyclopedia of Experimental Social Science_. [[HTML](https://raw.githubusercontent.com/cproth/papers/master/Information%20Experiments.pdf)] <span style="color:gray">[Info]</span> <span style="color:gray">[Rev.]</span>
+  - Haaland, I., König, J., Roth, C., & Wohlfart, J. (Forthcoming). Information experiments. In _Encyclopedia of Experimental Social Science_. [[HTML](https://raw.githubusercontent.com/cproth/papers/master/Information%20Experiments.pdf)] [[PDF](https://github.com/egorbronnikov/egorbronnikov.github.io/blob/master/assets/MB/Haaland%20et%20al.%20(2023%2C%20JEL).pdf)] <span style="color:gray">[Info]</span> <span style="color:gray">[Rev.]</span>
 
 
 ##### 2023 papers
