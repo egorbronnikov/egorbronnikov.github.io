@@ -122,7 +122,8 @@ toc:
 
 ##### 2019 papers
 
-  - Benjamin, D. J. (2019). Chapter 2: Errors in probabilistic reasoning and judgment biases (pp. 69--186). In Bernheim, B. D., DellaVigna, S., & Laibso, D. (Eds.) _Handbook of Behavioral Economics: Applications and Foundations 2_. North-Holland. [[HTML](https://www.sciencedirect.com/science/article/abs/pii/S2352239918300228)] [[PDF](/Benjamin%20(2019).%20Ch.%202.pdf)]  <span style="color:gray">[BU]</span> <span style="color:gray">[Rev.]</span>
+  - Benjamin, D. J. (2019). Chapter 2: Errors in probabilistic reasoning and judgment biases (pp. 69--186). In Bernheim, B. D., DellaVigna, S., & Laibso, D. (Eds.) _Handbook of Behavioral Economics: Applications and Foundations 2_. North-Holland. [[HTML](https://www.sciencedirect.com/science/article/abs/pii/S2352239918300228)] [[PDF](https://egorbronnikov.github.io/assets/MB/Benjamin%20(2019).%20Ch.%202.pdf)]  <span style="color:gray">[BU]</span> <span style="color:gray">[Rev.]</span>
+  
 
   - Coutts, A. (2019). Good news and bad news are still news: Experimental evidence on belief updating. _Experimental Economics_, vol. 22, no. 2, pp. 369--395. [[HTML](https://link.springer.com/article/10.1007/s10683-018-9572-5)] [[PDF](https://egorbronnikov.github.io/assets/MB/Coutts%20(2019%2C%20EE).pdf)]  <span style="color:gray">[MR]</span> <span style="color:gray">[Exp.]</span>
 
