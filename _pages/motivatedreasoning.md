@@ -193,7 +193,8 @@ toc:
 
 
 ##### 2019 papers
-   - Kamenica, E. (2019). Bayesian persuasion and information design. _Annual Review of Economics_, vol. 11,  pp. 249--272.[[HTML](https://www.annualreviews.org/content/journals/10.1146/annurev-economics-080218-025739)]  <span style="color:gray">[BP]</span> <span style="color:gray">[Rev.]</span>
+   - Kamenica, E. (2019). Bayesian persuasion and information design. _Annual Review of Economics_, vol. 11,  pp. 249--272.[[HTML](https://www.annualreviews.org/content/journals/10.1146/annurev-economics-080218-025739)] [[PDF](https://egorbronnikov.github.io/assets/MB/Kamenica%20(2019%2C%20ARE).pdf)] <span style="color:gray">[BP]</span> <span style="color:gray">[Rev.]</span>
+
 
 
 ##### 2017 papers
