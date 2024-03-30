@@ -178,20 +178,25 @@ toc:
 ##### Forthcoming papers
   - Haaland, I., König, J., Roth, C., & Wohlfart, J. (Forthcoming). Information experiments. In _Encyclopedia of Experimental Social Science_. [[HTML](https://raw.githubusercontent.com/cproth/papers/master/Information%20Experiments.pdf)] <span style="color:gray">[Info]</span> <span style="color:gray">[Rev.]</span>
 
+
 ##### 2023 papers
   - Haaland, I., Roth, C., & Wohlfart, J. (2023). Designing information provision experiments. _Journal of Economic Literature_, vol. 61, no. 1, pp. 3--40. [[HTML](https://www.aeaweb.org/articles?id=10.1257/jel.20211658)] <span style="color:gray">[Info, B, BU]</span> <span style="color:gray">[Rev.]</span>
   
   - Maćkowiak, B., Matějka, F., & Wiederholt, M. (2023). Rational inattention: A review. _Journal of Economic Literature_, vol. 61, no. 1, pp. 226--273. [[HTML](https://www.aeaweb.org/articles?id=10.1257/jel.20211524)] <span style="color:gray">[Info, RatInAt]</span> <span style="color:gray">[Rev.]</span>
 
-##### 2022 papers
 
+##### 2022 papers
   - Battigalli, P., & Dufwenberg, M. (2022). Belief-dependent motivations and psychological game theory. _Journal of Economic Literature_, vol. 60, no. 3, pp. 833-882. [[HTML](https://www.aeaweb.org/articles?id=10.1257/jel.20201378)]  <span style="color:gray">[BD, PsGmTh]</span> <span style="color:gray">[Rev.]</span>
   
   - Bursztyn, L., & Yang, D. Y. (2022). Misperceptions about others. _Annual Review of Economics_, vol. 14, pp. 425--452. [[HTML](https://www.annualreviews.org/content/journals/10.1146/annurev-economics-051520-023322)]  <span style="color:gray">[Info, B]</span> <span style="color:gray">[Rev.]</span>
 
+
+##### 2019 papers
+   - Kamenica, E. (2019). Bayesian persuasion and information design. _Annual Review of Economics_, vol. 11,  pp. 249--272.[[HTML](https://www.annualreviews.org/content/journals/10.1146/annurev-economics-080218-025739)]  <span style="color:gray">[BP]</span> <span style="color:gray">[Rev.]</span>
+
+
 ##### 2017 papers
    - Golman, R., Hagmann, D., & Loewenstein, G. (2017). Information avoidance. _Journal of Economic Literature_, vol. 55, no. 1, pp. 96--135. [[HTML](https://www.aeaweb.org/articles?id=10.1257/jel.20151245)]  <span style="color:gray">[Info]</span> <span style="color:gray">[Rev.]</span>
-
 
 
 
