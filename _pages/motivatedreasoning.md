@@ -12,16 +12,14 @@ At the same time, there is [a page devoted to recent papers on belief updating](
 
 <p>&nbsp;</p> 
 
-# Table of Contents
+### Table of Contents
 1. [Published Papers in Economics](#PublishedPapersInEconomics)
-    1. [Forthcoming Papers](#ForthcomingPapers)
-    2. [Sub paragraph](#subparagraph1)
 2. [Several Related Papers in Economics](#SeveralRelatedPapersInEconomics)
-    1. [Sub paragraph](#subparagraph1)
 3. [Working Papers in Economics](#WorkingPapersInEconomics)
 
 
 
+### Published Papers in Economics <a name="PublishedPapersInEconomics"></a>
 
 ##### Forthcoming Papers <a name="ForthcomingPapers"></a>
 
