@@ -12,12 +12,18 @@ At the same time, there is [a page devoted to recent papers on belief updating](
 
 <p>&nbsp;</p> 
 
-toc:
-  beginning: true
+# Table of Contents
+1. [Published Papers in Economics](#PublishedPapersInEconomics)
+    1. [Forthcoming Papers](#ForthcomingPapers)
+    2. [Sub paragraph](#subparagraph1)
+2. [Several Related Papers in Economics](#SeveralRelatedPapersInEconomics)
+    1. [Sub paragraph](#subparagraph1)
+3. [Working Papers in Economics](#WorkingPapersInEconomics)
 
-### Published Papers in Economics
 
-##### Forthcoming papers
+
+
+##### Forthcoming Papers <a name="ForthcomingPapers"></a>
 
   - Coffman, K., Collis, M. R., & Kulkarni, L. (forthcoming). Stereotypes and belief updating. _Journal of the European Economic Association_. [[HTML](https://academic.oup.com/jeea/advance-article-abstract/doi/10.1093/jeea/jvad063/7333976)] <span style="color:gray">[MR]</span> <span style="color:gray">[Exp.]</span>
 
@@ -170,7 +176,7 @@ toc:
 
 <p>&nbsp;</p> 
 
-### Several Related (Published and Forthcoming) Papers in Economics
+### Several Related (Published and Forthcoming) Papers in Economics <a name="SeveralRelatedPapersInEconomics"></a>
 
 ##### Forthcoming papers
   - Haaland, I., König, J., Roth, C., & Wohlfart, J. (Forthcoming). Information experiments. In _Encyclopedia of Experimental Social Science_. [[HTML](https://raw.githubusercontent.com/cproth/papers/master/Information%20Experiments.pdf)] <span style="color:gray">[Info]</span> <span style="color:gray">[Rev.]</span>
@@ -201,8 +207,7 @@ toc:
 
 <p>&nbsp;</p> 
 
-### Working Papers in Economics
-
+### Working Papers in Economics <a name="WorkingPapersInEconomics"></a>
 
 ##### 2024 papers
 
