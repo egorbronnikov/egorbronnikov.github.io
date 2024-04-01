@@ -51,7 +51,7 @@ At the same time, there is [a page devoted to recent papers on belief updating](
 
   - Amasino, D. R., Pace, D. D., & van der Weele, J. (2023). Self-serving bias in redistribution choices: Accounting for beliefs and norms. _Journal of Economic Psychology_, vol. 98, pp. 102654. [[HTML](https://www.sciencedirect.com/science/article/pii/S0167487023000557)] <span style="color:gray">[SSB, Status]</span> <span style="color:gray">[Exp.]</span>
 
-  - Amelio, A., & Zimmermann, F. (2023). Motivated memory in economics—a review. _Games_, vol. 14, no. 1, pp. 1--15. [[HTML](https://www.mdpi.com/2073-4336/14/1/15)]  <span style="color:gray">[MR]</span> <span style="color:gray">[Rev.]</span>
+  - Amelio, A., & Zimmermann, F. (2023). Motivated memory in economics—a review. _Games_, vol. 14, no. 1, pp. 1--15. [[HTML](https://www.mdpi.com/2073-4336/14/1/15)]  <span style="color:gray">[MM]</span> <span style="color:gray">[Rev.]</span>
   
   - Bicchieri, C., Dimant, E., & Sonderegger, S. (2023). It's not a lie if you believe the norm does not apply: Conditional norm-following and belief distortion. _Games and Economic Behavior_, vol. 138, pp. 321--354. [[HTML](https://www.sciencedirect.com/science/article/pii/S0899825623000088)] <span style="color:gray">[ESB]</span> <span style="color:gray">[Exp.]</span>
 
