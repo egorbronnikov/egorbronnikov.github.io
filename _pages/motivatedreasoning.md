@@ -39,14 +39,11 @@ At the same time, there is [a page devoted to recent papers on belief updating](
 
   - Bolte, L., & Fan, T. Q. (2024). Motivated mislearning: The case of correlation neglect. _Journal of Economic Behavior & Organization_, vol. 217, pp. 647--663. [[HTML](https://www.sciencedirect.com/science/article/abs/pii/S0167268123004249)] <span style="color:gray">[MR, CorNeg]</span> <span style="color:gray">[Exp.]</span>
     
-  - Burro, G., & Castagnetti, A. (2024). The ego is no fool: Absence of motivated belief formation in strategic interactions. _Journal of Behavioral and Experimental Economics_, vol. 109, pp. 102167. [[HTML](https://www.sciencedirect.com/science/article/pii/S2214804324000077)]  <span style="color:gray">[MR]</span> <span style="color:gray">[Exp.]</span> <a href="https://www.sciencedirect.com/science/article/pii/S2214804324000077" style="color: lightgray; text-decoration: underline;text-decoration-style: dotted;">[PDF]</a>
+  - Burro, G., & Castagnetti, A. (2024). The ego is no fool: Absence of motivated belief formation in strategic interactions. _Journal of Behavioral and Experimental Economics_, vol. 109, pp. 102167. [[HTML](https://www.sciencedirect.com/science/article/pii/S2214804324000077)]  <span style="color:gray">[MR]</span> <span style="color:gray">[Exp.]</span> <a href="https://egorbronnikov.github.io/assets/MB/Burro%20%26%20Castagnetti%20(2024%2C%20JEBO).pdf" style="color: lightgray;">[PDF]</a>
 
-  - Stötzer, L. S., & Zimmermann, F. (2024). A representative survey experiment of motivated climate change denial. _Nature Climate Change_, vol. 14, pp. 198--204. [[HTML](https://www.nature.com/articles/s41558-023-01910-2)] 
+  - Stötzer, L. S., & Zimmermann, F. (2024). A representative survey experiment of motivated climate change denial. _Nature Climate Change_, vol. 14, pp. 198--204. [[HTML](https://www.nature.com/articles/s41558-023-01910-2)]  <span style="color:gray">[MR]</span> <span style="color:gray">[Exp.]</span>  <a href="https://egorbronnikov.github.io/assets/MB/Stötzer%20%26%20Zimmermann%20(2024%2C%20NatHumBeh).pdf" style="color: lightgray;">[PDF]</a>
     
-
-
-
-
+    
 ##### 2023 papers
 
   - Amasino, D. R., Pace, D. D., & van der Weele, J. (2023). Self-serving bias in redistribution choices: Accounting for beliefs and norms. _Journal of Economic Psychology_, vol. 98, pp. 102654. [[HTML](https://www.sciencedirect.com/science/article/pii/S0167487023000557)] <span style="color:gray">[SSB, Status]</span> <span style="color:gray">[Exp.]</span>
@@ -136,7 +133,9 @@ At the same time, there is [a page devoted to recent papers on belief updating](
 
   - Saucet, C., & Villeval, M. C. (2019). Motivated memory in dictator games. _Games and Economic Behavior_, vol. 117, pp. 250--275. [[HTML](https://www.sciencedirect.com/science/article/abs/pii/S0899825619300879)]
 
-  - Schwardmann, P., & Van der Weele, J. (2019). Deception and self-deception. _Nature Human Behaviour_, vol. 3, no. 10, pp.  1055--1061. [[HTML](https://www.nature.com/articles/s41562-019-0666-7)] [[PDF](https://egorbronnikov.github.io/assets/MB/Schwardmann%20%26%20Van%20der%20Weele%20(2019%2C%20NatHumBeh).pdf)] 
+  - Schwardmann, P., & Van der Weele, J. (2019). Deception and self-deception. _Nature Human Behaviour_, vol. 3, no. 10, pp.  1055--1061. [[HTML](https://www.nature.com/articles/s41562-019-0666-7)]   <span style="color:gray">[MR]</span> <span style="color:gray">[Exp.]</span>  <a href="https://egorbronnikov.github.io/assets/MB/Schwardmann%20%26%20Van%20der%20Weele%20(2019%2C%20NatHumBeh).pdf" style="color: lightgray;">[PDF]</a>
+
+
 
   - Stone, D. F. (2019). “Unmotivated bias” and partisan hostility: Empirical evidence. _Journal of Behavioral and Experimental Economics_, vol. 79, pp. 12--26. [[HTML](https://www.sciencedirect.com/science/article/pii/S221480431830418X)]  [[PDF](https://egorbronnikov.github.io/assets/MB/Stone%20(2019%2C%20JBEE).pdf)] 
 
