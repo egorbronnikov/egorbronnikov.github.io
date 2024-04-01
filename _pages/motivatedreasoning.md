@@ -41,7 +41,7 @@ At the same time, there is [a page devoted to recent papers on belief updating](
     
   - Burro, G., & Castagnetti, A. (2024). The ego is no fool: Absence of motivated belief formation in strategic interactions. _Journal of Behavioral and Experimental Economics_, vol. 109, pp. 102167. [[HTML](https://www.sciencedirect.com/science/article/pii/S2214804324000077)]  <span style="color:gray">[MR]</span> <span style="color:gray">[Exp.]</span> <a href="https://www.sciencedirect.com/science/article/pii/S2214804324000077" style="color: lightgray; text-decoration: underline;text-decoration-style: dotted;">[PDF]</a>
 
-  - Stötzer, L. S., & Zimmermann, F. (2024). A representative survey experiment of motivated climate change denial. _Nature Climate Change_, vol. 14, pp. 198--204. [[HTML](https://www.nature.com/articles/s41558-023-01910-2)]
+  - Stötzer, L. S., & Zimmermann, F. (2024). A representative survey experiment of motivated climate change denial. _Nature Climate Change_, vol. 14, pp. 198--204. [[HTML](https://www.nature.com/articles/s41558-023-01910-2)] 
     
 
 
@@ -49,7 +49,7 @@ At the same time, there is [a page devoted to recent papers on belief updating](
 
 ##### 2023 papers
 
-  - Amasino, D. R., Pace, D. D., & van der Weele, J. (2023). Self-serving bias in redistribution choices: Accounting for beliefs and norms. _Journal of Economic Psychology_, vol. 98, pp. 102654. [[HTML](https://www.sciencedirect.com/science/article/pii/S0167487023000557)]
+  - Amasino, D. R., Pace, D. D., & van der Weele, J. (2023). Self-serving bias in redistribution choices: Accounting for beliefs and norms. _Journal of Economic Psychology_, vol. 98, pp. 102654. [[HTML](https://www.sciencedirect.com/science/article/pii/S0167487023000557)] <span style="color:gray">[SSB, Status]</span> <span style="color:gray">[Exp.]</span>
 
   - Amelio, A., & Zimmermann, F. (2023). Motivated memory in economics—a review. _Games_, vol. 14, no. 1, pp. 1--15. [[HTML](https://www.mdpi.com/2073-4336/14/1/15)]  <span style="color:gray">[MR]</span> <span style="color:gray">[Rev.]</span>
   
