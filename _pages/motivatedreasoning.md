@@ -37,7 +37,7 @@ toc:
     
   - Burro, G., & Castagnetti, A. (2024). The ego is no fool: Absence of motivated belief formation in strategic interactions. _Journal of Behavioral and Experimental Economics_, vol. 109, pp. 102167. [[HTML](https://www.sciencedirect.com/science/article/pii/S2214804324000077)]
 
-  - Stötzer, L. S., & Zimmermann, F. (2024). A representative survey experiment of motivated climate change denial. _Nature Climate Change_, vol. 14, pp. 198-–204. [[HTML](https://www.nature.com/articles/s41558-023-01910-2)]
+  - Stötzer, L. S., & Zimmermann, F. (2024). A representative survey experiment of motivated climate change denial. _Nature Climate Change_, vol. 14, pp. 198--204. [[HTML](https://www.nature.com/articles/s41558-023-01910-2)]
     
 
 
