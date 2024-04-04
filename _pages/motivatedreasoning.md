@@ -92,6 +92,8 @@ At the same time, there is [a page devoted to recent papers on belief updating](
 
 ##### 2021 papers
 
+  - Barron, K. (2021). Belief updating: does the ‘good-news, bad-news’ asymmetry extend to purely financial domains?. _Experimental Economics_, vol. 24, no. 1, pp. 31--58.
+  
   - Imas, A., Loewenstein, G., & Morewedge, C. K. (2021). Mental money laundering: A motivated violation of fungibility. _Journal of the European Economic Association_, vol. 19, no. 4, pp. 2209-2233. [[HTML](https://academic.oup.com/jeea/article-abstract/19/4/2209/6054540)] 
   
   - Thaler, M. (2021). Gender differences in motivated reasoning. _Journal of Economic Behavior & Organization_, vol. 191, pp. 501--518.
