@@ -215,9 +215,12 @@ At the same time, there is [a page devoted to recent papers on belief updating](
 
   - Burgh, J., & Melo, E. (2024). Censored beliefs and wishful thinking. _Working Paper_. [[HTML](https://arxiv.org/html/2402.01892v1)]
 
+  - Gonzalez-Fernandez, P. (2024). Belief Bias Identification. _Working Paper_. [[HTML](https://arxiv.org/abs/2404.09297)]
+
   - Hagenbach, J., & Saucet, C. (2024). Motivated Skepticism. _Working Paper_. [[HTML](https://hal.science/hal-03770685/document)]
 
   - Thaler, M. (2024). Good News Is Not a Sufficient Condition for Motivated Reasoning. _Working Paper_. [[HTML](https://www.cesifo.org/DocDL/cesifo1_wp10915.pdf)]
+
 
 ##### 2023 papers
 
