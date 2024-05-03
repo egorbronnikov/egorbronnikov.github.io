@@ -11,6 +11,7 @@ Here, I have compiled several links on miscellaneous topics that I find useful.
 
 
   -  _[Detexify](https://detexify.kirelabs.org/classify.html)_
+
 Created by Philipp Kühl and Daniel Kirsch, the app allows users to quickly identify LaTeX mathematical symbols by hand-drawing them.
   
   - X
