@@ -14,7 +14,7 @@ Here, I have compiled several links on miscellaneous topics that I find useful.
   
   - _[EconGraphs](https://www.econgraphs.org/)_: Interactive graphs and explanations about key economic concepts for use in teaching and exploring.
 
-  - X
+  - _[MathJax](https://www.mathjax.org/)_: a JavaScript display engine for mathematics.
 
 
 
