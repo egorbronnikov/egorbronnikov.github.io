@@ -15,7 +15,6 @@ featured: false
 You can find the note PDF [here](https://egorbronnikov.github.io/assets/pdf/trv_401N_mine.pdf), 
 and the full-issue PDF [full-issue pdf](https://egorbronnikov.github.io/assets/pdf/trv_401N.pdf). 
 
-TRV-Science.png
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
