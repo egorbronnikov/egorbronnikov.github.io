@@ -14,8 +14,11 @@ Here, I have compiled several links on miscellaneous topics that I find useful.
 
 Created by Philipp Kühl and Daniel Kirsch, the app allows users to quickly identify LaTeX mathematical symbols by hand-drawing them.
   
-  - X
+  - _[EconGraphs](https://www.econgraphs.org/)_
 
+Interactive graphs and explanations about key economic concepts for use in teaching and exploring.
+
+  - X
 
 
 
