@@ -25,8 +25,7 @@ work_in_progress_papers: false
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a Doctoral Researcher and PhD Candidate in Economics at the School of Business and Economics at Maastricht University. 
-Additionally, I serve as a <i>pro bono publico</i> Adjunct Professor of Economics at the School of Science at the Free University of Moscow (Brīvā Universitāte) (read more [here](/teaching/)). 
+I am a Doctoral Researcher and PhD Candidate in Economics at the School of Business and Economics at Maastricht University. Also in Maastricht, together with Till Moritz Vater, I am co-organizing the [Interdisciplinary Brown Bag Seminar in Behavioral Sciences](https://sbe.maastrichtuniversity.nl/neuroeconomics/brownbag-seminar/). Additionally, I serve as a <i>pro bono publico</i> Adjunct Professor of Economics at the School of Science at the [Free University of Moscow](/teaching/) (Brīvā Universitāte). 
 
 My research interests are Behavioural and Experimental Economics, (Behavioural) Game Theory, and Political Economy.
 
