@@ -29,7 +29,7 @@ I am a Doctoral Researcher and PhD Candidate in Economics at the School of Busin
 
 My research interests are Behavioural and Experimental Economics, (Behavioural) Game Theory, and Political Economy.
 
-In addition, I am affiliated with the Berkeley Initiative for Transparency in the Social Sciences (at the University of California, Berkeley), the Institute for Replication, and Dissernet (read more [here](/affiliations/)).
+In addition, I am affiliated with the [Berkeley Initiative for Transparency in the Social Sciences](https://www.bitss.org/people/egor-bronnikov/) (at the University of California, Berkeley), the [Institute for Replication](https://i4replication.org/), and [Dissernet](https://www.dissernet.org/) (read more [here](/affiliations/)).
 
 In the 2023-2024 academic year, I am also a <i>pbp</i> visiting (external) lecturer at the Department of Economics at the European University at St. Petersburg and an MA thesis co-supervisor at Shaninka University. 
 
