@@ -5,7 +5,7 @@ date: 2024-04-09 10:00:00
 description: My note in <i>Troitskiy Variant</i>
 tags: opinion popular
 categories: TRV-Science
-thumbnail: assets/img/TRV-Science.png
+thumbnail: assets/img/TRV-Science_square.png
 featured: false
 ---
 
