@@ -14,6 +14,28 @@
   - firstname: ["Alexey", "A.", "A. A."]
     url: https://www.eui.eu/people?id=alexey-upravitelev
 
+"Rostovtsev":
+  - firstname: ["Andrey", "A.", "A. A."]
+    url: https://iki.dissernet.org/about/founders-and-coordinators/Rostovtsev_Andrey
+
+"Rusch":
+  - firstname: ["Hannes", "H."]
+    url: https://hrusch.de/
+
+"Drouvelis":
+  - firstname: ["Michalis", "M."]
+    url: https://sites.google.com/site/michalisdrouvelis/
+
+"Gonzalez-Fernandez":
+  - firstname: ["Pedro", "P."]
+    url: https://pgonzalezfernandez.com/
+
+"Meissner":
+  - firstname: ["Thomas", "T."]
+    url: https://sites.google.com/view/thomasmeissner/home
+
+
+
 
 
 
