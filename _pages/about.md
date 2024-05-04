@@ -25,7 +25,7 @@ work_in_progress_papers: false
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a  PhD Candidate and Tutor at the School of Business and Economics at Maastricht University. Together with [Till Moritz Vater](https://nl.linkedin.com/in/till-moritz-vater-40a212186/en), I am co-organizing the [Interdisciplinary Brown Bag Seminar in Behavioral Sciences](https://sbe.maastrichtuniversity.nl/neuroeconomics/brownbag-seminar/). Additionally, I serve as a <i>pro bono publico</i> Adjunct Professor of Economics at the School of Science at the [Free University of Moscow](/teaching/) (Brīvā Universitāte). 
+I am a  PhD Candidate and a Tutor at the School of Business and Economics at Maastricht University. Together with [Till Moritz Vater](https://nl.linkedin.com/in/till-moritz-vater-40a212186/en), I am co-organizing the [Interdisciplinary Brown Bag Seminar in Behavioral Sciences](https://sbe.maastrichtuniversity.nl/neuroeconomics/brownbag-seminar/). Additionally, I serve as a <i>pro bono publico</i> Adjunct Professor of Economics at the School of Science at the [Free University of Moscow](/teaching/) (Brīvā Universitāte). 
 
 My research interests are Behavioural and Experimental Economics, (Behavioural) Game Theory, and Political Economy.
 
