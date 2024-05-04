@@ -29,7 +29,7 @@ I am a  PhD Candidate and Tutor at the School of Business and Economics at Maast
 
 My research interests are Behavioural and Experimental Economics, (Behavioural) Game Theory, and Political Economy.
 
-Furthermore, I am affiliated with the [Berkeley Initiative for Transparency in the Social Sciences](https://www.bitss.org/people/egor-bronnikov/) (at the University of California, Berkeley), the [Institute for Replication](https://i4replication.org/), and [Dissernet](https://www.dissernet.org/).
+Furthermore, I am affiliated with the [Berkeley Initiative for Transparency in the Social Sciences](https://www.bitss.org/people/egor-bronnikov/) (UC Berkeley), the [Institute for Replication](https://i4replication.org/), and [Dissernet](https://www.dissernet.org/).
 
 [comment]: <> ( (read more [here](/affiliations/)) )
 
