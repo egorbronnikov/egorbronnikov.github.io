@@ -25,15 +25,15 @@ work_in_progress_papers: false
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a  PhD Candidate and a Tutor at the School of Business and Economics at Maastricht University. Together with [Till Moritz Vater](https://nl.linkedin.com/in/till-moritz-vater-40a212186/en), I am co-organizing the [Interdisciplinary Brown Bag Seminar in Behavioral Sciences](https://sbe.maastrichtuniversity.nl/neuroeconomics/brownbag-seminar/). Additionally, I serve as a <i>pro bono</i> Adjunct Professor of Economics at the School of Science and a Permanent Member of the University Council at the [Free University of Moscow (Brīvā Universitāte)](/teaching/). 
+I am a  PhD Candidate and a Tutor at the School of Business and Economics at Maastricht University. Together with [Till Moritz Vater](https://nl.linkedin.com/in/till-moritz-vater-40a212186/en), I am co-organizing the [Interdisciplinary Brown Bag Seminar in Behavioral Sciences](https://sbe.maastrichtuniversity.nl/neuroeconomics/brownbag-seminar/). My research interests are Behavioural and Experimental Economics, (Behavioural) Game Theory, and Political Economy.
 
-My research interests are Behavioural and Experimental Economics, (Behavioural) Game Theory, and Political Economy.
+Additionally, I serve as a <i>pro bono</i> Adjunct Professor of Economics at the School of Science and a Permanent Member of the University Council at the [Free University of Moscow (Brīvā Universitāte)](/teaching/). 
+
+In the 2023-2024 academic year, I am also a <i>pbp</i> visiting (external) lecturer at the Department of Economics at the European University at St. Petersburg and an MA thesis co-supervisor at the Faculty of Psychology at Shaninka University. 
 
 Furthermore, I am affiliated with the [Berkeley Initiative for Transparency in the Social Sciences](https://www.bitss.org/people/egor-bronnikov/) (UC Berkeley), the [Institute for Replication](https://i4replication.org/), and [Dissernet](https://www.dissernet.org/).
 
 [comment]: <> ( (read more [here](/affiliations/)) )
-
-In the 2023-2024 academic year, I am also a <i>pbp</i> visiting (external) lecturer at the Department of Economics at the European University at St. Petersburg and an MA thesis co-supervisor at the Faculty of Psychology at Shaninka University. 
 
 Previously, I worked at Harvard University, Utrecht University, the University of Vienna, HSE University, and Transparency International Russia.
 
