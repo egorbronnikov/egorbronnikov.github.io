@@ -33,7 +33,7 @@ Furthermore, I am affiliated with the [Berkeley Initiative for Transparency in t
 
 [comment]: <> ( (read more [here](/affiliations/)) )
 
-In the 2023-2024 academic year, I am also a <i>pbp</i> visiting (external) lecturer at the Department of Economics at the European University at St. Petersburg and an MA thesis co-supervisor at Shaninka University. 
+In the 2023-2024 academic year, I am also a <i>pbp</i> visiting (external) lecturer at the Department of Economics at the European University at St. Petersburg and an MA thesis co-supervisor at the Faculty of Psychology at Shaninka University. 
 
 Previously, I worked at Harvard University, Utrecht University, the University of Vienna, HSE University, and Transparency International Russia.
 
