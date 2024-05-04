@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <span style="color:gray"> </span>  <b><a href='https://www.maastrichtuniversity.nl/about-um/faculties/school-business-and-economics'>Maastricht University</a></b> | <b><a href='https://freemoscow.university/?lang=en'>Free University of Moscow</a></b> | <b><a href='https://eusp.org/en/econ'>European University at St. P.</a></b> | <b><a href='https://www.bitss.org/'>UC Berkeley</a></b> 
+subtitle: <span style="color:gray"> </span>  <b><a href='https://www.maastrichtuniversity.nl/about-um/faculties/school-business-and-economics'>Maastricht University</a></b> | <b><a href='https://freemoscow.university/?lang=en'>Free University of Moscow</a></b> | <b><a href='https://eusp.org/en/econ'>European University at St. P.</a></b> 
 
 
 profile:
