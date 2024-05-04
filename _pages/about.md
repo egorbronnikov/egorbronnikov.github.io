@@ -29,11 +29,16 @@ I am a Doctoral Researcher and PhD Candidate in Economics at the School of Busin
 
 My research interests are Behavioural and Experimental Economics, (Behavioural) Game Theory, and Political Economy.
 
-Furthermore, I am affiliated with the [Berkeley Initiative for Transparency in the Social Sciences](https://www.bitss.org/people/egor-bronnikov/) (at the University of California, Berkeley), the [Institute for Replication](https://i4replication.org/), and [Dissernet](https://www.dissernet.org/) (read more [here](/affiliations/)).
+Furthermore, I am affiliated with the [Berkeley Initiative for Transparency in the Social Sciences](https://www.bitss.org/people/egor-bronnikov/) (at the University of California, Berkeley), the [Institute for Replication](https://i4replication.org/), and [Dissernet](https://www.dissernet.org/).
+
+[comment]: <> ( (read more [here](/affiliations/)) )
 
 In the 2023-2024 academic year, I am also a <i>pbp</i> visiting (external) lecturer at the Department of Economics at the European University at St. Petersburg and an MA thesis co-supervisor at Shaninka University. 
 
-Previously, I worked at Harvard University, Utrecht University, the University of Vienna, HSE University, and Transparency International Russia (read more [here](/cv/)).
+Previously, I worked at Harvard University, Utrecht University, the University of Vienna, HSE University, and Transparency International Russia.
+
+[comment]: <> ( (read more [here](/cv/)) )
+
 
 [comment]: <> ( as well as with the <i>HKS Misinformation Review</i> at the Harvard Kennedy School. )
 
