@@ -26,10 +26,9 @@ At the same time, there is [a page devoted to recent papers on belief updating](
   - Coffman, K., Collis, M. R., & Kulkarni, L. (forthcoming). Stereotypes and belief updating. _Journal of the European Economic Association_. [[HTML](https://academic.oup.com/jeea/advance-article-abstract/doi/10.1093/jeea/jvad063/7333976)] <span style="color:gray">[MR]</span> <span style="color:gray">[Exp.]</span>
 
   - Drobner, C., & Goerg, S. J. (forthcoming). Motivated belief updating and rationalization of information. _Management Science_. [[HTML](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2023.02537?af=R)] [[PDF](https://egorbronnikov.github.io/assets/MB/Drobner%20%26%20Goerg%20(2024%2C%20MangSc).pdf)]  <span style="color:gray">[MR]</span> <span style="color:gray">[Exp.]</span>
- 
-  - Exley, C. L., & Kessler, J. B. (forthcoming). Motivated errors. _American Economic Review_. [[HTML](https://www.aeaweb.org/articles?id=10.1257/aer.20191849&&from=f)]  <span style="color:gray">[MR]</span> <span style="color:gray">[Exp.]</span>
 
   - Melnikoff, D. E., & Strohminger, N. (forthcoming). Bayesianism and wishful thinking are compatible. _Nature Human Behaviour_. [[HTML](https://www.nature.com/articles/s41562-024-01819-6)]  <span style="color:gray">[WT]</span> <span style="color:gray">[Exp.]</span>
+
 
 
 
@@ -41,6 +40,8 @@ At the same time, there is [a page devoted to recent papers on belief updating](
 
   - Engelmann, J. B., Lebreton, M., Salem-Garcia, N. A., Schwardmann, P., & van der Weele, J. J. (2024). Anticipatory anxiety and wishful thinking. _American Economic Review_, vol. 114, no. 4, pp. 926--960. [[HTML](https://www.aeaweb.org/articles?id=10.1257/aer.20191068)]
 
+  - Exley, C. L., & Kessler, J. B. (forthcoming). Motivated errors. _American Economic Review_, vol. 114, no. 4, pp. 961--987. [[HTML](https://www.aeaweb.org/articles?id=10.1257/aer.20191849&&from=f)]  <span style="color:gray">[MR]</span> <span style="color:gray">[Exp.]</span>
+  
   - Thaler, M. (2024). Good News Is Not a Sufficient Condition for Motivated Reasoning. _American Economic Journal: Microeconomics_. vol. 16, no. 2, pp. 1--38. [[HTML](https://www.aeaweb.org/articles?id=10.1257/mic.20220146)] <span style="color:gray">[MR]</span> 
   
   - Stötzer, L. S., & Zimmermann, F. (2024). A representative survey experiment of motivated climate change denial. _Nature Climate Change_, vol. 14, pp. 198--204. [[HTML](https://www.nature.com/articles/s41558-023-01910-2)]  <span style="color:gray">[MR]</span> <span style="color:gray">[Exp.]</span>  <a href="https://egorbronnikov.github.io/assets/MB/Stötzer%20%26%20Zimmermann%20(2024%2C%20NatHumBeh).pdf" style="color: lightgray;">[PDF]</a>
