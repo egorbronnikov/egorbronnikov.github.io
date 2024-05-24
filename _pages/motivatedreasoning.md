@@ -31,8 +31,6 @@ At the same time, there is [a page devoted to recent papers on belief updating](
 
   - Melnikoff, D. E., & Strohminger, N. (forthcoming). Bayesianism and wishful thinking are compatible. _Nature Human Behaviour_. [[HTML](https://www.nature.com/articles/s41562-024-01819-6)]  <span style="color:gray">[WT]</span> <span style="color:gray">[Exp.]</span>
 
-  - Thaler, M. (forthcoming). Good News Is Not a Sufficient Condition for Motivated Reasoning. _American Economic Journal: Microeconomics_. [[HTML](https://www.aeaweb.org/articles?id=10.1257/mic.20220146&&from=f)] <span style="color:gray">[MR]</span>
- 
 
 
 ##### 2024 papers
@@ -41,9 +39,13 @@ At the same time, there is [a page devoted to recent papers on belief updating](
     
   - Burro, G., & Castagnetti, A. (2024). The ego is no fool: Absence of motivated belief formation in strategic interactions. _Journal of Behavioral and Experimental Economics_, vol. 109, pp. 102167. [[HTML](https://www.sciencedirect.com/science/article/pii/S2214804324000077)]  <span style="color:gray">[MR]</span> <span style="color:gray">[Exp.]</span> <a href="https://egorbronnikov.github.io/assets/MB/Burro%20%26%20Castagnetti%20(2024%2C%20JEBO).pdf" style="color: lightgray;">[PDF]</a>
 
+  - Engelmann, J. B., Lebreton, M., Salem-Garcia, N. A., Schwardmann, P., & van der Weele, J. J. (2024). Anticipatory anxiety and wishful thinking. _American Economic Review_, vol. 114, no. 4, pp. 926--960. [[HTML](https://www.aeaweb.org/articles?id=10.1257/aer.20191068)]
+
+  - Thaler, M. (2024). Good News Is Not a Sufficient Condition for Motivated Reasoning. _American Economic Journal: Microeconomics_. vol. 16, no. 2, pp. 1--38. [[HTML](https://www.aeaweb.org/articles?id=10.1257/mic.20220146)] <span style="color:gray">[MR]</span> 
+  
   - Stötzer, L. S., & Zimmermann, F. (2024). A representative survey experiment of motivated climate change denial. _Nature Climate Change_, vol. 14, pp. 198--204. [[HTML](https://www.nature.com/articles/s41558-023-01910-2)]  <span style="color:gray">[MR]</span> <span style="color:gray">[Exp.]</span>  <a href="https://egorbronnikov.github.io/assets/MB/Stötzer%20%26%20Zimmermann%20(2024%2C%20NatHumBeh).pdf" style="color: lightgray;">[PDF]</a>
-    
-    
+
+  
 ##### 2023 papers
 
   - Amasino, D. R., Pace, D. D., & van der Weele, J. (2023). Self-serving bias in redistribution choices: Accounting for beliefs and norms. _Journal of Economic Psychology_, vol. 98, pp. 102654. [[HTML](https://www.sciencedirect.com/science/article/pii/S0167487023000557)] <span style="color:gray">[SSB, Status]</span> <span style="color:gray">[Exp.]</span>
