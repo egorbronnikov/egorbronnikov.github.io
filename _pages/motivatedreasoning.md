@@ -45,7 +45,9 @@ At the same time, there is [a page devoted to recent papers on belief updating](
 
   - Thaler, M. (2024). Good News Is Not a Sufficient Condition for Motivated Reasoning. _American Economic Journal: Microeconomics_. vol. 16, no. 2, pp. 1--38. [[HTML](https://www.aeaweb.org/articles?id=10.1257/mic.20220146)] <span style="color:gray">[MR]</span> 
   
-  - Stötzer, L. S., & Zimmermann, F. (2024). A representative survey experiment of motivated climate change denial. _Nature Climate Change_, vol. 14, pp. 198--204. [[HTML](https://www.nature.com/articles/s41558-023-01910-2)]  <span style="color:gray">[MR]</span> <span style="color:gray">[Exp.]</span>  <a href="https://egorbronnikov.github.io/assets/MB/Stötzer%20%26%20Zimmermann%20(2024%2C%20NatHumBeh).pdf" style="color: lightgray;">[PDF]</a>
+  - Stötzer, L. S., & Zimmermann, F. (2024). A representative survey experiment of motivated climate change denial. _Nature Climate Change_, vol. 14, pp. 198--204. [[HTML](https://www.nature.com/articles/s41558-023-01910-2)] [[PDF](https://egorbronnikov.github.io/assets/MB/Stötzer%20%26%20Zimmermann%20(2024%2C%20NatHumBeh).pdf)] <span style="color:gray">[MR]</span> <span style="color:gray">[Exp.]</span>
+
+
 
   
 ##### 2023 papers
@@ -117,7 +119,7 @@ At the same time, there is [a page devoted to recent papers on belief updating](
 
   - Gneezy, U., Saccardo, S., Serra-Garcia, M., & van Veldhuizen, R. (2020). Bribing the self. _Games and Economic Behavior_, vol. 120, pp. 311--324. [[HTML](https://www.sciencedirect.com/science/article/pii/S0899825619301939)]
 
-  - Molnar, A., & Loewenstein, G. (2022). Chapter 15: Thoughts and Players: An Introduction to Old and New Economic Perspectives on Beliefs (pp. 321--350). In Musolino, J., Sommer, J., & Hemmer, P. (Eds.) _The Cognitive Science of Belief: A Multidisciplinary Approach_. Cambridge University Press. [[HTML](https://www.cambridge.org/core/books/cognitive-science-of-belief/4B06289013C7C18773CE2AF05E1A00ED)] <a href="https://egorbronnikov.github.io/assets/MB/Molnar%20%26%20Loewenstein%20(2022).%20Ch%2015.pdf" style="color: lightgray;">[PDF]</a> <span style="color:gray">[BU, MR]</span> <span style="color:gray">[Rev.]</span> &nbsp;
+  - Molnar, A., & Loewenstein, G. (2022). Chapter 15: Thoughts and Players: An Introduction to Old and New Economic Perspectives on Beliefs (pp. 321--350). In Musolino, J., Sommer, J., & Hemmer, P. (Eds.) _The Cognitive Science of Belief: A Multidisciplinary Approach_. Cambridge University Press. [[HTML](https://www.cambridge.org/core/books/cognitive-science-of-belief/4B06289013C7C18773CE2AF05E1A00ED)] [[PDF](https://egorbronnikov.github.io/assets/MB/Molnar%20%26%20Loewenstein%20(2022).%20Ch%2015.pdf)] <span style="color:gray">[BU, MR]</span> <span style="color:gray">[Rev.]</span> &nbsp;
     
   - Solda, A., Ke, C., Page, L., & Von Hippel, W. (2020). Strategically delusional. _Experimental Economics_, vol. 23, pp. 604--631. [[HTML](https://link.springer.com/article/10.1007/s10683-019-09636-9)]
 
