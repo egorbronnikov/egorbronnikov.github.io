@@ -117,7 +117,7 @@ At the same time, there is [a page devoted to recent papers on belief updating](
 
   - Gneezy, U., Saccardo, S., Serra-Garcia, M., & van Veldhuizen, R. (2020). Bribing the self. _Games and Economic Behavior_, vol. 120, pp. 311--324. [[HTML](https://www.sciencedirect.com/science/article/pii/S0899825619301939)]
 
-  - Molnar, A., & Loewenstein, G. (2022). Chapter 15: Thoughts and Players: An Introduction to Old and New Economic Perspectives on Beliefs (pp. 321--350). In Musolino, J., Sommer, J., & Hemmer, P. (Eds.) _The Cognitive Science of Belief: A Multidisciplinary Approach_. Cambridge University Press. [[HTML](https://www.cambridge.org/core/books/cognitive-science-of-belief/4B06289013C7C18773CE2AF05E1A00ED)]  <span style="color:gray">[BU, MR]</span> <span style="color:gray">[Rev.]</span> &nbsp;
+  - Molnar, A., & Loewenstein, G. (2022). Chapter 15: Thoughts and Players: An Introduction to Old and New Economic Perspectives on Beliefs (pp. 321--350). In Musolino, J., Sommer, J., & Hemmer, P. (Eds.) _The Cognitive Science of Belief: A Multidisciplinary Approach_. Cambridge University Press. [[HTML](https://www.cambridge.org/core/books/cognitive-science-of-belief/4B06289013C7C18773CE2AF05E1A00ED)] <a href="https://egorbronnikov.github.io/assets/MB/Molnar%20%26%20Loewenstein%20(2022).%20Ch%2015.pdf" style="color: lightgray;">[PDF]</a> <span style="color:gray">[BU, MR]</span> <span style="color:gray">[Rev.]</span> &nbsp;
     
   - Solda, A., Ke, C., Page, L., & Von Hippel, W. (2020). Strategically delusional. _Experimental Economics_, vol. 23, pp. 604--631. [[HTML](https://link.springer.com/article/10.1007/s10683-019-09636-9)]
 
