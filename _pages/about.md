@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <span style="color:gray"> </span>  <b><a href='https://www.maastrichtuniversity.nl/about-um/faculties/school-business-and-economics'>Maastricht University</a></b> | <b><a href='https://freemoscow.university/?lang=en'>Free University of Moscow</a></b> | <b><a href='https://eusp.org/en/econ'>European University at St. P.</a></b> 
+subtitle: <span style="color:gray"> </span>  <b><a href='https://www.maastrichtuniversity.nl/about-um/faculties/school-business-and-economics'>Maastricht University</a></b> | <b><a href='https://www.mercatus.org/'>George Mason University</a></b> | <b><a href='https://freemoscow.university/?lang=en'>Free University of Moscow</a></b>  
 
 
 profile:
@@ -29,7 +29,7 @@ I am a  PhD Candidate and a Tutor at the School of Business and Economics at Maa
 
 My research interests are Behavioural and Experimental Economics, (Behavioural) Game Theory, and Political Economy.
 
-In the 2023-2024 academic year, I am also a <i>pbp</i> visiting (external) lecturer at the Department of Economics at the European University at St. Petersburg and an MA thesis co-supervisor at the Faculty of Psychology at Shaninka University. 
+In the 2024-2025 academic year, I will serve as a <i>pbp</i> visiting lecturer in the Political Science Department at Shaninka University, while concurrently being a Carl Menger Fellow at the Mercatus Center at George Mason University.
 
 Furthermore, I am affiliated with the [Berkeley Initiative for Transparency in the Social Sciences](https://www.bitss.org/people/egor-bronnikov/) (UC Berkeley), the [Institute for Replication](https://i4replication.org/), and [Dissernet](https://www.dissernet.org/).
 
