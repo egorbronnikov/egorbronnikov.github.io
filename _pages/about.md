@@ -35,7 +35,7 @@ Furthermore, I am affiliated with the [Berkeley Initiative for Transparency in t
 
 [comment]: <> ( (read more [here](/affiliations/)) )
 
-Previously, I worked at Harvard University, Utrecht University, the University of Vienna, HSE University, and Transparency International Russia.
+Previously, I worked at European University at St. Petersburg, Harvard University, Utrecht University, the University of Vienna, HSE University, and Transparency International Russia.
 
 [comment]: <> ( (read more [here](/cv/)) )
 
