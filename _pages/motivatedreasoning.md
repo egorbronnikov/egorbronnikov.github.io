@@ -262,7 +262,9 @@ At the same time, there is [a page devoted to recent papers on belief updating](
 
   - Fudenberg, D., Lanzani, G., & Strack, P. (2022). Selective memory equilibrium. _SSRN Working Paper_, no. 4015313. [[HTML](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4015313)]
 
-  - Heese, C., & Chen, S. (2022). Fishing for Good News: Motivated Information Acquisition. _Working Paper_. [[HTML](https://carlheese.github.io/HeeseChen_MotivatedInformationAcquisition.pdf)]
+  - Lobeck, M. (2022). Motivating Beliefs in a Just World. _Working Paper_. [[HTML](https://carlheese.github.io/HeeseChen_MotivatedInformationAcquisition.pdf)]
+
+  - Momsen, K., & Schneider, S. O. (2022). Motivated reasoning, information avoidance, and default bias. _Working Paper_. [[HTML](https://www.dropbox.com/s/ed87z2me0fgch4c/lobeck2020MotivatingBeliefsJustWorld.pdf?e=1&dl=0)]
 
   - Momsen, K., & Schneider, S. O. (2022). Motivated reasoning, information avoidance, and default bias. _Working Paper_. [[HTML](https://www.econstor.eu/bitstream/10419/273678/1/1799842347.pdf)]
 
