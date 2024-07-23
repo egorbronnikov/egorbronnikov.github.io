@@ -248,6 +248,8 @@ At the same time, there is [a page devoted to recent papers on belief updating](
 
   - Lobeck, M. (2023). Motivating beliefs in a just world. _SSRN Working Paper_, no. 4369242. [[HTML](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4369242)]
 
+  - Lois, G., Tsakas, E., and Riedl, A. (2023). Motivated reasoning or biased prior impressions: Updating trust towards partisan sources based on evidence. _Working Paper_. [[HTML](https://osf.io/preprints/psyarxiv/82npr)]
+
   - Sial, A. Y., Sydnor, J. R., & Taubinsky, D. (2023). Biased Memory and Perceptions of Self-Control. _NBER Working Paper_, no. w30825. [[HTML](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4320573)]
 
   - Stötzer, L. S., & Zimmermann, F. (2023). A Note on Motivated Cognition and Discriminatory Beliefs. _Working Paper_. [[HTML](https://drive.google.com/file/d/12FbR1w4wUefmWyPcRmsCDWYFbttIVMr2/view)]
