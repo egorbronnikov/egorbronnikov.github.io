@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: Working Papers
 permalink: /projects/
 description: some of the current research projects
 nav: true
