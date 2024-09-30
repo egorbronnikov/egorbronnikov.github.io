@@ -13,16 +13,15 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Behavioural & Experimental Economics
+    - title: Behavioural \& Experimental Economics
       items: 
-        - motivated reasoning, (mis)information, trust, fairness, loneliness;
-    - title: (Behavioural) Game Theory
+        - motivated reasoning, (mis)information, social \& moral preferences;
+    - title: (Behavioural) Game \& Decision Theory
       items:
-        - (mis)information (complexity), (social) choice, (motivated) beliefs, level-k;
+        - information (complexity), motivated beliefs,  (in)attention, social choice;
     - title: Political Economy
       items:
-        - propaganda, autocracy, democratisation, transitional justice, corruption, education.
-        
+        - propaganda, democratisation, transitional justice,  autocracy, corruption, education.
   
 - title: Education
   type: time_table
