@@ -2,6 +2,14 @@
   - firstname: ["Alexander", "A.", "Sasha", "S."]
     url: http://www.vostroknutov.com/
 
+"Tsakas":
+  - firstname: ["Elias", "E."]
+    url: http://www.elias-tsakas.com/home.html
+    
+"Thomsson":
+  - firstname: ["Kaj", "K."]
+    url: https://www.maastrichtuniversity.nl/km-thomsson
+    
 "Koch":
   - firstname: ["Christian", "Ch.", "C."]
     url: https://sites.google.com/site/christiankochecon/
