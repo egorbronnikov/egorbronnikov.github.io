@@ -48,9 +48,9 @@ At the same time, there is [a page devoted to recent papers on belief updating](
 
   - Thaler, M. (2024). The Fake News Effect: Experimentally Identifying Motivated Reasoning Using Trust in News. _American Economic Journal: Microeconomics_. vol. 16, no. 2, pp. 1--38. [[HTML](https://www.aeaweb.org/articles?id=10.1257/mic.20220146)] <span style="color:gray">[MR]</span> 
   
-  - Stötzer, L. S., & Zimmermann, F. (2024). A representative survey experiment of motivated climate change denial. _Nature Climate Change_, vol. 14, pp. 198--204. [[HTML](https://www.nature.com/articles/s41558-023-01910-2)] [[PDF](https://egorbronnikov.github.io/assets/MB/Stötzer%20%26%20Zimmermann%20(2024%2C%20NatHumBeh).pdf)] <span style="color:gray">[MR]</span> <span style="color:gray">[Exp.]</span>
+  - Stötzer, L. S., & Zimmermann, F. (2024). A Representative Survey Experiment of Motivated Climate Change Denial. _Nature Climate Change_, vol. 14, pp. 198--204. [[HTML](https://www.nature.com/articles/s41558-023-01910-2)] [[PDF](https://egorbronnikov.github.io/assets/MB/Stötzer%20%26%20Zimmermann%20(2024%2C%20NatHumBeh).pdf)] <span style="color:gray">[MR]</span> <span style="color:gray">[Exp.]</span>
 
-
+  - Stötzer, L. S., & Zimmermann, F. (2023). A Note on Motivated Cognition and Discriminatory Beliefs. _Games and Economic Behavior_, vol. 147, pp. 554--562. [[HTML](https://www.sciencedirect.com/science/article/pii/S0899825624001064)]
 
 
   
@@ -266,8 +266,6 @@ At the same time, there is [a page devoted to recent papers on belief updating](
   - Lois, G., Tsakas, E., and Riedl, A. (2023). Motivated reasoning or biased prior impressions: Updating trust towards partisan sources based on evidence. _Working Paper_. [[HTML](https://osf.io/preprints/psyarxiv/82npr)]
 
   - Sial, A. Y., Sydnor, J. R., & Taubinsky, D. (2023). Biased Memory and Perceptions of Self-Control. _NBER Working Paper_, no. w30825. [[HTML](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4320573)]
-
-  - Stötzer, L. S., & Zimmermann, F. (2023). A Note on Motivated Cognition and Discriminatory Beliefs. _Working Paper_. [[HTML](https://drive.google.com/file/d/12FbR1w4wUefmWyPcRmsCDWYFbttIVMr2/view)]
 
   - Thaler, M. (2023). The Supply of Motivated Beliefs. _Working Paper_. [[HTML](https://drive.google.com/file/d/1GDXmIgahq_6YzyiMPIJdik8KJlxCSlZ2/view)]
 
