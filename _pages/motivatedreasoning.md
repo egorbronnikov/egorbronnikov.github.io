@@ -9,6 +9,7 @@ Here, I am endeavoring to gather as many papers as possible on motivated reasoni
 
 At the same time, there is [a page devoted to recent papers on belief updating](https://sites.google.com/view/alicesolda/resources/recent-belief-papers) in a broader context, curated by [Alice Soldà](https://sites.google.com/view/alicesolda/home).
 
+<span style="color:gray">[Last time updated: Oct., 2024]</span>
 
 <p>&nbsp;</p> 
 
