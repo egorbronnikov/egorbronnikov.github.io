@@ -25,7 +25,7 @@ At the same time, there is [a page devoted to recent papers on belief updating](
 
   - Drobner, C., & Goerg, S. J. (forthcoming). Motivated belief updating and rationalization of information. _Management Science_. [[HTML](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2023.02537?af=R)] [[PDF](https://egorbronnikov.github.io/assets/MB/Drobner%20%26%20Goerg%20(2024%2C%20MangSc).pdf)]  <span style="color:gray">[MR]</span> <span style="color:gray">[Exp.]</span>
 
-  - Hagenbach, J., & Saucet, C. (forthcoming). Motivated Skepticism. _Review of Economic Studies_, rdae058. [[HTML](https://academic.oup.com/restud/advance-article-abstract/doi/10.1093/restud/rdae058/7685990)]. <span style="color:gray">[MR]</span> <span style="color:gray">[Exp.]</span>
+  - Hagenbach, J., & Saucet, C. (forthcoming). Motivated Skepticism. _Review of Economic Studies_. [[HTML](https://academic.oup.com/restud/advance-article-abstract/doi/10.1093/restud/rdae058/7685990)]. <span style="color:gray">[MR]</span> <span style="color:gray">[Exp.]</span>
 
 
 ##### 2024 papers
