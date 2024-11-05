@@ -66,7 +66,7 @@ At the same time, there is [a page devoted to recent papers on belief updating](
 
   - Ruzzier, C. A., & Woo, M. D. (2023). Discrimination with inaccurate beliefs and confirmation bias. _Journal of Economic Behavior & Organization_, vol. 210, pp. 379--390. [[HTML](https://www.sciencedirect.com/science/article/pii/S0167268123001221)]
 
-  - Saucet, C., & Villeval, M. C. (2019). Motivated memory in dictator games. _Games and Economic Behavior_, vol. 117, pp. 250--275.
+  - Saucet, C., & Villeval, M. C. (2019). Motivated memory in dictator games. _Games and Economic Behavior_, vol. 117, pp. 250--275. [[HTML](https://www.sciencedirect.com/science/article/pii/S0899825619300879)]
 
   - Sprengholz, P., Henkel, L., Böhm, R., & Betsch, C. (2023). Historical narratives about the COVID-19 pandemic are motivationally biased. _Nature_, vol. 623, no. 7987, pp. 588--593. [[HTML](https://www.nature.com/articles/s41586-023-06674-5)]
 
