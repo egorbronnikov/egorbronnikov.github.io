@@ -23,12 +23,9 @@ At the same time, there is [a page devoted to recent papers on belief updating](
 
 ##### Forthcoming Papers <a name="ForthcomingPapers"></a>
 
-  - Coffman, K., Collis, M. R., & Kulkarni, L. (forthcoming). Stereotypes and belief updating. _Journal of the European Economic Association_. [[HTML](https://academic.oup.com/jeea/advance-article-abstract/doi/10.1093/jeea/jvad063/7333976)] <span style="color:gray">[MR]</span> <span style="color:gray">[Exp.]</span>
-
   - Drobner, C., & Goerg, S. J. (forthcoming). Motivated belief updating and rationalization of information. _Management Science_. [[HTML](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2023.02537?af=R)] [[PDF](https://egorbronnikov.github.io/assets/MB/Drobner%20%26%20Goerg%20(2024%2C%20MangSc).pdf)]  <span style="color:gray">[MR]</span> <span style="color:gray">[Exp.]</span>
 
-
-
+  - Hagenbach, J., & Saucet, C. (forthcoming). Motivated Skepticism. _Review of Economic Studies_, rdae058. [[HTML](https://academic.oup.com/restud/advance-article-abstract/doi/10.1093/restud/rdae058/7685990)]. <span style="color:gray">[MR]</span> <span style="color:gray">[Exp.]</span>
 
 
 ##### 2024 papers
@@ -36,6 +33,8 @@ At the same time, there is [a page devoted to recent papers on belief updating](
   - Bolte, L., & Fan, T. Q. (2024). Motivated mislearning: The case of correlation neglect. _Journal of Economic Behavior & Organization_, vol. 217, pp. 647--663. [[HTML](https://www.sciencedirect.com/science/article/abs/pii/S0167268123004249)] <span style="color:gray">[MR, CorNeg]</span> <span style="color:gray">[Exp.]</span>
     
   - Burro, G., & Castagnetti, A. (2024). The ego is no fool: Absence of motivated belief formation in strategic interactions. _Journal of Behavioral and Experimental Economics_, vol. 109, pp. 102167. [[HTML](https://www.sciencedirect.com/science/article/pii/S2214804324000077)]  <span style="color:gray">[MR]</span> <span style="color:gray">[Exp.]</span> <a href="https://egorbronnikov.github.io/assets/MB/Burro%20%26%20Castagnetti%20(2024%2C%20JEBO).pdf" style="color: lightgray;">[PDF]</a>
+
+  - Coffman, K., Collis, M. R., & Kulkarni, L. (2024). Stereotypes and belief updating. _Journal of the European Economic Association_, vol. 22, no. 3, pp. 1011--1054. [[HTML](https://academic.oup.com/jeea/advance-article-abstract/doi/10.1093/jeea/jvad063/7333976)] <span style="color:gray">[MR]</span> <span style="color:gray">[Exp.]</span>
 
   - Engelmann, J. B., Lebreton, M., Salem-Garcia, N. A., Schwardmann, P., & van der Weele, J. J. (2024). Anticipatory anxiety and wishful thinking. _American Economic Review_, vol. 114, no. 4, pp. 926--960. [[HTML](https://www.aeaweb.org/articles?id=10.1257/aer.20191068)]
 
@@ -93,7 +92,9 @@ At the same time, there is [a page devoted to recent papers on belief updating](
   - Momsen, K., & Ohndorf, M. (2022). Information avoidance, selective exposure, and fake (?) news: Theory and experimental evidence on green consumption. _Journal of Economic Psychology_, vol. 88, pp. 102457. [[HTML](https://www.sciencedirect.com/science/article/pii/S0167487021000878)]  
 
   - Oprea, R., & Yuksel, S. (2022). Social exchange of motivated beliefs. _Journal of the European Economic Association_, vol. 20, no. 2, pp. 667--699. [[HTML](https://academic.oup.com/jeea/article-abstract/20/2/667/6368096)] <span style="color:gray">[MR]</span> <span style="color:gray">[Exp.]</span>
-    
+
+  - Su, S. (2022). Updating politicized beliefs: How motivated reasoning contributes to polarization. _Journal of Behavioral and Experimental Economics_, 96, 101799. [[HTML](https://www.sciencedirect.com/science/article/abs/pii/S2214804321001397)] <span style="color:gray">[MR]</span> <span style="color:gray">[Exp.]</span>
+
 
 
 ##### 2021 papers
@@ -223,9 +224,9 @@ At the same time, there is [a page devoted to recent papers on belief updating](
 
   - Gonzalez-Fernandez, P. (2024). Belief Bias Identification. _Working Paper_. [[HTML](https://arxiv.org/abs/2404.09297)]
 
-  - Hagenbach, J., & Saucet, C. (2024). Motivated Skepticism. _Working Paper_. [[HTML](https://hal.science/hal-03770685/document)]
-
   - Thaler, M. (2024). Good News Is Not a Sufficient Condition for Motivated Reasoning. _Working Paper_. [[HTML](https://www.cesifo.org/DocDL/cesifo1_wp10915.pdf)]
+
+  - Manili, J. (2024). Disclosure to an heterogeneous audience: The role of motivated beliefs. [[HTML](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4696951)]
 
 
 ##### 2023 papers
