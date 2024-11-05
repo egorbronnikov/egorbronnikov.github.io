@@ -40,6 +40,8 @@ At the same time, there is [a page devoted to recent papers on belief updating](
 
   - Exley, C. L., & Kessler, J. B. (forthcoming). Motivated errors. _American Economic Review_, vol. 114, no. 4, pp. 961--987. [[HTML](https://www.aeaweb.org/articles?id=10.1257/aer.20191849&&from=f)]  <span style="color:gray">[MR]</span> <span style="color:gray">[Exp.]</span>
 
+  - Huang, W., Wang, Y., & Zhao, X. (2024). Motivated Beliefs, Independence and Cooperation. _European Economic Review_, vol. 8 166, pp. 104748. [[HTML](https://www.sciencedirect.com/science/article/abs/pii/S0014292124000771)] <span style="color:gray">[MR]</span> 
+
   - Melnikoff, D. E., & Strohminger, N. (2024). Bayesianism and wishful thinking are compatible. _Nature Human Behaviour_, vol. 8, pp. 692--701. [[HTML](https://www.nature.com/articles/s41562-024-01819-6)]  <span style="color:gray">[WT]</span> <span style="color:gray">[Exp.]</span>
 
   - Thaler, M. (2024). Good News Is Not a Sufficient Condition for Motivated Reasoning. _American Economic Journal: Microeconomics_. vol. 16, no. 2, pp. 1--38. [[HTML](https://www.aeaweb.org/articles?id=10.1257/mic.20220146)] <span style="color:gray">[MR]</span> 
@@ -59,9 +61,12 @@ At the same time, there is [a page devoted to recent papers on belief updating](
 
   - Exley, C. L., & Kessler, J. B. (2023). Information avoidance and image concerns. _The Economic Journal_, vol. 133, no. 656, pp. 3153--3168. [[HTML](https://academic.oup.com/ej/article-abstract/133/656/3153/7240144)] 
 
+
   - Le Yaouanq, Y. (2023). A model of voting with motivated beliefs. _Journal of Economic Behavior & Organization_, vol. 213, pp. 394--408. [[HTML](https://www.sciencedirect.com/science/article/pii/S0167268119301763)]
 
   - Ruzzier, C. A., & Woo, M. D. (2023). Discrimination with inaccurate beliefs and confirmation bias. _Journal of Economic Behavior & Organization_, vol. 210, pp. 379--390. [[HTML](https://www.sciencedirect.com/science/article/pii/S0167268123001221)]
+
+  - Saucet, C., & Villeval, M. C. (2019). Motivated memory in dictator games. _Games and Economic Behavior_, vol. 117, pp. 250--275.
 
   - Sprengholz, P., Henkel, L., Böhm, R., & Betsch, C. (2023). Historical narratives about the COVID-19 pandemic are motivationally biased. _Nature_, vol. 623, no. 7987, pp. 588--593. [[HTML](https://www.nature.com/articles/s41586-023-06674-5)]
 
@@ -107,7 +112,6 @@ At the same time, there is [a page devoted to recent papers on belief updating](
 [[HTML](https://www.sciencedirect.com/science/article/abs/pii/S0167268121003954)] <span style="color:gray">[MR]</span> <span style="color:gray">[Exp.]</span>
 
   - von Grundherr, M., Jauernig, J., & Uhl, M. (2021). To Condemn Is Not to Punish: An Experiment on Hypocrisy. _Games_, vol. 12, no. 38, pp. 1--13. [[HTML](https://d1wqtxts1xzle7.cloudfront.net/80457941/pdf-libre.pdf?1644307039=&response-content-disposition=inline%3B+filename%3DTo_Condemn_Is_Not_to_Punish_An_Experimen.pdf&Expires=1711088735&Signature=AiG0kBDefiq4xPLmLf6R45nQzCE5Q3JhO0vnIohCC-b19AgbV6DKJkwjyAuvuGmVnaiaL28WUkZq0r~ltWst0OD3nnO65JgkgjJnPzgehCepJmvYQT1ZMoHIBVG~DXvw1tN7NP22fWqlMenZ7TpLyZsgOrIhQPIu2QTu2alzkX72FkQdagTf1E2q38ViPKBnwC6TwHJBSMMerN6FtWdJE3dPGPkm2JgeiuGVnsbwBKNaorTrEAKjlDgRJpzWmGEkauFh8xZjgMbMBQ4pVpPjhF~aw5FAaQ7jSwCEBtVrxV~ms~VZh2fMw1U9WEI0~OfQyDQ9RdZxsO1Sau5DFOeN5w__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)] 
-
 
 
 ##### 2020 papers
