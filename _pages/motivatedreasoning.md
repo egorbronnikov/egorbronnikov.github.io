@@ -19,6 +19,7 @@ At the same time, there is [a page devoted to recent papers on belief updating](
 
 
 
+
 ### Published Papers in Economics <a name="PublishedPapersInEconomics"></a>
 
 ##### Forthcoming Papers <a name="ForthcomingPapers"></a>
@@ -47,6 +48,7 @@ At the same time, there is [a page devoted to recent papers on belief updating](
   - Thaler, M. (2024). Good News Is Not a Sufficient Condition for Motivated Reasoning. _American Economic Journal: Microeconomics_. vol. 16, no. 2, pp. 1--38. [[HTML](https://www.aeaweb.org/articles?id=10.1257/mic.20220146)] <span style="color:gray">[MR]</span> 
   
   - Stötzer, L. S., & Zimmermann, F. (2024). A representative survey experiment of motivated climate change denial. _Nature Climate Change_, vol. 14, pp. 198--204. [[HTML](https://www.nature.com/articles/s41558-023-01910-2)] [[PDF](https://egorbronnikov.github.io/assets/MB/Stötzer%20%26%20Zimmermann%20(2024%2C%20NatHumBeh).pdf)] <span style="color:gray">[MR]</span> <span style="color:gray">[Exp.]</span>
+
 
 
 
@@ -226,12 +228,21 @@ At the same time, there is [a page devoted to recent papers on belief updating](
 
   - Burgh, J., & Melo, E. (2024). Censored beliefs and wishful thinking. _Working Paper_. [[HTML](https://arxiv.org/html/2402.01892v1)]
 
+  - Cueva, C., & Iturbe-Ormaetxe, I. (2021). Motivated beliefs about stock returns. _Working Paper_. [[HTML](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3905142)]
+
+  - Friedman, D., & Wang, Z. (2024). Motivated Beliefs Meet in the Marketplace. _Working Paper_. [[HTML](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4771293)]
+  
   - Gonzalez-Fernandez, P. (2024). Belief Bias Identification. _Working Paper_. [[HTML](https://arxiv.org/abs/2404.09297)]
 
   - Thaler, M. (2024). Good News Is Not a Sufficient Condition for Motivated Reasoning. _Working Paper_. [[HTML](https://www.cesifo.org/DocDL/cesifo1_wp10915.pdf)]
 
   - Manili, J. (2024). Disclosure to an heterogeneous audience: The role of motivated beliefs. [[HTML](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4696951)]
 
+  - Yang, S. (2024). Motivated Extrapolative Beliefs. _Working Paper_. [[HTML](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4753510)]
+
+
+
+[[HTML]()]
 
 ##### 2023 papers
 
