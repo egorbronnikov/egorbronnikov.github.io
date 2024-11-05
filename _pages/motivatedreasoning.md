@@ -40,7 +40,7 @@ At the same time, there is [a page devoted to recent papers on belief updating](
 
   - Engelmann, J. B., Lebreton, M., Salem-Garcia, N. A., Schwardmann, P., & van der Weele, J. J. (2024). Anticipatory anxiety and wishful thinking. _American Economic Review_, vol. 114, no. 4, pp. 926--960. [[HTML](https://www.aeaweb.org/articles?id=10.1257/aer.20191068)]
 
-  - Exley, C. L., & Kessler, J. B. (forthcoming). Motivated errors. _American Economic Review_, vol. 114, no. 4, pp. 961--987. [[HTML](https://www.aeaweb.org/articles?id=10.1257/aer.20191849&&from=f)]  <span style="color:gray">[MR]</span> <span style="color:gray">[Exp.]</span>
+  - Exley, C. L., & Kessler, J. B. (2024). Motivated errors. _American Economic Review_, vol. 114, no. 4, pp. 961--987. [[HTML](https://www.aeaweb.org/articles?id=10.1257/aer.20191849&&from=f)]  <span style="color:gray">[MR]</span> <span style="color:gray">[Exp.]</span>
 
   - Huang, W., Wang, Y., & Zhao, X. (2024). Motivated Beliefs, Independence and Cooperation. _European Economic Review_, vol. 8 166, pp. 104748. [[HTML](https://www.sciencedirect.com/science/article/abs/pii/S0014292124000771)] <span style="color:gray">[MR]</span> 
 
