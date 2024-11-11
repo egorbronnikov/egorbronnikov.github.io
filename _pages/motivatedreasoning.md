@@ -64,8 +64,7 @@ At the same time, there is [a page devoted to recent papers on belief updating](
 
   - Exley, C. L., & Kessler, J. B. (2023). Information avoidance and image concerns. _The Economic Journal_, vol. 133, no. 656, pp. 3153--3168. [[HTML](https://academic.oup.com/ej/article-abstract/133/656/3153/7240144)] 
 
-
-  - Le Yaouanq, Y. (2023). A model of voting with motivated beliefs. _Journal of Economic Behavior & Organization_, vol. 213, pp. 394--408. [[HTML](https://www.sciencedirect.com/science/article/pii/S0167268119301763)]
+  - Le Yaouanq, Y. (2023). A model of voting with motivated beliefs. _Journal of Economic Behavior & Organization_, vol. 213, pp. 394--408. [[HTML](https://www.sciencedirect.com/science/article/pii/S0167268123002640)]
 
   - Ruzzier, C. A., & Woo, M. D. (2023). Discrimination with inaccurate beliefs and confirmation bias. _Journal of Economic Behavior & Organization_, vol. 210, pp. 379--390. [[HTML](https://www.sciencedirect.com/science/article/pii/S0167268123001221)]
 
