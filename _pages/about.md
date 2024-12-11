@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <span style="color:gray"> </span>  <b><a href='https://www.maastrichtuniversity.nl/about-um/faculties/school-business-and-economics'>Maastricht University</a></b> | <b><a href='https://www.mercatus.org/'>George Mason University</a></b> | <b><a href='https://freemoscow.university/?lang=en'>Free University of Moscow</a></b>  
+subtitle: <span style="color:gray"> </span>  <b><a href='https://www.maastrichtuniversity.nl/about-um/faculties/school-business-and-economics'>Maastricht University</a></b> | <b><a href='https://www.mercatus.org/'>George Mason University</a></b> | <b><a href='https://freemoscow.university/?lang=en'>Brīvā Universitāte (Svobodny University)</a></b>  
 
 
 profile:
@@ -25,7 +25,7 @@ work_in_progress_papers: false
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a  PhD Candidate and a Tutor at the School of Business and Economics at Maastricht University. Together with [Till Moritz Vater](https://nl.linkedin.com/in/till-moritz-vater-40a212186/en), I am co-organizing the [Interdisciplinary Brown Bag Seminar in Behavioral Sciences](https://sbe.maastrichtuniversity.nl/neuroeconomics/brownbag-seminar/). Additionally, I serve as a <i>pro bono</i> Adjunct Professor of Economics at the School of Science at the [Free University of Moscow (Brīvā Universitāte)](/teaching/).
+I am a  PhD Candidate and a Tutor at the School of Business and Economics at Maastricht University. Together with [Till Moritz Vater](https://nl.linkedin.com/in/till-moritz-vater-40a212186/en), I am co-organizing the [Interdisciplinary Brown Bag Seminar in Behavioral Sciences](https://sbe.maastrichtuniversity.nl/neuroeconomics/brownbag-seminar/). Additionally, I serve as a <i>pro bono</i> Adjunct Professor of Economics at the School of Science at the [Brīvā Universitāte (Svobodny University)](/teaching/).
 
 My research interests are Behavioural and Experimental Economics, (Behavioural) Game Theory, and Political Economy.
 
