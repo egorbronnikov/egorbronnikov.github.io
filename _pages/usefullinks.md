@@ -18,4 +18,7 @@ Here, I have compiled several links on miscellaneous topics that I find useful.
 
   - _[Map of US Colleges and Universities](https://www.google.com/maps/d/viewer?mid=1r0NcKI21QnisjjXxcXwkz8fIZCI&hl=en_US&ll=38.204727210033965%2C-112.63522232333113&z=5)_ : A Google map created by Elite Educational Institute that marks major U.S. universities.
 
+  - A [PDF word count](https://www.aeaweb.org/journals/word-count) from the AEA.
+  
+
 
