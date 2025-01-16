@@ -1,9 +1,9 @@
 ---
 layout: teaching
 permalink: /teaching/
-title: FUM
-description: information about the Free University of Moscow (FUM) and the courses taught
-nav: true
+title: Brīvā Universitāte
+description: information about Brīvā Universitāte (Svobodny University) and the courses taught
+nav: false
 nav_order: 4
 Syllabus_1_pdf: FUM_BehEc_Intro.pdf
 Syllabus_2_pdf: example_pdf.pdf
