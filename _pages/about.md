@@ -29,14 +29,13 @@ I am a  PhD Candidate and a Tutor at the School of Business and Economics at Maa
 
 My research interests are Behavioural and Experimental Economics, (Behavioural) Game Theory, and Political Economy.
 
-In the 2024-2025 academic year, I serve as a <i>pbp</i> visiting lecturer in the Political Science Department at Shaninka University, while concurrently being a [Carl Menger Fellow](https://www.mercatus.org/carl-menger-fellows) at the Mercatus Center at George Mason University.
-During the spring semester, I also visit CREED and ASE at the University of Amsterdam.
+In the 2025–2026 academic year, I will be a U.S.–RAR Fellow and a Malyi Visiting Fellow at the University of Chicago.
 
 Furthermore, I am affiliated with the [Berkeley Initiative for Transparency in the Social Sciences](https://www.bitss.org/people/egor-bronnikov/) (UC Berkeley), the [Institute for Replication](https://i4replication.org/), and [Dissernet](https://www.dissernet.org/).
 
 [comment]: <> ( (read more [here](/affiliations/)) )
 
-Previously, I worked at European University at St. Petersburg, Harvard University, Utrecht University, the University of Vienna, HSE University, and Transparency International Russia.
+Previously, I worked at Shaninka University, European University at St. Petersburg, Harvard University, Utrecht University, the University of Vienna, HSE University, and Transparency International Russia.
 
 [comment]: <> ( (read more [here](/cv/)) )
 
