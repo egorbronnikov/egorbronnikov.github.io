@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-In 2025-2026, I will be visiting IZA (Institute of Labor Economics) in Bonn (fall) and the University of Bonn (spring).
+In 2025-2026, I will be visiting IZA (Institute of Labor Economics) in Bonn (fall) and the University of Chicago (spring).
