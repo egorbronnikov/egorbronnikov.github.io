@@ -25,7 +25,7 @@ At the same time, there is [a page devoted to recent papers on belief updating](
 
 ##### Forthcoming Papers <a name="ForthcomingPapers"></a>
 
-  - Drobner, C., & Goerg, S. J. (forthcoming). Motivated belief updating and rationalization of information. _Management Science_. [[HTML](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2023.02537?af=R)] [[PDF](https://egorbronnikov.github.io/assets/MB/Drobner%20%26%20Goerg%20(2024%2C%20MangSc).pdf)]  <span style="color:gray">[MR]</span> <span style="color:gray">[Exp.]</span>
+  - Drobner, C., & Goerg, S. J. (forthcoming). Motivated belief updating and rationalization of information. _Management Science_. [[HTML](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2023.02537?af=R)]  <span style="color:gray">[MR]</span> <span style="color:gray">[Exp.]</span>
 
   - Hagenbach, J., & Saucet, C. (forthcoming). Motivated Skepticism. _Review of Economic Studies_. [[HTML](https://academic.oup.com/restud/advance-article-abstract/doi/10.1093/restud/rdae058/7685990)]. <span style="color:gray">[MR]</span> <span style="color:gray">[Exp.]</span>
 
@@ -34,7 +34,7 @@ At the same time, there is [a page devoted to recent papers on belief updating](
 
   - Bolte, L., & Fan, T. Q. (2024). Motivated mislearning: The case of correlation neglect. _Journal of Economic Behavior & Organization_, vol. 217, pp. 647--663. [[HTML](https://www.sciencedirect.com/science/article/abs/pii/S0167268123004249)] <span style="color:gray">[MR, CorNeg]</span> <span style="color:gray">[Exp.]</span>
     
-  - Burro, G., & Castagnetti, A. (2024). The ego is no fool: Absence of motivated belief formation in strategic interactions. _Journal of Behavioral and Experimental Economics_, vol. 109, pp. 102167. [[HTML](https://www.sciencedirect.com/science/article/pii/S2214804324000077)]  <span style="color:gray">[MR]</span> <span style="color:gray">[Exp.]</span> <a href="https://egorbronnikov.github.io/assets/MB/Burro%20%26%20Castagnetti%20(2024%2C%20JEBO).pdf" style="color: lightgray;">[PDF]</a>
+  - Burro, G., & Castagnetti, A. (2024). The ego is no fool: Absence of motivated belief formation in strategic interactions. _Journal of Behavioral and Experimental Economics_, vol. 109, pp. 102167. [[HTML](https://www.sciencedirect.com/science/article/pii/S2214804324000077)]  <span style="color:gray">[MR]</span> <span style="color:gray">[Exp.]</span> 
 
   - Coffman, K., Collis, M. R., & Kulkarni, L. (2024). Stereotypes and belief updating. _Journal of the European Economic Association_, vol. 22, no. 3, pp. 1011--1054. [[HTML](https://academic.oup.com/jeea/advance-article-abstract/doi/10.1093/jeea/jvad063/7333976)] <span style="color:gray">[MR]</span> <span style="color:gray">[Exp.]</span>
 
@@ -48,7 +48,7 @@ At the same time, there is [a page devoted to recent papers on belief updating](
 
   - Thaler, M. (2024). The Fake News Effect: Experimentally Identifying Motivated Reasoning Using Trust in News. _American Economic Journal: Microeconomics_. vol. 16, no. 2, pp. 1--38. [[HTML](https://www.aeaweb.org/articles?id=10.1257/mic.20220146)] <span style="color:gray">[MR]</span> 
   
-  - Stötzer, L. S., & Zimmermann, F. (2024). A Representative Survey Experiment of Motivated Climate Change Denial. _Nature Climate Change_, vol. 14, pp. 198--204. [[HTML](https://www.nature.com/articles/s41558-023-01910-2)] [[PDF](https://egorbronnikov.github.io/assets/MB/Stötzer%20%26%20Zimmermann%20(2024%2C%20NatHumBeh).pdf)] <span style="color:gray">[MR]</span> <span style="color:gray">[Exp.]</span>
+  - Stötzer, L. S., & Zimmermann, F. (2024). A Representative Survey Experiment of Motivated Climate Change Denial. _Nature Climate Change_, vol. 14, pp. 198--204. [[HTML](https://www.nature.com/articles/s41558-023-01910-2)] <span style="color:gray">[MR]</span> <span style="color:gray">[Exp.]</span>
 
   - Stötzer, L. S., & Zimmermann, F. (2023). A Note on Motivated Cognition and Discriminatory Beliefs. _Games and Economic Behavior_, vol. 147, pp. 554--562. [[HTML](https://www.sciencedirect.com/science/article/pii/S0899825624001064)]
 
@@ -124,34 +124,33 @@ At the same time, there is [a page devoted to recent papers on belief updating](
 
   - Gneezy, U., Saccardo, S., Serra-Garcia, M., & van Veldhuizen, R. (2020). Bribing the self. _Games and Economic Behavior_, vol. 120, pp. 311--324. [[HTML](https://www.sciencedirect.com/science/article/pii/S0899825619301939)]
 
-  - Molnar, A., & Loewenstein, G. (2022). Chapter 15: Thoughts and Players: An Introduction to Old and New Economic Perspectives on Beliefs (pp. 321--350). In Musolino, J., Sommer, J., & Hemmer, P. (Eds.) _The Cognitive Science of Belief: A Multidisciplinary Approach_. Cambridge University Press. [[HTML](https://www.cambridge.org/core/books/cognitive-science-of-belief/4B06289013C7C18773CE2AF05E1A00ED)] [[PDF](https://egorbronnikov.github.io/assets/MB/Molnar%20%26%20Loewenstein%20(2022).%20Ch%2015.pdf)] <span style="color:gray">[BU, MR]</span> <span style="color:gray">[Rev.]</span> &nbsp;
+  - Molnar, A., & Loewenstein, G. (2022). Chapter 15: Thoughts and Players: An Introduction to Old and New Economic Perspectives on Beliefs (pp. 321--350). In Musolino, J., Sommer, J., & Hemmer, P. (Eds.) _The Cognitive Science of Belief: A Multidisciplinary Approach_. Cambridge University Press. [[HTML](https://www.cambridge.org/core/books/cognitive-science-of-belief/4B06289013C7C18773CE2AF05E1A00ED)]  <span style="color:gray">[BU, MR]</span> <span style="color:gray">[Rev.]</span> &nbsp;
     
   - Solda, A., Ke, C., Page, L., & Von Hippel, W. (2020). Strategically delusional. _Experimental Economics_, vol. 23, pp. 604--631. [[HTML](https://link.springer.com/article/10.1007/s10683-019-09636-9)]
 
   - Stone, D. F. (2020). Just a big misunderstanding? Bias and Bayesian affective polarization. _International Economic Review_, vol. 61, no. 1, 189--217. [[HTML](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/iere.12421)]
 
   - Zimmermann, F. (2020). The dynamics of motivated beliefs. _American Economic Review_, vol. 110, no. 2, pp. 337--363.
-  [[HTML](https://www.aeaweb.org/articles?id=10.1257/aer.20180728)] [[PDF](https://egorbronnikov.github.io/assets/MB/Zimmermann%20(2020).pdf)]  <span style="color:gray">[MR]</span> <span style="color:gray">[Exp.]</span>
+  [[HTML](https://www.aeaweb.org/articles?id=10.1257/aer.20180728)]   <span style="color:gray">[MR]</span> <span style="color:gray">[Exp.]</span>
 
 
 
 ##### 2019 papers
 
-  - Benjamin, D. J. (2019). Chapter 2: Errors in probabilistic reasoning and judgment biases (pp. 69--186). In Bernheim, B. D., DellaVigna, S., & Laibso, D. (Eds.) _Handbook of Behavioral Economics: Applications and Foundations 2_. North-Holland. [[HTML](https://www.sciencedirect.com/science/article/abs/pii/S2352239918300228)] [[PDF](https://egorbronnikov.github.io/assets/MB/Benjamin%20(2019).%20Ch.%202.pdf)]  <span style="color:gray">[BU]</span> <span style="color:gray">[Rev.]</span>
+  - Benjamin, D. J. (2019). Chapter 2: Errors in probabilistic reasoning and judgment biases (pp. 69--186). In Bernheim, B. D., DellaVigna, S., & Laibso, D. (Eds.) _Handbook of Behavioral Economics: Applications and Foundations 2_. North-Holland. [[HTML](https://www.sciencedirect.com/science/article/abs/pii/S2352239918300228)]  <span style="color:gray">[BU]</span> <span style="color:gray">[Rev.]</span>
   
 
-  - Coutts, A. (2019). Good news and bad news are still news: Experimental evidence on belief updating. _Experimental Economics_, vol. 22, no. 2, pp. 369--395. [[HTML](https://link.springer.com/article/10.1007/s10683-018-9572-5)] [[PDF](https://egorbronnikov.github.io/assets/MB/Coutts%20(2019%2C%20EE).pdf)]  <span style="color:gray">[MR]</span> <span style="color:gray">[Exp.]</span>
+  - Coutts, A. (2019). Good news and bad news are still news: Experimental evidence on belief updating. _Experimental Economics_, vol. 22, no. 2, pp. 369--395. [[HTML](https://link.springer.com/article/10.1007/s10683-018-9572-5)]  <span style="color:gray">[MR]</span> <span style="color:gray">[Exp.]</span>
 
   - Druckman, J. N., & McGrath, M. C. (2019). The evidence for motivated reasoning in climate change preference formation. _Nature Climate Change_, vol. 9, no. 2, pp. 111--119. [[HTML](https://www.nature.com/articles/s41558-018-0360-1)]
 
   - Saucet, C., & Villeval, M. C. (2019). Motivated memory in dictator games. _Games and Economic Behavior_, vol. 117, pp. 250--275. [[HTML](https://www.sciencedirect.com/science/article/abs/pii/S0899825619300879)]
 
-  - Schwardmann, P., & Van der Weele, J. (2019). Deception and self-deception. _Nature Human Behaviour_, vol. 3, no. 10, pp.  1055--1061. [[HTML](https://www.nature.com/articles/s41562-019-0666-7)]   <span style="color:gray">[MR]</span> <span style="color:gray">[Exp.]</span>  <a href="https://egorbronnikov.github.io/assets/MB/Schwardmann%20%26%20Van%20der%20Weele%20(2019%2C%20NatHumBeh).pdf" style="color: lightgray;">[PDF]</a>
+  - Schwardmann, P., & Van der Weele, J. (2019). Deception and self-deception. _Nature Human Behaviour_, vol. 3, no. 10, pp.  1055--1061. [[HTML](https://www.nature.com/articles/s41562-019-0666-7)]   <span style="color:gray">[MR]</span> <span style="color:gray">[Exp.]</span>  
 
 
 
-  - Stone, D. F. (2019). “Unmotivated bias” and partisan hostility: Empirical evidence. _Journal of Behavioral and Experimental Economics_, vol. 79, pp. 12--26. [[HTML](https://www.sciencedirect.com/science/article/pii/S221480431830418X)]  [[PDF](https://egorbronnikov.github.io/assets/MB/Stone%20(2019%2C%20JBEE).pdf)] 
-
+  - Stone, D. F. (2019). “Unmotivated bias” and partisan hostility: Empirical evidence. _Journal of Behavioral and Experimental Economics_, vol. 79, pp. 12--26. [[HTML](https://www.sciencedirect.com/science/article/pii/S221480431830418X)] 
 
 
 ##### 2018 papers
@@ -195,7 +194,7 @@ At the same time, there is [a page devoted to recent papers on belief updating](
 
 
 ##### 2023 papers
-  - Haaland, I., Roth, C., & Wohlfart, J. (2023). Designing information provision experiments. _Journal of Economic Literature_, vol. 61, no. 1, pp. 3--40. [[HTML](https://www.aeaweb.org/articles?id=10.1257/jel.20211658)] [[PDF](https://egorbronnikov.github.io/assets/MB/Haaland%20et%20al.%20(2023,%20JEL).pdf)] <span style="color:gray">[Info, B, BU]</span> <span style="color:gray">[Rev.]</span>
+  - Haaland, I., Roth, C., & Wohlfart, J. (2023). Designing information provision experiments. _Journal of Economic Literature_, vol. 61, no. 1, pp. 3--40. [[HTML](https://www.aeaweb.org/articles?id=10.1257/jel.20211658)] <span style="color:gray">[Info, B, BU]</span> <span style="color:gray">[Rev.]</span>
   
   - Maćkowiak, B., Matějka, F., & Wiederholt, M. (2023). Rational inattention: A review. _Journal of Economic Literature_, vol. 61, no. 1, pp. 226--273. [[HTML](https://www.aeaweb.org/articles?id=10.1257/jel.20211524)] <span style="color:gray">[Info, RatInAt]</span> <span style="color:gray">[Rev.]</span>
 
@@ -207,11 +206,11 @@ At the same time, there is [a page devoted to recent papers on belief updating](
 
 
 ##### 2019 papers
-   - Kamenica, E. (2019). Bayesian persuasion and information design. _Annual Review of Economics_, vol. 11,  pp. 249--272.[[HTML](https://www.annualreviews.org/content/journals/10.1146/annurev-economics-080218-025739)] [[PDF](https://egorbronnikov.github.io/assets/MB/Kamenica%20(2019%2C%20ARE).pdf)] <span style="color:gray">[BP]</span> <span style="color:gray">[Rev.]</span>
+   - Kamenica, E. (2019). Bayesian persuasion and information design. _Annual Review of Economics_, vol. 11,  pp. 249--272.[[HTML](https://www.annualreviews.org/content/journals/10.1146/annurev-economics-080218-025739)] <span style="color:gray">[BP]</span> <span style="color:gray">[Rev.]</span>
 
 
 ##### 2017 papers
-   - Golman, R., Hagmann, D., & Loewenstein, G. (2017). Information avoidance. _Journal of Economic Literature_, vol. 55, no. 1, pp. 96--135. [[HTML](https://www.aeaweb.org/articles?id=10.1257/jel.20151245)] [[PDF](https://egorbronnikov.github.io/assets/MB/Golman%20et%20al.%20(2017%2C%20JEL).pdf)]  <span style="color:gray">[Info]</span> <span style="color:gray">[Rev.]</span>
+   - Golman, R., Hagmann, D., & Loewenstein, G. (2017). Information avoidance. _Journal of Economic Literature_, vol. 55, no. 1, pp. 96--135. [[HTML](https://www.aeaweb.org/articles?id=10.1257/jel.20151245)]  <span style="color:gray">[Info]</span> <span style="color:gray">[Rev.]</span>
 
 
 
