@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <span style="color:gray"> </span>  <b><a href='https://www.maastrichtuniversity.nl/about-um/faculties/school-business-and-economics'>Maastricht University</a></b> | <b><a href='https://humdev.uchicago.edu/department/department-of-political-science/department-of-political-science-homepage'>University of Chicago</a></b> | <b><a href='https://freemoscow.university/?lang=en'>Brīvā Universitāte</a></b>  
+subtitle: <span style="color:gray"> </span>  <b><a href='https://www.maastrichtuniversity.nl/about-um/faculties/school-business-and-economics'>Maastricht University</a></b> | <b><a href='https://freemoscow.university/?lang=en'>Brīvā Universitāte</a></b>  
 
 
 
@@ -30,7 +30,7 @@ I am a  PhD Candidate and a Tutor at the School of Business and Economics at Maa
 
 My research interests are Behavioural and Experimental Economics, (Behavioural) Game Theory, and Political Economy.
 
-In the 2025–2026 academic year, I will be a U.S.–RAR Fellow and a Malyi Visiting Fellow at the University of Chicago.
+In the 2025–2026 academic year, I will be a U.S.–RAR Fellow.
 
 Furthermore, I am affiliated with the [Berkeley Initiative for Transparency in the Social Sciences](https://www.bitss.org/people/egor-bronnikov/) (UC Berkeley), the [Institute for Replication](https://i4replication.org/), and [Dissernet](https://www.dissernet.org/).
 
