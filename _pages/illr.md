@@ -186,7 +186,7 @@ nav_order: 3
         Posterior value:
         <span id="posterior-value" class="illr-value">50.00</span>
       </label>
-      <input id="posterior" class="illr-slider" type="range" min="0.01" max="99.99" step="0.5" value="50">
+      <input id="posterior" class="illr-slider" type="range" min="0.5" max="99.5" step="0.5" value="50">
       <div class="illr-ticks">
         <span>0</span><span>10</span><span>20</span><span>30</span><span>40</span><span>50</span><span>60</span><span>70</span><span>80</span><span>90</span><span>100</span>
       </div>
@@ -197,7 +197,7 @@ nav_order: 3
         Prior value:
         <span id="prior-value" class="illr-value">50.00</span>
       </label>
-      <input id="prior" class="illr-slider" type="range" min="0.01" max="99.99" step="0.5" value="50">
+      <input id="prior" class="illr-slider" type="range" min="0.5" max="99.5" step="0.5" value="50">
       <div class="illr-ticks">
         <span>0</span><span>10</span><span>20</span><span>30</span><span>40</span><span>50</span><span>60</span><span>70</span><span>80</span><span>90</span><span>100</span>
       </div>
