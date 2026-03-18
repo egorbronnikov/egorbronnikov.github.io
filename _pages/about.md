@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <span style="color:gray"> </span>  <b><a href='https://www.maastrichtuniversity.nl/about-um/faculties/school-business-and-economics'>Maastricht University</a></b> | <b><a href='https://freemoscow.university/?lang=en'>Brīvā Universitāte</a></b>  
+subtitle: <span style="color:gray"> </span>  <b><a href='https://www.maastrichtuniversity.nl/about-um/faculties/school-business-and-economics'>Maastricht University</a></b> | <b><a href='https://political-science.uchicago.edu/'>University of Chicago</a></b>   | <b><a href='https://freemoscow.university/?lang=en'>Brīvā Universitāte</a></b>  
 
 
 
