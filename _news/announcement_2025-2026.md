@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-In 2025-2026, I will be visiting IZA (Institute of Labor Economics) in Bonn (fall).
+In 2025-2026, I will be a Malyi Visiting Fellow at the University of Chicago.
