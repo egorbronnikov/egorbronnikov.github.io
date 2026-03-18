@@ -327,13 +327,13 @@ nav_order: 3
   }
 
   function updatePlot() {
-    const posterior = Math.min(99.99, Math.max(0.01, parseFloat(posteriorSlider.value)));
-    const prior = Math.min(99.99, Math.max(0.01, parseFloat(priorSlider.value)));
+    const posterior = Math.min(99.5, Math.max(0.5, parseFloat(posteriorSlider.value)));
+    const prior = Math.min(99.5, Math.max(0.5, parseFloat(priorSlider.value)));
 
-    posteriorValue.textContent = posterior.toFixed(2);
-    priorValue.textContent = prior.toFixed(2);
+    posteriorValue.textContent = posterior.toFixed(1);
+    priorValue.textContent = prior.toFixed(1);
 
-    const x = linspace(0.01, 99.99, 500);
+    const x = linspace(0.5, 99.5, 500);
     const y = x.map(px => computeLLR(px, prior));
     const pointLLR = computeLLR(posterior, prior);
 
