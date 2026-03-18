@@ -345,19 +345,19 @@ nav_order: 4
     <table class="summary-table">
       <thead>
         <tr>
-          <th>True state</th>
-          <th>Signal \(s=1\)</th>
+          <th> </th>
+          <th> Signal \(s=1\)</th>
           <th>Signal \(s=0\)</th>
         </tr>
       </thead>
       <tbody>
         <tr>
-          <td>\( \theta=1 \) (passed)</td>
+          <td><b>True state</b>\( \theta=1 \) (passed)</td>
           <td id="tbl-pass-s1">\(1-\alpha\)</td>
           <td id="tbl-pass-s0">\(\alpha\)</td>
         </tr>
         <tr>
-          <td>\( \theta=0 \) (failed)</td>
+          <td><b>True state</b>\( \theta=0 \) (failed)</td>
           <td id="tbl-fail-s1">\(\beta\)</td>
           <td id="tbl-fail-s0">\(1-\beta\)</td>
         </tr>
@@ -546,7 +546,7 @@ nav_order: 4
   }
 
   function fmtProb(x) {
-    return x.toFixed(3);
+    return x.toFixed(2);
   }
 
   function bayesPosteriorS1(pi0, alpha, beta) {
