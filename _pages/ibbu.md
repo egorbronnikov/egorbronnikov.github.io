@@ -558,7 +558,11 @@ nav_order: 4
   }
 
   function fmtProb(x) {
-    return x.toFixed(2);
+  return x.toFixed(2);
+  }
+  
+  function fmtParam(symbol, value) {
+    return symbol + ' = ' + value.toFixed(2);
   }
 
   function bayesPosteriorS1(pi0, alpha, beta) {
@@ -622,14 +626,14 @@ nav_order: 4
       activePosterior.innerHTML = '\\( \\pi_1(s=0) = ' + pct(pS0) + ' \\)';
     }
 
-    lblPriorPass.textContent = fmtProb(pi0);
-    lblPriorFail.textContent = fmtProb(1 - pi0);
-
-    lblA1.textContent = fmtProb(1 - alpha);
-    lblA0.textContent = fmtProb(alpha);
-
-    lblB1.textContent = fmtProb(beta);
-    lblB0.textContent = fmtProb(1 - beta);
+    lblPriorPass.textContent = 'π₀ = ' + fmtProb(pi0);
+    lblPriorFail.textContent = '1−π₀ = ' + fmtProb(1 - pi0);
+    
+    lblA1.textContent = '1−α = ' + fmtProb(1 - alpha);
+    lblA0.textContent = 'α = ' + fmtProb(alpha);
+    
+    lblB1.textContent = 'β = ' + fmtProb(beta);
+    lblB0.textContent = '1−β = ' + fmtProb(1 - beta);
 
     tblPassS1.innerHTML = '\\(' + fmtProb(1 - alpha) + '\\)';
     tblPassS0.innerHTML = '\\(' + fmtProb(alpha) + '\\)';
