@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Bayesian Signal Updating
-permalink: /bayes-signal/
+permalink: /ibbu/
 description: An interactive app for Bayesian belief updating with binary signals
-nav: true
+nav: false
 nav_order: 4
 ---
 
