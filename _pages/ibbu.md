@@ -352,12 +352,12 @@ nav_order: 4
       </thead>
       <tbody>
         <tr>
-          <td><b>True state</b>\( \theta=1 \) (passed)</td>
+          <td><b>True state </b> \( \theta=1 \) (passed)</td>
           <td id="tbl-pass-s1">\(1-\alpha\)</td>
           <td id="tbl-pass-s0">\(\alpha\)</td>
         </tr>
         <tr>
-          <td><b>True state</b>\( \theta=0 \) (failed)</td>
+          <td><b>True state </b> \( \theta=0 \) (failed)</td>
           <td id="tbl-fail-s1">\(\beta\)</td>
           <td id="tbl-fail-s0">\(1-\beta\)</td>
         </tr>
