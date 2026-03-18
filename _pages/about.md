@@ -30,7 +30,7 @@ I am a  PhD Candidate and a Tutor at the School of Business and Economics at Maa
 
 My research interests are Behavioural and Experimental Economics, (Behavioural) Game Theory, and Political Economy.
 
-In the 2025–2026 academic year, I will be a U.S.–RAR Fellow.
+In the 2025--2026 academic year, I will be a U.S.-RAR Fellow as well as a Malyi Visiting Fellow at the University of Chicago.
 
 Furthermore, I am affiliated with the [Berkeley Initiative for Transparency in the Social Sciences](https://www.bitss.org/people/egor-bronnikov/) (UC Berkeley), the [Institute for Replication](https://i4replication.org/), and [Dissernet](https://www.dissernet.org/).
 
