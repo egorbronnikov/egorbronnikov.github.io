@@ -3,34 +3,40 @@
 layout: default
 ---
 
-<!-- projects.html -->
+      
+      <!-- projects.html -->
       <div class="post">
-
-
+      
         <article>
-
+      
           <div class="clearfix">
             {{ content }}
           </div>
-
-          <!-- Working papers -->
-          <!-- {% if page.working_papers -%} -->
-          <!--   <h2><a href="{{ '/papers/' | relative_url }}" style="color: inherit;">Working Papers</a></h2> -->
-          <!--   {%- include working_papers.html %} -->
-          <!-- {%- endif %}   -->
-
+      
+          <!-- Research Papers -->
+          {% if page.research_papers -%}
+            <h2>Research Papers</h2>
+            {%- include research_papers.html %}
+          {%- endif %}
+      
+          <!-- Book Reviews -->
+          {% if page.book_reviews -%}
+            <h2>Book Reviews</h2>
+            {%- include book_reviews.html %}
+          {%- endif %}
+      
           <!-- Working papers -->
           {% if page.working_papers -%}
             <h2>Working Papers</h2>
             {%- include working_papers.html %}
           {%- endif %}                
-
+      
           <!-- Work In Progress papers -->
           {% if page.work_in_progress_papers -%}
             <h2><a href="{{ '/papers/' | relative_url }}" style="color: inherit;">Work In Progress</a></h2>
             {%- include work_in_progress_papers.html %}
           {%- endif %}   
-
+      
         </article>
 
 </div>
