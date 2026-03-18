@@ -60,19 +60,12 @@ nav_order: 4
     font-weight: 300;
   }
 
-  .bayes-grid {
-    display: grid;
-    grid-template-columns: 1.15fr 0.85fr;
-    gap: 24px;
-    align-items: start;
-    margin-bottom: 28px;
-  }
-
   .bayes-card {
     background: rgba(255,255,255,0.18);
     border: 1px solid rgba(0,0,0,0.06);
     border-radius: 16px;
     padding: 20px 20px 18px;
+    margin-bottom: 24px;
   }
 
   .bayes-card-title {
@@ -80,6 +73,58 @@ nav_order: 4
     font-size: 1.15rem;
     color: var(--text);
     margin: 0 0 12px;
+  }
+
+  .tree-wrap {
+    background: #fff8ee;
+    border: 1px solid rgba(0,0,0,0.08);
+    border-radius: 16px;
+    padding: 14px;
+  }
+
+  .tree-caption {
+    font-family: var(--sans);
+    font-size: 0.92rem;
+    color: var(--muted);
+    margin-top: 8px;
+    line-height: 1.5;
+  }
+
+  .summary-table-wrap {
+    background: #fff8ee;
+    border: 1px solid rgba(0,0,0,0.08);
+    border-radius: 16px;
+    padding: 14px;
+    margin-top: 16px;
+  }
+
+  .summary-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-family: var(--sans);
+    font-size: 0.96rem;
+    color: var(--text);
+  }
+
+  .summary-table th,
+  .summary-table td {
+    padding: 10px 12px;
+    border-bottom: 1px solid rgba(0,0,0,0.08);
+    text-align: center;
+  }
+
+  .summary-table th:first-child,
+  .summary-table td:first-child {
+    text-align: left;
+  }
+
+  .summary-table tr:last-child td {
+    border-bottom: none;
+  }
+
+  .summary-table thead th {
+    font-weight: 600;
+    background: rgba(255,255,255,0.35);
   }
 
   .bayes-control {
@@ -227,48 +272,6 @@ nav_order: 4
     text-align: center;
     margin: 8px 0;
   }
-
-  .tree-wrap {
-    background: #fff8ee;
-    border: 1px solid rgba(0,0,0,0.08);
-    border-radius: 16px;
-    padding: 14px;
-  }
-
-  .tree-caption {
-    font-family: var(--sans);
-    font-size: 0.92rem;
-    color: var(--muted);
-    margin-top: 8px;
-    line-height: 1.5;
-  }
-
-  .section-title {
-    font-family: var(--serif);
-    font-size: 1.2rem;
-    color: var(--text);
-    margin: 30px 0 14px;
-  }
-
-  .section-text {
-    font-family: var(--serif);
-    font-size: 1.02rem;
-    line-height: 1.8;
-    color: var(--text);
-    margin: 0 0 16px;
-  }
-
-  .math-block {
-    text-align: center;
-    margin: 20px 0 26px;
-    color: var(--text);
-  }
-
-  @media (max-width: 860px) {
-    .bayes-grid {
-      grid-template-columns: 1fr;
-    }
-  }
 </style>
 
 <div class="bayes-wrap">
@@ -278,137 +281,164 @@ nav_order: 4
       A small interactive page for exploring Bayesian belief updating with a binary state, a noisy binary signal, and live posterior calculations.
     </p>
 
-    <div class="bayes-grid">
-      <div class="bayes-card">
-        <h2 class="bayes-card-title">Signal structure</h2>
+<div class="bayes-card">
+  <h2 class="bayes-card-title">Signal structure</h2>
 
-        <div class="tree-wrap">
-          <svg id="signal-tree" viewBox="0 0 760 360" width="100%" aria-label="Signal tree diagram">
-            <!-- lines -->
-            <line x1="70" y1="180" x2="260" y2="100" stroke="#444" stroke-width="2"/>
-            <line x1="70" y1="180" x2="260" y2="260" stroke="#444" stroke-width="2"/>
+  <div class="tree-wrap">
+    <svg id="signal-tree" viewBox="0 0 760 420" width="100%" aria-label="Signal tree diagram">
+      <!-- main branches -->
+      <line x1="70" y1="210" x2="260" y2="120" stroke="#444" stroke-width="2"/>
+      <line x1="70" y1="210" x2="260" y2="300" stroke="#444" stroke-width="2"/>
 
-            <line x1="260" y1="100" x2="520" y2="70" stroke="#444" stroke-width="2"/>
-            <line x1="260" y1="100" x2="520" y2="170" stroke="#444" stroke-width="2"/>
+      <!-- theta = 1 branches -->
+      <line x1="260" y1="120" x2="560" y2="70" stroke="#444" stroke-width="2"/>
+      <line x1="260" y1="120" x2="560" y2="170" stroke="#444" stroke-width="2"/>
 
-            <line x1="260" y1="260" x2="520" y2="170" stroke="#444" stroke-width="2"/>
-            <line x1="260" y1="260" x2="520" y2="290" stroke="#444" stroke-width="2"/>
+      <!-- theta = 0 branches -->
+      <line x1="260" y1="300" x2="560" y2="250" stroke="#444" stroke-width="2"/>
+      <line x1="260" y1="300" x2="560" y2="350" stroke="#444" stroke-width="2"/>
 
-            <!-- nodes -->
-            <circle cx="70" cy="180" r="9" fill="#fff" stroke="#222" stroke-width="2"/>
-            <circle cx="260" cy="100" r="7" fill="#0039a6"/>
-            <circle cx="260" cy="260" r="7" fill="#0039a6"/>
-            <circle cx="520" cy="70" r="7" fill="#aa0000"/>
-            <circle cx="520" cy="170" r="7" fill="#aa0000"/>
-            <circle cx="520" cy="290" r="7" fill="#aa0000"/>
+      <!-- nodes -->
+      <circle cx="70" cy="210" r="9" fill="#fff" stroke="#222" stroke-width="2"/>
+      <circle cx="260" cy="120" r="7" fill="#0039a6"/>
+      <circle cx="260" cy="300" r="7" fill="#0039a6"/>
 
-            <!-- state labels -->
-            <text x="232" y="82" font-family="Inter, sans-serif" font-size="21" fill="#111">θ = 1</text>
-            <text x="232" y="282" font-family="Inter, sans-serif" font-size="21" fill="#111">θ = 0</text>
+      <circle cx="560" cy="70" r="7" fill="#aa0000"/>
+      <circle cx="560" cy="170" r="7" fill="#aa0000"/>
+      <circle cx="560" cy="250" r="7" fill="#aa0000"/>
+      <circle cx="560" cy="350" r="7" fill="#aa0000"/>
 
-            <!-- signal labels -->
-            <text x="550" y="76" font-family="Inter, sans-serif" font-size="21" fill="#111">s = 1</text>
-            <text x="550" y="176" font-family="Inter, sans-serif" font-size="21" fill="#111">s = 0</text>
-            <text x="550" y="296" font-family="Inter, sans-serif" font-size="21" fill="#111">s = 0</text>
+      <!-- labels -->
+      <text x="232" y="102" font-family="Inter, sans-serif" font-size="21" fill="#111">θ = 1</text>
+      <text x="232" y="322" font-family="Inter, sans-serif" font-size="21" fill="#111">θ = 0</text>
 
-            <!-- branch labels -->
-            <text id="lbl-prior-pass" x="150" y="120" font-family="Inter, sans-serif" font-size="18" fill="#111">π₀</text>
-            <text id="lbl-prior-fail" x="145" y="250" font-family="Inter, sans-serif" font-size="18" fill="#111">1 − π₀</text>
+      <text x="590" y="76" font-family="Inter, sans-serif" font-size="21" fill="#111">s = 1</text>
+      <text x="590" y="176" font-family="Inter, sans-serif" font-size="21" fill="#111">s = 0</text>
+      <text x="590" y="256" font-family="Inter, sans-serif" font-size="21" fill="#111">s = 1</text>
+      <text x="590" y="356" font-family="Inter, sans-serif" font-size="21" fill="#111">s = 0</text>
 
-            <text id="lbl-a1" x="375" y="64" font-family="Inter, sans-serif" font-size="18" fill="#111">1 − α</text>
-            <text id="lbl-a0" x="375" y="150" font-family="Inter, sans-serif" font-size="18" fill="#111">α</text>
+      <!-- branch labels -->
+      <text id="lbl-prior-pass" x="145" y="130" font-family="Inter, sans-serif" font-size="18" fill="#111">π₀</text>
+      <text id="lbl-prior-fail" x="140" y="285" font-family="Inter, sans-serif" font-size="18" fill="#111">1 − π₀</text>
 
-            <text id="lbl-b1" x="375" y="203" font-family="Inter, sans-serif" font-size="18" fill="#111">β</text>
-            <text id="lbl-b0" x="385" y="295" font-family="Inter, sans-serif" font-size="18" fill="#111">1 − β</text>
+      <text id="lbl-a1" x="392" y="84" font-family="Inter, sans-serif" font-size="18" fill="#111">1 − α</text>
+      <text id="lbl-a0" x="395" y="154" font-family="Inter, sans-serif" font-size="18" fill="#111">α</text>
 
-            <!-- path highlights -->
-            <line id="path-s1-pass" x1="260" y1="100" x2="520" y2="70" stroke="#aa0000" stroke-width="5" opacity="0.10"/>
-            <line id="path-s1-fail" x1="260" y1="260" x2="520" y2="170" stroke="#aa0000" stroke-width="5" opacity="0.10"/>
-            <line id="path-s0-pass" x1="260" y1="100" x2="520" y2="170" stroke="#0039a6" stroke-width="5" opacity="0.10"/>
-            <line id="path-s0-fail" x1="260" y1="260" x2="520" y2="290" stroke="#0039a6" stroke-width="5" opacity="0.10"/>
-          </svg>
+      <text id="lbl-b1" x="400" y="244" font-family="Inter, sans-serif" font-size="18" fill="#111">β</text>
+      <text id="lbl-b0" x="395" y="344" font-family="Inter, sans-serif" font-size="18" fill="#111">1 − β</text>
 
-          <div class="tree-caption">
-            The state is \( \theta \in \{0,1\} \), where \( \theta=1 \) means “passed” and \( \theta=0 \) means “failed.”
-            The signal is \( s \in \{0,1\} \), where \( s=1 \) is a signal in favor of passing and \( s=0 \) is a signal in favor of failing.
-          </div>
-        </div>
-      </div>
+      <!-- highlights -->
+      <line id="path-s1-pass" x1="260" y1="120" x2="560" y2="70" stroke="#aa0000" stroke-width="6" opacity="0.12"/>
+      <line id="path-s1-fail" x1="260" y1="300" x2="560" y2="250" stroke="#aa0000" stroke-width="6" opacity="0.12"/>
 
-      <div class="bayes-card">
-        <h2 class="bayes-card-title">Controls</h2>
+      <line id="path-s0-pass" x1="260" y1="120" x2="560" y2="170" stroke="#0039a6" stroke-width="6" opacity="0.12"/>
+      <line id="path-s0-fail" x1="260" y1="300" x2="560" y2="350" stroke="#0039a6" stroke-width="6" opacity="0.12"/>
+    </svg>
 
-        <div class="bayes-control">
-          <div class="bayes-label">
-            <span>Prior \( \pi_0 = \mathbb{P}(\theta=1) \)</span>
-            <span id="prior-display" class="bayes-value">50.0%</span>
-          </div>
-          <input id="prior-slider" class="bayes-slider" type="range" min="0.5" max="99.5" step="0.5" value="50">
-          <div class="bayes-ticks">
-            <span>0</span><span>10</span><span>20</span><span>30</span><span>40</span><span>50</span><span>60</span><span>70</span><span>80</span><span>90</span><span>100</span>
-          </div>
-        </div>
+    <div class="tree-caption">
+      The state is \( \theta \in \{0,1\} \), where \( \theta=1 \) means “passed” and \( \theta=0 \) means “failed.”
+      The signal is \( s \in \{0,1\} \), where \( s=1 \) is a signal in favor of passing and \( s=0 \) is a signal in favor of failing.
+    </div>
+  </div>
 
-        <div class="bayes-control">
-          <div class="bayes-label">
-            <span>\( \alpha \) (false negative)</span>
-            <span id="alpha-display" class="bayes-value">20.0%</span>
-          </div>
-          <input id="alpha-slider" class="bayes-slider" type="range" min="0.0" max="99.5" step="0.5" value="20">
-          <div class="bayes-help">
-            \( \alpha = \mathbb{P}(s=0 \mid \theta=1) \). So \( 1-\alpha = \mathbb{P}(s=1 \mid \theta=1) \).
-          </div>
-        </div>
+  <div class="summary-table-wrap">
+    <table class="summary-table">
+      <thead>
+        <tr>
+          <th>True state</th>
+          <th>Signal \(s=1\)</th>
+          <th>Signal \(s=0\)</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>\( \theta=1 \) (passed)</td>
+          <td id="tbl-pass-s1">\(1-\alpha\)</td>
+          <td id="tbl-pass-s0">\(\alpha\)</td>
+        </tr>
+        <tr>
+          <td>\( \theta=0 \) (failed)</td>
+          <td id="tbl-fail-s1">\(\beta\)</td>
+          <td id="tbl-fail-s0">\(1-\beta\)</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
 
-        <div class="bayes-control">
-          <div class="bayes-label">
-            <span>\( \beta \) (false positive)</span>
-            <span id="beta-display" class="bayes-value">20.0%</span>
-          </div>
-          <input id="beta-slider" class="bayes-slider" type="range" min="0.0" max="99.5" step="0.5" value="20">
-          <div class="bayes-help">
-            \( \beta = \mathbb{P}(s=1 \mid \theta=0) \). So \( 1-\beta = \mathbb{P}(s=0 \mid \theta=0) \).
-          </div>
-        </div>
+<div class="bayes-card">
+  <h2 class="bayes-card-title">Controls</h2>
 
-        <div class="bayes-control">
-          <div class="bayes-label">
-            <span>Observed signal</span>
-          </div>
-          <div class="signal-toggle">
-            <button id="signal-one" class="signal-btn active" type="button">\( s = 1 \) (“passed”)</button>
-            <button id="signal-zero" class="signal-btn" type="button">\( s = 0 \) (“failed”)</button>
-          </div>
-        </div>
+  <div class="bayes-control">
+    <div class="bayes-label">
+      <span>Prior \( \pi_0 = \mathbb{P}(\theta=1) \)</span>
+      <span id="prior-display" class="bayes-value">50.0%</span>
+    </div>
+    <input id="prior-slider" class="bayes-slider" type="range" min="0.5" max="99.5" step="0.5" value="50">
+    <div class="bayes-ticks">
+      <span>0</span><span>10</span><span>20</span><span>30</span><span>40</span><span>50</span><span>60</span><span>70</span><span>80</span><span>90</span><span>100</span>
+    </div>
+  </div>
 
-        <div class="posterior-boxes">
-          <div id="box-s1" class="posterior-box active">
-            <div class="posterior-label">Posterior if \( s=1 \)</div>
-            <div id="post-s1" class="posterior-number">80.0%</div>
-            <div class="posterior-note">
-              \( \pi_1(s=1)=\mathbb{P}(\theta=1\mid s=1) \)
-            </div>
-          </div>
+  <div class="bayes-control">
+    <div class="bayes-label">
+      <span>\( \alpha \) (false negative)</span>
+      <span id="alpha-display" class="bayes-value">20.0%</span>
+    </div>
+    <input id="alpha-slider" class="bayes-slider" type="range" min="0.0" max="99.5" step="0.5" value="20">
+    <div class="bayes-help">
+      \( \alpha = \mathbb{P}(s=0 \mid \theta=1) \), so \( 1-\alpha = \mathbb{P}(s=1 \mid \theta=1) \).
+    </div>
+  </div>
 
-          <div id="box-s0" class="posterior-box">
-            <div class="posterior-label">Posterior if \( s=0 \)</div>
-            <div id="post-s0" class="posterior-number">20.0%</div>
-            <div class="posterior-note">
-              \( \pi_1(s=0)=\mathbb{P}(\theta=1\mid s=0) \)
-            </div>
-          </div>
-        </div>
+  <div class="bayes-control">
+    <div class="bayes-label">
+      <span>\( \beta \) (false positive)</span>
+      <span id="beta-display" class="bayes-value">20.0%</span>
+    </div>
+    <input id="beta-slider" class="bayes-slider" type="range" min="0.0" max="99.5" step="0.5" value="20">
+    <div class="bayes-help">
+      \( \beta = \mathbb{P}(s=1 \mid \theta=0) \), so \( 1-\beta = \mathbb{P}(s=0 \mid \theta=0) \).
+    </div>
+  </div>
 
-        <div class="formula-box">
-          <div style="font-family: Inter, sans-serif; font-size: 0.95rem; color: #555;">
-            Active posterior for the selected signal:
-          </div>
-          <div id="active-posterior" class="math" style="font-size: 1.35rem;">
-            \( \pi_1 = 80.0\% \)
-          </div>
-        </div>
+  <div class="bayes-control">
+    <div class="bayes-label">
+      <span>Observed signal</span>
+    </div>
+    <div class="signal-toggle">
+      <button id="signal-one" class="signal-btn active" type="button">\( s = 1 \) (“passed”)</button>
+      <button id="signal-zero" class="signal-btn" type="button">\( s = 0 \) (“failed”)</button>
+    </div>
+  </div>
+
+  <div class="posterior-boxes">
+    <div id="box-s1" class="posterior-box active">
+      <div class="posterior-label">Posterior if \( s=1 \)</div>
+      <div id="post-s1" class="posterior-number">80.0%</div>
+      <div class="posterior-note">
+        \( \pi_1(s=1)=\mathbb{P}(\theta=1\mid s=1) \)
       </div>
     </div>
+
+    <div id="box-s0" class="posterior-box">
+      <div class="posterior-label">Posterior if \( s=0 \)</div>
+      <div id="post-s0" class="posterior-number">20.0%</div>
+      <div class="posterior-note">
+        \( \pi_1(s=0)=\mathbb{P}(\theta=1\mid s=0) \)
+      </div>
+    </div>
+  </div>
+
+  <div class="formula-box">
+    <div style="font-family: Inter, sans-serif; font-size: 0.95rem; color: #555;">
+      Active posterior for the selected signal:
+    </div>
+    <div id="active-posterior" class="math" style="font-size: 1.35rem;">
+      \( \pi_1 = 80.0\% \)
+    </div>
+  </div>
+</div>
 
     <h2 class="section-title">Setup</h2>
     <p class="section-text">
@@ -504,6 +534,11 @@ nav_order: 4
   const pathS0Pass = document.getElementById('path-s0-pass');
   const pathS0Fail = document.getElementById('path-s0-fail');
 
+  const tblPassS1 = document.getElementById('tbl-pass-s1');
+  const tblPassS0 = document.getElementById('tbl-pass-s0');
+  const tblFailS1 = document.getElementById('tbl-fail-s1');
+  const tblFailS0 = document.getElementById('tbl-fail-s0');
+
   let activeSignal = 1;
 
   function pct(x) {
@@ -584,8 +619,19 @@ nav_order: 4
     lblB1.textContent = fmtProb(beta);
     lblB0.textContent = fmtProb(1 - beta);
 
+    tblPassS1.innerHTML = '\\(' + fmtProb(1 - alpha) + '\\)';
+    tblPassS0.innerHTML = '\\(' + fmtProb(alpha) + '\\)';
+    tblFailS1.innerHTML = '\\(' + fmtProb(beta) + '\\)';
+    tblFailS0.innerHTML = '\\(' + fmtProb(1 - beta) + '\\)';
+
     if (window.MathJax && window.MathJax.typesetPromise) {
-      MathJax.typesetPromise([activePosterior]).catch(() => {});
+      MathJax.typesetPromise([
+        activePosterior,
+        tblPassS1,
+        tblPassS0,
+        tblFailS1,
+        tblFailS0
+      ]).catch(() => {});
     }
   }
 
