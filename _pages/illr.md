@@ -3,7 +3,7 @@ layout: page
 title: Interactive LLR
 permalink: /illr/
 description: An interactive app for exploring the Log-Likelihood Ratio
-nav: true
+nav: false
 nav_order: 3
 ---
 
