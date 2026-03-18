@@ -341,29 +341,31 @@ nav_order: 4
     </div>
   </div>
 
-  <div class="summary-table-wrap">
-    <table class="summary-table">
-      <thead>
-        <tr>
-          <th> </th>
-          <th> Signal \(s=1\)</th>
-          <th>Signal \(s=0\)</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><b>True state</b>\( \theta=1 \) (passed)</td>
-          <td id="tbl-pass-s1">\(1-\alpha\)</td>
-          <td id="tbl-pass-s0">\(\alpha\)</td>
-        </tr>
-        <tr>
-          <td><b>True state</b>\( \theta=0 \) (failed)</td>
-          <td id="tbl-fail-s1">\(\beta\)</td>
-          <td id="tbl-fail-s0">\(1-\beta\)</td>
-        </tr>
-      </tbody>
-    </table>
-  </div>
+<div class="summary-table-wrap">
+  <table class="summary-table" border="1" cellspacing="0" cellpadding="5">
+    <thead>
+      <tr>
+        <th rowspan="2">θ (True state)</th>
+        <th colspan="2">Signal</th>
+      </tr>
+      <tr>
+        <th>s = 1</th>
+        <th>s = 0</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>\(\theta = 1\) (passed)</td>
+        <td id="tbl-pass-s1">\((1-\alpha)\)</td>
+        <td id="tbl-pass-s0">\(\alpha\)</td>
+      </tr>
+      <tr>
+        <td>\(\theta = 0\) (failed)</td>
+        <td id="tbl-fail-s1">\(\beta\)</td>
+        <td id="tbl-fail-s0">\((1-\beta)\)</td>
+      </tr>
+    </tbody>
+  </table>
 </div>
 
 <div class="bayes-card">
@@ -466,7 +468,17 @@ nav_order: 4
 
     <p class="section-text">
       where \( \alpha,\beta\in[0,1] \) are the false-negative and false-positive rates, respectively.
-    </p>
+      </p>
+      
+  <div class="section-text">
+    The likelihoods describe how informative the signal is about the true state of the world. 
+    They answer a simple question: if a given state were true, how likely would we be to observe a particular signal?
+  </div>
+  
+  <div class="section-text">
+    In this setting, two types of mistakes can occur. A false negative arises when the decision-maker actually passed 
+    the exam (\( \theta = 1 \)) but receives a “fail” signal (\( s=0 \)); this happens with probability \( \alpha \). 
+    A false positive arises when the decision-maker actually failed (\( \theta = 0 \))
 
     <h2 class="section-title">Posterior beliefs</h2>
     <p class="section-text">
