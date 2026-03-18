@@ -27,8 +27,6 @@ nav_order: 3
     --red: #aa0000;
     --text: #111111;
     --muted: #555555;
-    --serif: "Libre Baskerville", serif;
-    --sans: "Inter", sans-serif;
   }
 
   .illr-wrap {
