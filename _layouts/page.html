@@ -27,16 +27,22 @@ layout: default
              {%- include published_papers.html %}
           {%- endif %}
 
-           <!-- NEW: Research papers -->
+           <!-- Research papers -->
           {% if page.research_papers -%}
             <h2><a href="{{ '/papers/' | relative_url }}" style="color: inherit;">Research Papers</a></h2>
             {%- include research_papers.html %}
           {%- endif %}
         
-          <!-- NEW: Book reviews -->
+          <!-- Book reviews -->
           {% if page.book_reviews -%}
             <h2><a href="{{ '/papers/' | relative_url }}" style="color: inherit;">Book Reviews</a></h2>
             {%- include book_reviews.html %}
+          {%- endif %}    
+
+          <!-- Policy reports -->
+          {% if page.policy_reports -%}
+            <h2><a href="{{ '/papers/' | relative_url }}" style="color: inherit;">Policy Reports</a></h2>
+            {%- include policy_reports.html %}
           {%- endif %}    
                 
           <!-- Working papers -->
