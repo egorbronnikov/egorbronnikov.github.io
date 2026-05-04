@@ -2,9 +2,9 @@
   - firstname: ["Jon", "J."]
     url: https://www.psychol.cam.ac.uk/staff/jon-roozenbeek
 
-"van der Linden":
-  - firstname: ["Sander", "S."]
-    url: https://www.psychol.cam.ac.uk/people/sander-van-der-linden
+"Linden":
+  - firstname: ["Sander van der", "S."]
+    url: https://www.sandervanderlinden.com/
 
 "Deryugina":
   - firstname: ["Tatyana", "T."]
